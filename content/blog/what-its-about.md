@@ -1,0 +1,25 @@
+---
+layout: post
+title: "What My Dissertation Is About"
+date: 2020-02-24
+tags:
+- dissertation
+---
+
+*NB: I revised this abstract in July 2020 as I developed on my job materials. I think I'll keep updating it accordingly as things progress. Check the revision history for this page (linked at the bottom) if you're interested in past iterations.*
+
+Over the past few weeks I've been applying for a flurry of dissertation completion fellowships. One of the great tragedies of the contemporary academy is that so much of our intellectual energy and labor goes not to the actual work of doing our research, but rather composing and recomposing meta-texts that describe our research such that we might secure funding or gainful employment through which to actually do the work itself. This is, of course, tiresome. And I can only imagine for those slogging away at the job market and/or well into their careers in various fashions the whole thing rapidly becomes an exercise in tedium. In this way, I'm lucky that I'm early enough in my career that this exercise still retains some usefulness viz. clarifying my thinking, communicating my research to a broad audience, etc. so on and so forth. 
+
+And so in the spirit of "well, I wrote it, and I might as well use it for something rather than filing all that labor away in the pit of my laptop forever," I thought I'd share a recent abstract that I prepared that describes, in exactly five hundred words, what I think my dissertation is about as of c. mid-February 2020. 
+
+***
+
+## Abstract
+
+My dissertation, "Atmospheric Media: Computation and the Environmental Imagination," combines media and environmental studies to explore how artists, technologists, and critics imagine computation in terms of physical and cultural *atmospheres*. An under-theorized term in media studies, "atmosphere" has material and cultural resonances: our personal data live in "the cloud"; online and offline social "climates" blur; and our devices are implicated in a climate crisis that destabilizes the skies themselves. I argue that these shifting atmospheric metaphors reveal how deeply computing and the air are intertwined. Contemporary media scholars such as Nicole Starosielski, Jussi Parikka, and John Durham Peters have pushed media studies to engage environmental topics, from infrastructure to resource extraction. "Atmospheric Media" builds on this work to explore the cultural challenges facing an "environmental" media studies. For example, the "cloud" of cloud computing becomes far less metaphorical in light of its material impacts on the planet, as well as more subtle questions of how it regulates our ability to analyze environments more generally. 
+
+"Atmospheric Media" tracks these questions across diverse print, visual, and digital cultures, from the science fiction stories of Ted Chiang to fieldwork in Virginia's "Data Center Alley." I argue that these texts constitute a new discursive category within media studies that I call "atmospheric media." These are media that *analyze* atmospheres, as in the big data of computational weather forecasting, but also *produce* atmospheres that condition cultural understandings of the environment. My dissertation's primary contribute is then to argue that these new kinds of media objects structure our imagination of the environment in unprecedented ways. 
+
+My first chapter traces the human breath across media history. With examples ranging from 19th century experiments in steam-powered computation to contemporary 3D printers, I explore how digital media rely on and threaten breath. My second chapter turns to air conditioning in data centers, arguing that air conditioning technologies mitigate against data's inevitable thermal collapse. Through a close reading of the data center company Equinix, I demonstrate how air conditioning permits a fragile alliance between ideas of the internet's sustainability and its security. My third chapter investigates "weather interfaces," technologies for analyzing, representing, and predicting the weather. I trace the role meteorological technologies such as weather maps play in the work of contemporary media artists such as J.R. Carpenter and Johanna Drucker, who interrogate the relationships between weather and data. Finally, in my fourth chapter, I engage contemporary technologies of sentiment analysis, which algorithmically classify the emotional "atmosphere" of written texts. Sentiment analysis pervades social media, in turn intensifying new kinds of digital surveillance. This is a surveillance of *feeling*, one constituting a total environment for regulating our interactions online. 
+
+Media studies takes its first steps toward an environmental orientation. "Atmospheric Media" argues that this orientation must combine attention to media's technical qualities with their cultural work. Like atmospheres, media are expansive, quietly structuring new qualities of life. In its attention to atmosphere, my dissertation reveals our how media are fully environmental. 
