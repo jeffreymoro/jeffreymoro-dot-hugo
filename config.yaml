@@ -1,0 +1,30 @@
+baseURL: "https://jeffreymoro.com/"
+languageCode: "en-us"
+title: "Jeffrey Moro"
+subtitle: "vapor / wear"
+theme: cupper-hugo-theme
+
+pluralizelisttitles: "false"
+
+permalinks:
+  blog: /blog/:year-:month-:day-:filename
+#  research:
+#  teaching:
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
+    - name: CV
+      url: /cv/
+      weight: 2
+    - name: Research
+      url: /research/
+      weight: 3
+    - name: Teaching
+      url: /teaching/
+      weight: 4
+    - name: Blog
+      url: /blog/
+      weight: 5
