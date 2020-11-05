@@ -35,7 +35,7 @@ employment:
     date: "2018–Present"
     context: "As a graduate instructor, I teach a mixture of courses in digital media studies, film studies, and composition."
   - title: Site Manager
-    company: <i>Romantic Circles</i>
+    company: "*Romantic Circles*"
     company-latex: \emph{Romantic Circles}
     date: "2016–18"
     context: "I managed the intake and processing of site content for the oldest digital scholarly journal for Romantic literary studies. This included everything from corresponding with editors and contributors, copyediting essays, marking up work in TEI, and deploying content to a Drupal environment. With our technical editor, I executed a comprehensive redesign of the site and authored white papers on directions it might take in the future."
@@ -82,7 +82,7 @@ other:
 
 ########### Talks ###########
 
-conference-talks:
+conferenceTalks:
   - title: "Time is a Difference of Pressure: Breath-Critical Approaches to Environmental Media Studies"
     institution: Modern Language Association
     location: Toronto
@@ -139,7 +139,7 @@ conference-talks:
     event: "Emerging Digital Scholars: Undergraduates and Digital Humanities"
     url: ""
 
-conference-other:
+conferenceOther:
   - title: "Reflections on the Post-Post-Baccalaureate"
     institution: Five College Blended Learning and Digital Humanities
     location: (virtual)
@@ -194,7 +194,7 @@ fellowships:
 awards:
   - title: Association for Computers and the Humanities Conference Travel Subvention
     date: "2019"
-    secondary: "For &ldquo;ACH2019&rdquo;"
+    secondary: 'For “ACH2019”'
     latex: ""
   - title: Michael S. Mahoney Travel Award
     date: "2018"
@@ -218,7 +218,7 @@ awards:
     latex: ""
 
 ########### Courses and Workshops ###########
-courses-umd:
+coursesUMD:
   - title: "Film Form and Culture"
     date: 2020
     url: "/teaching/umd/engl245/"
@@ -229,7 +229,7 @@ courses-umd:
     date: 2018, 2019
     url: "/teaching/umd/engl101/"
 
-courses-smith:
+coursesSmith:
   - title: "Media Archaeology, Climate Change, and the Digital (Non)humanities"
     date: "2016. (January-term course)"
     url: "https://ecomedia.jeffreymoro.com"
@@ -277,7 +277,7 @@ projects:
     date: "2014–15"
     context: "A hybrid makerspace and workgroup exploring, historicizing, and critiquing creative robotics in the undergraduate classroom and the world at large. Funded by Five College Digital Humanities."
 
-minor-projects:
+minorProjects:
   - title: "Still Life in Digital: Black Life, Trauma, and Social Media"
     role: Co-author with Marisa Parham
     url: "http://stilllife.mp285.com"

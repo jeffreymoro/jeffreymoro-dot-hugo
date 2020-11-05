@@ -1,0 +1,20 @@
+<h3>Courses of Record</h3>
+
+<h4>UMD</h4>
+
+{{ range .Site.Data.cv.coursesUMD }}
+	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}.</p>
+{{ end }}
+
+<h4>Smith College</h4>
+
+{{ range .Site.Data.cv.coursesSmith }}
+	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}.</p>
+{{ end }}
+
+<h3>Workshops Led</h3>
+
+{{ range .Site.Data.cv.workshop }}
+	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .organizer }}, {{ .location }}. {{ .date }}.</p>
+{{ end }}
+

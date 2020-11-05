@@ -4,36 +4,36 @@ title: CV
 
 ## Education
 
-{{< education >}}
+{{< cv-education >}}
 
 ## Employment
 
-{{< employment >}}
+{{< cv-employment >}}
 
 ## Publications
 
-{{< publications >}}
+{{< cv-publications >}}
 
 ## Presentations
 
-{{< presentations >}}
+{{< cv-presentations >}}
 
 ## Awards & Grants
 
-{{< awards >}}
+{{< cv-awards >}}
 
 ## Teaching
 
-{{< courses >}}
+{{< cv-courses >}}
 
 ## Digital Projects
 
-{{< digital >}}
+{{< cv-digital >}}
 
 ## Memberships & Service
 
-{{< service >}}
+{{< cv-service >}}
 
 ## Skills
 
-{{< skills >}}
+{{< cv-skills >}}

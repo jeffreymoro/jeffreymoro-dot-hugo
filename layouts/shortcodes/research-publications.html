@@ -1,0 +1,20 @@
+<h3>Peer-Reviewed Articles</h3>
+
+{{ range .Site.Data.research.journals }}
+	<p>{{ .title }}. {{ .venue }}. {{ .number }}. {{ .date }}</p>
+	<p>{{ .snippet }}</p>
+{{ end }}
+
+<h3>Short Articles & Reviews</h3>
+
+{{ range .Site.Data.research.reviews }}
+	<p>{{ .title }}. {{ .venue }}. {{ .number }}. {{ .date }}</p>
+	<p>{{ .snippet }}</p>
+{{ end }}
+
+<h3>Web</h3>
+
+{{ range .Site.Data.research.web }}
+	<p>{{ .title }}. {{ .venue }}. {{ .date }}</p>
+	<p>{{ .snippet }}</p>
+{{ end }}

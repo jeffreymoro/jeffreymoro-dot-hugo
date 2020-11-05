@@ -1,0 +1,17 @@
+<h3>Membership</h3>
+
+{{ range .Site.Data.cv.membership }}
+	<p>{{ .title }}. {{ .institution }}.</p>
+{{ end }}
+
+<h3>Service</h3>
+
+{{ range .Site.Data.cv.service }}
+	<p>{{ .title }}. {{ .institution }}. {{ .year }}</p>
+{{ end }}
+
+<h3>Scholarly Organizations</h3>
+
+{{ range .Site.Data.cv.orgs }}
+	<p>{{ .title }}.</p>
+{{ end }}

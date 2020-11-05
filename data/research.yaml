@@ -46,7 +46,7 @@ other:
 
 ########### Talks ###########
 
-conference-talks:
+conferenceTalks:
   - title: "Air-conditioning the Internet"
     snippet: "A talk about two technologies that control the planet: air conditioning and the internet."
     conference: "ASAP/11: Ecologies of the Present"
@@ -109,7 +109,7 @@ conference-talks:
     event: "Emerging Digital Scholars: Undergraduates and Digital Humanities"
     url: ""
 
-conference-other:
+conferenceOther:
   - title: "Environmental Justice and the Digital Humanities"
     snippet: 'A roundtable I chaired with Purdom Lindblad, Gabriela Baeza Ventura, and Kim Bain on strategies for centering environmental justice and decolonial thinking in digital humanities work. Open notes and ongoing collaborations are accessible in the link here:'
     conference: ACH 2019

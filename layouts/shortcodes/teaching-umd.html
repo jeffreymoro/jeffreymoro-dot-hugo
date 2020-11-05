@@ -1,0 +1,4 @@
+{{ range .Site.Data.teaching.coursesUMD }}
+	<p>{{ .title }}. {{ .institution }}. {{ .date }}. {{ .number }}.</p>
+	<p>{{ .snippet }}</p>
+{{ end }}

@@ -1,0 +1,3 @@
+{{ range .Site.Data.cv.employment }}
+	<p>{{ .title }}. {{ .company | markdownify }}. {{ .date }}.</p>
+{{ end }}

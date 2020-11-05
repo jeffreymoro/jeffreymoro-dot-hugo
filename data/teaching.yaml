@@ -1,4 +1,4 @@
-courses-umd:
+coursesUMD:
   - title: Film Form and Culture
     institution: University of Maryland, College Park
     date: Spring 2020
@@ -18,7 +18,7 @@ courses-umd:
     url: "/teaching/umd/engl101"
     snippet: "College composition. Everyone teaches it. Everyone has a version of it. This one is mine."
 
-courses-smith:
+coursesSmith:
   - title: Media Archaeology, Climate Change, and the Digital (Non)humanities
     institution: Smith College
     date: January 2016
@@ -36,6 +36,6 @@ workshops:
   - title: Curating Your Digital Presence
     institution: University of Maryland, College Park
     date: Regularly throughout AYs 2017–19
-    number: ENGL290
+    number: ""
     url: ""
     snippet: "A workshop co-led with Setsuko Yokoyama that introduces graduate students (and anyone else interested at the university) to the ins and outs of developing a digital presence, from best practices for social media to designing and running your own personal website."

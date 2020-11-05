@@ -1,0 +1,11 @@
+<h3>Major Projects</h3>
+
+{{ range .Site.Data.cv.projects }}
+	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .role }}. {{ .date }}.</p>
+{{ end }}
+
+<h3>Minor Projects</h3>
+
+{{ range .Site.Data.cv.minorProjects }}
+	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .role }}. {{ .date }}.</p>
+{{ end }}

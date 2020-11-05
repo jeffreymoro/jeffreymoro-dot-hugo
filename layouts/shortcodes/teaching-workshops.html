@@ -1,0 +1,4 @@
+{{ range .Site.Data.teaching.workshops }}
+	<p>{{ .title }}. {{ .institution }}. {{ .date }}.</p>
+	<p>{{ .snippet }}</p>
+{{ end }}

@@ -1,0 +1,11 @@
+<h3>Fellowships</h3>
+
+{{ range .Site.Data.cv.fellowships }}
+	<p>{{ .title }}. {{ .secondary }}. {{ .date }}.</p>
+{{ end }}
+
+<h3>Awards</h3>
+
+{{ range .Site.Data.cv.awards }}
+	<p>{{ .title }}. {{ .secondary }}. {{ .date }}.</p>
+{{ end }}

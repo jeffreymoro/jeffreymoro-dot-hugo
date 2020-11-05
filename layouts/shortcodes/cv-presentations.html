@@ -1,0 +1,11 @@
+<h3>Conference Talks</h3>
+
+{{ range .Site.Data.cv.conferenceTalks }}
+	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}. {{ .institution }}. {{ .location }}, {{ .event }}.</p>
+{{ end }}
+
+<h3>Roundtables & Panels</h3>
+
+{{ range .Site.Data.cv.conferenceOther }}
+	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}. {{ .institution }}. {{ .location }}, {{ .event }}.</p>
+{{ end }}

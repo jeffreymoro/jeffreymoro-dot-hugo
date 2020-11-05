@@ -1,0 +1,17 @@
+<h3>Peer-Reviewed Journals</h3>
+
+{{ range .Site.Data.cv.journals }}
+	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}. {{ .journal }}. {{ .number }}.</p>
+{{ end }}
+
+<h3>Short Articles & Reviews</h3>
+
+{{ range .Site.Data.cv.reviews }}
+	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}. {{ .journal }}. {{ .number }}.</p>
+{{ end }}
+
+<h3>Web</h3>
+
+{{ range .Site.Data.cv.web }}
+	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}. {{ .venue }}.</p>
+{{ end }}
