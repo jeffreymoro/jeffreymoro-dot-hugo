@@ -6,6 +6,11 @@ theme: cupper-hugo-theme
 
 pluralizelisttitles: "false"
 
+params:
+  blogPaginate: 100
+
+paginate: 10
+
 permalinks:
   blog: /blog/:year-:month-:day-:filename
 #  research:

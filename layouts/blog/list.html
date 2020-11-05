@@ -1,0 +1,75 @@
+{{ define "main" }}
+
+{{- $paginator := .Paginate .Data.Pages.ByDate.Reverse .Site.Params.blogPaginate }}
+
+{{- range $index, $element := $paginator.Pages -}}
+    {{- $thisYear := $element.Date.Format "2006" }}
+    {{- $lastElement := $index | add -1 | index $paginator.Pages }}
+    {{- if or (eq $index 0) ( ne ($lastElement.Date.Format "2006") $thisYear ) }}
+      <div class="collection-title">
+        <h2 class="archive-year">{{ $thisYear }}</h2>
+      </div>
+    {{- end }}
+
+      <span class="archive-post-time">
+        <em>{{ $element.Date.Format "January 2" }}</em> &nbsp;
+      </span>
+      <span class="post-title">
+        <a href="{{ $element.RelPermalink }}" class="archive-post-link">
+          {{ .Title }}
+        </a>
+      </span> &middot;
+
+  {{- end -}}
+
+
+<!--<main id="main">
+  <h1>{{ .Title }}</h1>
+  {{ if site.Params.search }}
+  <input
+    id="search"
+    type="text"
+    placeholder="{{ T "search_placeholder" }}"
+    aria-label="{{ T "search_aria_label" }}"
+  />
+  {{ end }}
+  <ul class="patterns-list" id="list">
+    {{ range .Pages.ByPublishDate.Reverse }}
+    <li>
+      <h2>
+        <a href="{{ .Permalink }}">
+          <svg
+            class="bookmark"
+            aria-hidden="true"
+            viewBox="0 0 40 50"
+            focusable="false"
+          >
+            <use xlink:href="#bookmark"></use>
+          </svg>
+          {{ .Title }}
+        </a>
+      </h2>
+    </li>
+    {{ end }}
+  </ul>
+</main>-->
+
+<!-- pagination -->
+<nav class="pagination">
+  
+  {{ with $paginator.Prev -}}
+    <a class="prev" href="{{ .URL }}">
+      <i class="iconfont icon-left"></i>
+      <span class="prev-text">Previous Page</span>
+    </a>
+  {{- end }}
+
+  {{ with $paginator.Next -}}
+    <a class="next" href="{{ .URL }}">
+      <span class="next-text">Next Page</span>
+      <i class="iconfont icon-right"></i>
+    </a>
+  {{- end }}
+</nav>
+
+{{ end }}
