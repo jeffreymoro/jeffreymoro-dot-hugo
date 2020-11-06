@@ -86,7 +86,7 @@ Indeed, we can see the Zong's deviation from the norm when sorting for all vesse
 
 [^8]: Parham, Marisa. “Haunting down Data.” *Black Haunts in the Anthropocene*, Oct. 2014, <http://blackhaunts.mp285.com/haunting-down-data/>.
 
-Which is not to argue against these maps' utility as scholarly, aesthetic, and affective objects. Rather, I want to recuperate aesthetics as a category of knowing, being, and experiencing that data-driven digital humanities projects tend to avoid, even as we're all painfully aware of how much "prettier" we'd like our websites to be. Like Parham, I find much to recommend in negotiating the troubling space between the *feeling* of signification that the presence of data provokes and the *absences* they reveal upon closer inspection. 
+Which is not to argue against these maps’ utility as scholarly, aesthetic, and affective objects. Rather, I want to recuperate aesthetics as a category of knowing, being, and experiencing that data-driven digital humanities projects tend to avoid, even as we're all painfully aware of how much "prettier" we'd like our websites to be. Like Parham, I find much to recommend in negotiating the troubling space between the *feeling* of signification that the presence of data provokes and the *absences* they reveal upon closer inspection. 
 
 And, like Philip, whose work has haunted this talk, I find much to recommend in turning to water—water as the foundation and counter-figure of reading the Middle Passage as data. 
 

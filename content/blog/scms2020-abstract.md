@@ -7,7 +7,7 @@ tags:
 - environmental media studies
 ---
 
-Every conference has been canceled, but that doesn't mean that we can't appreciate even the proleptic work-that-might-have-been-done-but-no-longer-will-be-at-least-not-in-that-form. I don't know if I'm going to write the paper that I was supposed to give at the 2020 meeting of the Society for Cinema and Media Studies in Denver (would have been my first time at the conference!), but I wrote an abstract, and that's something at least. Here it is: 
+Every conference has been canceled, but that doesn't mean that we can't appreciate even the proleptic work-that-might-have-been-done-but-no-longer-will-be-at-least-not-in-that-form. I don't know if I'm going to write the paper that I was supposed to give at the 2020 meeting of the Society for Cinema and Media Studies in Denver (would have been my first time at the conference!), but I wrote an abstract, and that's something at least. Here it is.
 
 ### “Felling the .amazon: The Colonial Geographies of Top-Level Domains”
 

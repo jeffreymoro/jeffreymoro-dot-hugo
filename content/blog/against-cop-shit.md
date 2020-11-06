@@ -10,12 +10,12 @@ Thesis: abolish cop shit in the classroom.
 
 For the purposes of this post, I define "cop shit" as "any pedagogical technique or technology that presumes an adversarial relationship between students and teachers." Here are some examples: 
 
-- ed-tech that tracks our students' every move
+- ed-tech that tracks our students’ every move
 - plagiarism detection software
 - militant tardy or absence policies, particularly ones that involve embarassing our students, e.g. locking them out of the classroom after class has begun
 - assignments that require copying out honor code statements
 - "rigor," "grit," and "discipline"
-- any interface with *actual* cops, such as [reporting students' immigration status to ICE](https://www.washingtonpost.com/news/education/wp/2018/05/23/astounding-ignorance-of-the-law-civil-rights-groups-slam-devos-for-saying-schools-can-report-undocumented-students/?utm_term=.80634bea1c1f&tid=lk_interstitial_manual_8&itid=lk_interstitial_manual_8) and [calling cops on students sitting in classrooms](https://www.cnn.com/2020/01/24/us/ball-state-university-police-seat-change-trnd/index.html). 
+- any interface with *actual* cops, such as [reporting students’ immigration status to ICE](https://www.washingtonpost.com/news/education/wp/2018/05/23/astounding-ignorance-of-the-law-civil-rights-groups-slam-devos-for-saying-schools-can-report-undocumented-students/?utm_term=.80634bea1c1f&tid=lk_interstitial_manual_8&itid=lk_interstitial_manual_8) and [calling cops on students sitting in classrooms](https://www.cnn.com/2020/01/24/us/ball-state-university-police-seat-change-trnd/index.html). 
 
 While I am most familiar with higher ed, cop shit undoubtedly reaches its *sine qua non* in the K-12 classroom, particularly given how such classrooms are even more militarized (actual cops, metal detectors, education premised on compliance, etc.) than higher ed. While I was getting my hair cut yesterday, my stylist told me about her daughter's math teacher, who is currently punishing her daughter for falling behind on work due to a broken arm by assigning her upwards of fifteen pages of homework a night. The child is seven. This is pure, uncut cop shit. 
 
@@ -23,7 +23,7 @@ Now I am a graduate student, which means that I am simultaneously an inexperienc
 
 So why do we have cop shit in our classrooms? 
 
-One provisional answer is that the people who sell cop shit are very good at selling cop shit, whether that cop shit takes the form of a learning management system or a new pedagogical technique. Like any product, cop shit claims to solve a problem. We might express that problem like this: the work of managing a classroom, at all its levels, is increasingly complex and fraught, full of poorly defined standards, distractions to our students' attentions, and new opportunities for grift. Cop shit, so cop shit argues, solves these problems by bringing order to the classroom. Cop shit defines parameters. Cop shit ensures compliance. Cop shit gives students and teachers alike instant feedback in the form of legible metrics. 
+One provisional answer is that the people who sell cop shit are very good at selling cop shit, whether that cop shit takes the form of a learning management system or a new pedagogical technique. Like any product, cop shit claims to solve a problem. We might express that problem like this: the work of managing a classroom, at all its levels, is increasingly complex and fraught, full of poorly defined standards, distractions to our students’ attentions, and new opportunities for grift. Cop shit, so cop shit argues, solves these problems by bringing order to the classroom. Cop shit defines parameters. Cop shit ensures compliance. Cop shit gives students and teachers alike instant feedback in the form of legible metrics. 
 
 In short, cop shit operates according the the logic of datafication. Indeed, the rise of ed tech has seen the multiplication and proliferation of unprecedented forms of cop shit. See, for instance, this illuminating post on the ["The 100 Worst Ed-Tech Debacles of the Decade,"](http://hackeducation.com/2019/12/31/what-a-shitshow) published at the end of last year. It's a murderer's row of cop shit. 
 

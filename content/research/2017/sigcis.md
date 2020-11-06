@@ -7,7 +7,7 @@ tags:
 - internet of things
 - security
 ---
-*This is the text of a talk that I gave at SIGCIS's 2017 conference, "Command Lines: Software, Power, Performance" in Mountain View, CA at the Computer History Museum. I was part of a panel on "The Fiction of Neutral Tools," the video for which you can see here. For those who like to read, a transcript follows.*
+*This is the text of a talk that I gave at SIGCIS’s 2017 conference, "Command Lines: Software, Power, Performance" in Mountain View, CA at the Computer History Museum. I was part of a panel on "The Fiction of Neutral Tools," the video for which you can see here. For those who like to read, a transcript follows.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qnhz0UA7K0Y" frameborder="0" allowfullscreen></iframe>
 

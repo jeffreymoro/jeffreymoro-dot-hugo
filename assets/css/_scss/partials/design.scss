@@ -7,6 +7,19 @@ img {
 	max-width: 100%;
 	max-height: none;
 }
+.revision {
+	text-align: left;
+	font-family: $sans;
+}
+#main {
+	padding-top: 1rem;
+}
+hr {
+	border: 1px solid #eee;
+}
+p + p {
+	margin-top: 1rem;
+}
 
 // Fonts
 
@@ -131,3 +144,18 @@ img {
 		  line-height: 1.25;
 	  }
   }
+
+// Blog Pages
+
+.caption {
+	font-family: $sans;
+	font-size: 0.9rem;
+	margin-top: 1rem;
+}
+p img {
+	padding-top: 1rem;
+}
+.blog-archives-links {
+	padding-top: 2rem;
+  	border-top: 1px solid #eee;
+}

@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{- $paginator := .Paginate .Data.Pages.ByDate.Reverse .Site.Params.blogPaginate }}
+
 <main id="main" class="blog-page">
   <h1 class="page-title">{{ .Title }}</h1>
 

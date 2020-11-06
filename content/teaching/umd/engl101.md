@@ -148,7 +148,7 @@ No class on account of Labor Day.
 - Draft workshop on the summary assignment
 - *Submit*: Your summary draft in advance of class
 
-**NB On Draft Workshops**: Each assignment will have one or two days of draft workshopping. During these days, you will peer review each others' work. Attending these workshop days is a vital part of the writing process; as such, missing a draft workshop will reduce your grade on that assignment a full letter grade. 
+**NB On Draft Workshops**: Each assignment will have one or two days of draft workshopping. During these days, you will peer review each others’ work. Attending these workshop days is a vital part of the writing process; as such, missing a draft workshop will reduce your grade on that assignment a full letter grade. 
 
 ### Week 3: Rhetorical Analysis I
 
