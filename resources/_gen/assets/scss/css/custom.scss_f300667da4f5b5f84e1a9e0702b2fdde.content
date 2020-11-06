@@ -81,6 +81,18 @@ img {
   font-family: "Untitled Serif", serif;
   color: #333333; }
 
+.main-and-footer .date, .main-and-footer .tags, .main-and-footer .read-more-link {
+  font-family: "Calibre", sans-serif;
+  color: #333333;
+  font-size: 1rem; }
+
+.main-and-footer .page-title {
+  font-family: "Untitled Serif", serif; }
+
+.main-and-footer .blog-archives-links {
+  font-family: "Calibre", sans-serif;
+  font-size: 1rem; }
+
 .bigfoot-footnote__content p {
   -webkit-font-smoothing: antialiased;
   font-family: "Calibre", sans-serif;
@@ -98,6 +110,69 @@ img {
   margin-right: 30px;
   margin-bottom: 10px;
   float: left; }
+
+.date {
+  margin-top: 0.3rem; }
+
+.read-more-link {
+  margin-top: 0.25rem;
+  text-align: right;
+  margin-bottom: 2rem; }
+
+/*
+ * Pagination
+ *
+ * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
+ * there are no more previous or next posts to show.
+ */
+.pagination {
+  overflow: hidden;
+  /* clearfix */
+  margin-left: -1rem;
+  margin-right: -1rem;
+  font-family: "Calibre", sans-serif;
+  color: #ccc;
+  text-align: center; }
+
+.prev-text, .prev {
+  margin-top: 0; }
+
+/* Pagination items can be `span`s or `a`s */
+.next, .prev {
+  display: block;
+  padding: 1rem;
+  border: 1px solid #eee; }
+
+.next, .prev {
+  margin-bottom: -1px; }
+
+/* Only provide a hover state for linked pagination items */
+a.prev:hover, a.next:hover {
+  background-color: #f5f5f5; }
+
+@media (min-width: 30em) {
+  .pagination {
+    margin: 3rem 0; }
+  .next, .prev {
+    float: left;
+    width: 50%; }
+  .next, .prev {
+    margin-bottom: 0;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px; }
+  .next, .prev {
+    margin-left: 0px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px; } }
+
+.related-posts {
+  list-style: none;
+  margin-left: 0;
+  font-family: "Calibre", sans-serif;
+  font-size: 1.25rem; }
+  .related-posts li {
+    margin-top: 0.5rem;
+    line-height: 1.25; }
 
 .intro-and-nav {
   padding-top: 2rem;

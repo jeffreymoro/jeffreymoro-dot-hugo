@@ -1,6 +1,5 @@
 ---
 title: Research
-description: "Test."
 ---
 
 ## Research Interests

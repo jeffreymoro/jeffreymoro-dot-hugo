@@ -6,7 +6,7 @@ theme: cupper-hugo-theme
 pluralizelisttitles: "false"
 
 params:
-  blogPaginate: 100
+  blogPaginate: 10
   description: "vapor / wear"
 
 paginate: 10

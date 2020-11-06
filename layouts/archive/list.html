@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ $dateFormat := $.Site.Params.dateFormat | default "02 Jan 2006" }}
+<main id="main">
+  <h1>{{ .Title }}</h1>
+  <ul class="related-posts">
+    {{ range where .Site.RegularPages "Section" "blog" }}
+    <li><b><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></b> <b><small>{{ .PublishDate.Format $dateFormat }}</small></b></li>
+    {{ end }}
+  </ul>
+</main>
+{{ end }}
+
