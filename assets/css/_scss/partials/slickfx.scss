@@ -1,0 +1,78 @@
+// Animated Links
+a {
+	border-bottom: none;
+	-moz-transition: color .5s ease;
+    -webkit-transition: color .5s ease;
+    -o-transition: color .5s ease;
+    transition: color .5s ease;
+    text-decoration: none !important;
+	color: $base-color;
+
+    &:hover {
+        color: $accent-color !important;
+	}
+	
+}
+.toc a, p a {
+    position: relative;
+    padding-bottom: 0px;
+
+    &:hover {
+        text-decoration: none;
+        &:before {
+            width: 100%;
+            background: $accent-color;
+            transition: width .5s ease;
+        }
+        &:after {
+            width: 100%;
+            background: transparent;
+            transition: all 0s ease;
+        }
+    }
+
+    &:before {
+        content: '';
+        display: block;
+        position: absolute;
+        left: 0;
+        bottom: -3px;
+        height: 2px;
+        width: 0;
+        transition: width 0s ease, background .5s ease;
+    }
+
+    &:after {
+        content: '';
+        display: block;
+        position: absolute;
+        right: 0;
+        bottom: -3px;
+        height: 2px;
+        width: 0;
+        background: $accent-color;
+        transition: width .5s ease;
+    }
+}
+.pattern [aria-current] {
+	&:hover {
+        color: #fefefe !important;
+	}
+}
+
+// Sliders
+#mailbox {
+    color: rgba(255,255,255,.5);
+	position: inline-block;
+    display: none;
+    font-size: 0.75rem;
+    font-weight: 700;
+}
+#search {
+	display: none;
+}
+#search input {
+	width: 100%;
+    margin-top: 0.5rem;
+    background-color: #fefefefe;
+}

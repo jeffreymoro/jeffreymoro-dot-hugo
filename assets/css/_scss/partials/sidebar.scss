@@ -1,0 +1,61 @@
+.intro-and-nav {
+	padding-top: 2rem;
+	background-color: $base-color;
+	border-right: none;
+	font-size: 0.85rem;
+}
+.intro-and-nav > div {
+	padding: 1.5rem;
+}
+.site-title {
+	font-family: $sans;
+	font-size: 3.25rem;
+	color: #fefefe;
+}
+.library-desc {
+	font-family: $serif;
+	font-style: italic;
+	font-size: 1.25rem;
+	color: rgba(255,255,255,.5);
+}
+.pattern {
+	color: #fefefe;
+}
+.pattern [aria-current] {
+	background-color: $accent-color;
+	clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
+	color: #fefefe;
+}
+.sharesheet {
+	text-align: center;
+	padding-top: 0.5rem;
+	border-top: 1px solid #fefefe;
+	margin-top: 0.75rem;
+}
+.sharesheet * {
+	margin-top: 0.5rem;
+}
+.sharesheet a {
+	font-size: 1.3rem;
+	color: #fefefe;
+}
+.pattern a, .credit a {
+	color: #fefefe;
+}
+.credit {
+	color: rgba(255,255,255,.5);
+	font-size: 0.7rem;
+	text-align: center;
+	margin-top: 0.5rem;
+}
+#menu-button {
+	background: #fefefe;
+	color: $base-color;
+	font-size: 1rem;
+}
+#patterns-list {
+	border: none;
+}
+.pattern + .pattern {
+	border-top: none;
+}

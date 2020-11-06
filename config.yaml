@@ -1,13 +1,13 @@
 baseURL: "https://jeffreymoro.com/"
 languageCode: "en-us"
 title: "Jeffrey Moro"
-subtitle: "vapor / wear"
 theme: cupper-hugo-theme
 
 pluralizelisttitles: "false"
 
 params:
   blogPaginate: 100
+  description: "vapor / wear"
 
 paginate: 10
 
