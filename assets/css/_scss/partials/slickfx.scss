@@ -13,7 +13,7 @@ a {
 	}
 	
 }
-.toc a, p a {
+.toc a, p a, ul a {
     position: relative;
     padding-bottom: 0px;
 
@@ -76,3 +76,18 @@ a {
     margin-top: 0.5rem;
     background-color: #fefefefe;
 }
+
+/*
+.context {
+    position: inline-block;
+    display: none;
+    border-left: 3px solid $accent-color;
+    padding-left: 0.75rem;
+    //margin-top: 0.5rem;
+    font-size: smaller;
+}
+.context p {
+		line-height: 1.3rem !important;
+		padding-top: 0.1em;
+}
+*/

@@ -1,0 +1,61 @@
+// Columns
+
+.one-half,
+.one-third,
+.two-thirds,
+.three-fourths,
+.one-fourth
+{
+	float:left;
+	margin-bottom: 1rem;
+	margin-right:4%;
+	position:relative;
+	display:inline;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+.one-fourth {
+	width:22%;
+}
+.one-half {
+	width:48%;
+}
+.one-third {
+	width:30.66%;
+}
+.two-thirds {
+	width:65.33%;
+}
+.three-fourths {
+	width:74%;
+}
+.subcat {
+	text-align: right;
+	font-style: italic;
+}
+
+//// Clearing sides and bottoms
+.clear:before, .clear:after {
+	content: ".";
+ 	display: block;
+ 	overflow: hidden;
+ 	visibility: hidden;
+ 	font-size: 0;
+ 	line-height: 0;
+ 	width: 0;
+ 	height: 0;
+}
+.clear:after {
+	clear: both;
+}
+.column-last {
+	clear:right;
+	margin-right:0;
+}
+.column-bottom {
+	margin-bottom: 0.75rem;
+}
+.clear {
+	margin-top: 0.5rem;
+}

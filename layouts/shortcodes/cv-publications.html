@@ -1,17 +1,53 @@
-<h3>Peer-Reviewed Journals</h3>
+<div>
+	<em>Peer-Reviewed Articles</em>
+	<div class="cv-pub-list">
+	<ul>
+		{{ range .Site.Data.cv.journals }}
+		<li>
+			{{ if ne .url "" }}
+			<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+			{{ else }}
+			&ldquo;{{ .title }}.&rdquo;
+			{{ end }}
+			{{ .date }}. <i>{{ .journal }}</i>, {{ .number }}.
+		</li>
+		{{ end }}
+	</ul>
+	</div>
+</div>
 
-{{ range .Site.Data.cv.journals }}
-	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}. {{ .journal }}. {{ .number }}.</p>
-{{ end }}
+<div>
+	<em>Short Articles & Reviews</em>
+	<div class="cv-pub-list">
+	<ul>
+		{{ range .Site.Data.cv.reviews }}
+		<li>
+			{{ if ne .url "" }}
+			<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+			{{ else }}
+			&ldquo;{{ .title }}.&rdquo;
+			{{ end }}
+			{{ .date }}. <i>{{ .journal }}</i>, {{ .number }}.
+		</li>
+		{{ end }}
+	</ul>
+	</div>
+</div>
 
-<h3>Short Articles & Reviews</h3>
-
-{{ range .Site.Data.cv.reviews }}
-	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}. {{ .journal }}. {{ .number }}.</p>
-{{ end }}
-
-<h3>Web</h3>
-
-{{ range .Site.Data.cv.web }}
-	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}. {{ .venue }}.</p>
-{{ end }}
+<div>
+	<em>Web</em>
+	<div class="cv-pub-list">
+	<ul>
+		{{ range .Site.Data.cv.web }}
+		<li>
+			{{ if ne .url "" }}
+			<a href="{{ .url }}" target="_blank">&ldquo;{{ .title | markdownify }}.&rdquo;</a>
+			{{ else }}
+			&ldquo;{{ .title | markdownify }}.&rdquo;
+			{{ end }}
+			{{ .date }}. <i>{{ .venue }}</i>.
+		</li>
+		{{ end }}
+	</ul>
+	</div>
+</div>

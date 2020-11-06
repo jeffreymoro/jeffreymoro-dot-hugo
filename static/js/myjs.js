@@ -19,9 +19,6 @@ $(document).ready(function(){
     $("#showmailbox").click(function(){
         $("#mailbox").slideToggle();
     });
-    $("#showheaderhidden1").click(function(){
-        $("#headerhidden1").slideToggle();
-    });
     $("#showsearch").click(function(){
         $("#search").slideToggle();
     });

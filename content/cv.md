@@ -2,6 +2,8 @@
 title: CV
 ---
 
+*[Click here](/files/{{< cv-filename >}}) for a .pdf version of my vita.*
+
 ## Education
 
 {{< cv-education >}}
