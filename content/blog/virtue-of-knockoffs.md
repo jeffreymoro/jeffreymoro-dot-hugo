@@ -25,17 +25,17 @@ I'll also skip over the painfully interminable finagling that it took to get all
 
 So now I had all of my old entries in a folder, ready to be a journal in and of their own right. If I didn't have any secrets, I could just stop now! (This is the low-key powerful thing about computers: [like half of the apps we have could probably be replaced by files in folders](https://al3x.net/2009/01/31/against-everything-buckets.html)) But I *do* have secrets, or at least, I *think* I have secrets, so I need some kind of encryption. Thankfully, OS X has a solution baked right in to its operating system!
 
-<img src="/assets/img/knockoff-1.jpg"/>
+<img src="/img/knockoff-1.jpg"/>
 <div class="caption">Disk Utility</div>
 
 Good old Disk Utility. This is where you used to go when something was acting up on your computer and you needed to "Repair File Permissions" or some other voodoo that seemed to make things better but you were never sure how? It got nerfed a bit in the 10.11 El Capitan update, but the core functionality we need is still there, up in the File > New Image menu.
 
-<img src="/assets/img/knockoff-2.jpg"/>
+<img src="/img/knockoff-2.jpg"/>
 <div class="caption">Command-N, for those in the know.</div>
 
 With Disk Utility, I can create my own Disk Image file—the same images that we use when we install programs from not-the-App-Store—stick my files in it, and slap a password on it. You'll see here that I'm choosing 256 bit AES encryption (I don't know precisely what it means either! But 256 bits means more bits to choose from, which means more randomness, which means harder-to-crack, and that's good enough for me) and a .sparsebundle image rather than .dmg. Why? A .dmg is one flat file, whereas a .sparsebundle is actually a collection of bands of files—this makes it easier to back up, because you only have to synchronize the bands that have changed, and also gives you a chance to recover part of the image if one of the bands fails, since the others would be, theoretically, unaffected.
 
-<img src="/assets/img/knockoff-3.jpg"/>
+<img src="/img/knockoff-3.jpg"/>
 <div class="caption">Much GUI, Wow</div>
 
 From there, I just put my .md files on the new disk image, and when I'm done writing, eject it!
@@ -85,7 +85,7 @@ And that's it! You have yourself a totally-jankety-but-still-pretty-functional-a
 
 ## "All the good shit is always down a manhole."
 
-<img src="/assets/img/knockoff-4.jpg"/>
+<img src="/img/knockoff-4.jpg"/>
 <div class="caption">"Jesus Christ."</div>
 
 While building my knockoff journal, I was reminded of John Herrmann's endlessly compelling essay ["Shitphone: A Love Story,"](https://medium.com/matter/shitphone-a-love-story-a44e66434807#.pxei6ttto) about his affinity for off-brand electronics. He writes:

@@ -11,7 +11,7 @@ tags:
 
 *I gave this talk as a part of the SIGCIS 2018 conference [Stored in Memory](http://meetings.sigcis.org/) in St. Louis, MO.*
 
-![turner-slave-ship](/assets/img/sigcis-2018-1-turner.jpg)
+![turner-slave-ship](/img/sigcis-2018-1-turner.jpg)
 <div class="caption">J.M.W. Turner's <em>The Slave Ship</em>, 1840. Turner painted this after reading Thomas Clarkson's 1840 <em>The History and Abolition of the Slave Trade</em>, which recounted the story of the Zong.</div>
 
 > "Our entrance to the past is through memory—either oral or written. And water. In this case salt water. Sea water."[^0] 
@@ -26,7 +26,7 @@ It was for "want of water," the court documents say, that drove Luke Collingwood
 
 Since 1781, the story of the Zong massacre has been told many times, in abolitionist pamphlets, contemporary novels and poems, and academic study. Each telling constitutes an argument for some dimension of order in the face of senseless violence. In this telling, I want to put pressure on its material articulation: the "want of water," the paper text of an insurance policy, the bones of bodies lost to sea. 
 
-![TASTD](/assets/img/sigcis-2018-2-TASTD.jpg)
+![TASTD](/img/sigcis-2018-2-TASTD.jpg)
 <div class="caption">The Trans-Atlantic Slave Trade Database, <a href="http://slavevoyages.org">http://slavevoyages.org</a></div>
 
 Despite how often we re-tell the Zong's story, much of its case is indeterminate. We don't know its true path, the case's final outcome, or even the precise numbers of Africans captured or killed. In this paper, I take up the Zong's indeterminacy as an ethical challenge for the design of digital cultural memory projects. To do so, I excavate the Zong as it appears in the [Trans-Atlantic Slave Trade Database](http://slavevoyages.org/), or the TASTD, a digital project dating back to the 1960's and now housed at Emory University. The TASTD provides machine-readable data on thirty-six thousand slave voyages between 1514 and 1866. I'll read this database not only as an informatic object, an agglomeration of numbers and relationships, but also as an *aesthetic* object. By doing so, I'll argue that an ontology of "data" has long structured our understanding of the Middle Passage, from the Zong's log book through to the TASTD. While informatic forms such as the database or spreadsheet allow us structured access to information, they impoverish our affective and experiential understanding of fundamentally unknowable events. By lingering at the limits of the TASTD to "speak," I propose alternative models for knowing the Zong through information technologies. 
@@ -37,12 +37,12 @@ In particular, I offer the ocean as a fruitful counter-model for how digital arc
 
 In 2006, Emory received an NEH grant to construct the open-access website that eventually became <slavevoyages.org>, the TASTD's current home. The data themselves date back to work begun in the 1960's by historian Herbert S. Klein. The data were originally available as a series of published volumes and on CD-ROM, but now, under Emory's auspices, the 30.6 megabyte database is a free resource for scholars and the public alike.
 
-![TASTD-interface](/assets/img/sigcis-2018-3-TASTD-interface.jpg)
+![TASTD-interface](/img/sigcis-2018-3-TASTD-interface.jpg)
 <div class="caption">The TASTD's web interface</div>
 
 David Eltis, one of the project's PIs, estimates that the TASTD's thirty-six thousand voyages accounts for around eighty percent of all voyages carrying enslaved Africans between 1514 and 1866.[^2] The site provides access to this database in two fashions. The first and more typical entry point is a graphical interface that allows users to select for sixty-five different variables, such as date of voyage, itinerary, or number of slaves carried. The second, intended for researchers and developers, is a downloadable CSV with the full range of nearly [three hundred variables](http://slavevoyages.org/voyage/understanding-db/variable-list). There are also handfuls of ancillary material: contextual essays, maps and visualizations, archival images, and lesson plans. All in all, this network of resources is undoubtedly rich and multitudinous, particularly given the number of remediations and expansions it's undergone over the years.
 
-![TASTD-database](/assets/img/sigcis-2018-4-TASTD-database.jpg)
+![TASTD-database](/img/sigcis-2018-4-TASTD-database.jpg)
 <div class="caption">The TASTD's database, downloaded as a .csv file.</div>
 
 The site's interface takes the form of a left column of variables that one can select and manipulate to delimit the information that appears on the screen. Tabs that run the width of this body provide different ways of framing the data, from a basic return in a spreadsheet to more complex timelines, maps, and animations. Clicking through to a single voyage provides a spreadsheet with information about that voyage, any archival images that may correspond to it, and a map of the ship's route. 
@@ -57,7 +57,7 @@ Here we might recall Lisa Gitelman's and Virginia's Jackson's argument that "dat
 
 ## Demonstrating Nothing
 
-![TASTD-Zong](/assets/img/sigcis-2018-5-TASTD-zong.jpg)
+![TASTD-Zong](/img/sigcis-2018-5-TASTD-zong.jpg)
 <div class="caption">The Zong's entry in the TASTD.</div>
 
 [In the database](http://slavevoyages.org/voyage/84106/variables), the Zong's voyage is ID number 84106. It flew under the British flag; it was a prize from the Dutch, captured in battle. Its voyage to Africa began on March 5th, 1781; it left the continent on September 6th, and reached Jamaica on December 28th. Its "particular outcome of voyage," the data tell us, was "completed as intended." The massacre is not explicitly encoded as a quantitative or qualitative variable. It rather emerges in the imputed interstices between two others: total slaves embarked, 440; total slaves disembarked, 208. Mortality rate: 53 percent. 
@@ -71,17 +71,17 @@ We're running up against what Miriam Posner has noted as the inherent contradict
 
 [^7]: Posner, Miriam. "Humanities Data: A Necessary Contradiction." *Miriam Posner's Blog*, 25 June 2015. <http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/>. 
 
-![TASTD-map](/assets/img/sigcis-2018-6-TASTD-map.jpg)
+![TASTD-map](/img/sigcis-2018-6-TASTD-map.jpg)
 <div class="caption">The Zong's map in the TASTD.</div>
 
 These tensions get laid bare most often when data as asked to speak in visual forms. (Indeed, the challenge of making timelines out of humanities data prompted Posner's observation in the first place.) For the TASTD, the most potent visual examples are the maps that accompany each voyage entry, tracing the ostensible route the ship took. Here's the map for the Zong. These maps identify ports of departure and arrival, and give a sense of the movement of the voyage itself. But notably, the database only stores variables for beginning and ending ports, and has no geographic data for the actual voyage itself. Specific moves—the small bend east at the beginning of the Zong's voyage, its uncharacteristic curve north before reaching Jamaica—are inferred, we must imagine, on a case-by-case basis, perhaps from prevailing winds or historically typical routes. 
 
-![TASTD-map](/assets/img/sigcis-2018-6a-TASTD-aggregate-map.jpg)
+![TASTD-map](/img/sigcis-2018-6a-TASTD-aggregate-map.jpg)
 <div class="caption">An aggregate map for all vessels flying the British flag in 1781.</div>
 
 Indeed, we can see the Zong's deviation from the norm when sorting for all vessels flying the British flag in 1781. But the precise contours of this deviation are still conjecture, and when inscribed on a map begin to signify with an unreckoned weight. Marisa Parham, writing about a different map that [historian Ben Schmidt produced](http://benschmidt.org/maps-visualizations-gallery/) of eighteenth- and nineteenth-century shipping paths from the US Maury collection, notes that these kinds of speculative cartographic projects occupy a liminal space between meaning and non-meaning. They are "compelling," she argues, "because [they] elicit a sense of truth an evidence while simultaneously demonstrating nothing. [They are suggestive] because we are left to imagine the histories fanned by those dark wisps."[^8]
 
-![Maury](/assets/img/sigcis-2018-7-Maury.jpg)
+![Maury](/img/sigcis-2018-7-Maury.jpg)
 <div class="caption">Ben Schmidt's map of the trading routes in the US Maury collection.</div>
 
 [^8]: Parham, Marisa. “Haunting down Data.” *Black Haunts in the Anthropocene*, Oct. 2014, <http://blackhaunts.mp285.com/haunting-down-data/>.
@@ -98,7 +98,7 @@ The turn to elementality is a growing presence in contemporary digital media stu
 
 Digital media have long taken up oceanic and navigational metaphors. We *surf* the internet and manage *floods* of information. Web browsers trade on the exploratory, whether in name (Internet Explorer, Netscape Navigator, Apple Safari) or branding. Even as the oceanic blends with more terrestrial formations like "a series of tubes" or "the information superhighway," the digital carries a breadth, depth, and an aqueous turbidity. Like the sea, the digital is vast and unknowable, though traversable if one takes along the right tools. Movement across, under, or through both requires mediating technologies that simultaneously mark out space and propose epistemologies. Navigation is a process of rationalization, as in the latitude and longitude of the sea chart or the linear historical view of the web browser. 
 
-![Telegeography](/assets/img/sigcis-2018-8-telegeography.jpg)
+![Telegeography](/img/sigcis-2018-8-telegeography.jpg)
 <div class="caption">TeleGeography's map of undersea cables. Current as of 11 Oct. 2018.</div>
 
 Nicole Starosielski's *The Undersea Network* reminds us of the historical inertia of communications technologies. The undersea internet cables of her study "follow the contours of earlier networks, layered on top of earlier telegraph and telephone cables, power systems, lines of cultural migration, and trade routes."[^10] We could continue this archaeology to think of the ocean currents and prevailing winds that enable such routes. Here is a map of the current configuration of undersea cables, drawn from the website TeleGeography, a resource on which Starosielski relies as well. In the Atlantic Ocean, the networks between the United States and United Kingdom stand out the most, as do the densely knit interconnections of the Caribbean and the cables running the length of the South American coast. One cable links West Africa to the New World, from Cameroon to Brazil. Compare this map again to Schmidt's. While the undersea cable networks have preserved certain colonial relations, others, including the Middle Passage, seem to have attenuated over the years. Once again, I think of Parham's critique: is this point anything more than paratactic coincidence? Am I once again confronted with a profusion of data points telling me everything and yet demonstrating nothing? 

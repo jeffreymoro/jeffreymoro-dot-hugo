@@ -9,19 +9,19 @@ tags:
 ---
 
 
-<img src="/assets/img/ppu-1.jpg"/>
+<img src="/img/ppu-1.jpg"/>
 <div class="caption">Stills from <a href="http://ohsqueezy.itch.io/ppu" target="_blank"><em>Picture Processing</em></a></div>
 
 A couple of weeks ago, an [independent game maker](http://ohsqueezy.itch.io) put out a game called [*Picture Processing*](http://ohsqueezy.itch.io/ppu), in which you, the player, telepathically commune with a broken NES console and manipulate the system’s memory values to repair error-ridden, glitched-out game screens. (It’s going to get weirder from here on out, y’all, trust me.) Given that this is *highly relevant* to a number of my interests, I wanted to put a few words down here about the experience of playing this game and the role of memory editing in video games and digital media as related to play. As I wrote [in a short meditation](http://codex.thecritical.is/strange-creatures/) for [2015's HASTAC conference](http://www.hastac2015.org/schedule/), I’m interested in excavating moments in which the technical apparatus and mathematical underpinning of video games become sites of play beyond the terrain envisioned by the game’s designers. That digital technologies are themselves sites of potential play is uncontroversial: ask any artist, or mathematician, or tinkerer. *Picture Processing* gives us something different, a glimpse at a kind of unsanctioned play that takes as its subject the apparatus itself. It's the exploration of the apparatus that interests me, and the ways in which play becomes a tool for re-envisioning our relationships (should they ever be bifurcated?) to software and hardware.
 
 At its core, *Picture Processing* is a tile-swapping puzzle game, not dissimilar to the physical 3-by-3-picture-grid-with-one-piece-missing games I played in dentists’ offices throughout my youth. In each level, the player swaps individual 8-bit tiles through up to sixteen hexadecimal memory locations until the original game screen is descrambled and “revealed.” *Picture Processing* distinguishes itself from other puzzle games through its strategic use of metaphor and abstraction. Rather than manipulate the NES’s picture processing unit (the chip through which the console draws images to a television screen, and the game’s namesake) through assembly code or fiddling with voltages, the game posits the play “meditating” so that psychic “manipulation of the system’s PPU” will be “granted.” Only through a direct “telepathic” link between mind and machine can the player reorganize the broken, glitched game screens.
 
-<img src="/assets/img/ppu-2.jpg"/>
+<img src="/img/ppu-2.jpg"/>
 <div class="caption">Loading a new <em>Picture Processing</em> game.</div>
 
 *Picture Processing*’s psychic metaphors are a far cry from the usual way that players access and manipulate a game’s encoded memory—and the game’s goal of restoring broken screens contrasts players’ general motivations. When I was young, in the days before sophisticated digital rights protection technologies, one could buy one of a range of cheat-code devices from any store that sold video games. These devices, which went by names like “Gameshark,” “Game Genie,” or “Action Replay,” served as an intermediary between console and cartridge, and provided the player an interface through which to directly access and manipulate the active flow of data. Most of the time, players used these to beat the system: most of the devices came preloaded with pieces of code that would provide infinite lives, mitigate damage, or skip through difficult levels for many games on the market. Some devices, like one that I had for the Game Boy, had a button on the device itself that could call up a memory editor during active play. Players could come to a certain part in the game, bring up a memory editor, mess around with some hexadecimal values, and return to play, with any number of desired (and, if one wasn’t careful, *undesired*) effects.
 
-<img src="/assets/img/ppu-3.jpg"/>
+<img src="/img/ppu-3.jpg"/>
 <div class="caption">Various kinds of cheat devices.</div>
 
 I wrote about these device’s affective relationship to play and gameworlds in that past essay I wrote for HASTAC, [“Strange Creatures Made of Memory.”](http://codex.thecritical.is/strange-creatures/) Rather than plagiarize myself, I’ll just quote a section:

@@ -30,7 +30,7 @@ not quite reaching the lip.
     Our love, *that halfmad firebrand*,  
         races once around the room  
             whipping everything  
-                and hides again.  ](/assets/img/her-beckett.png)
+                and hides again.  ](/img/her-beckett.png)
 
 What do the walls do? They've already collapsed in the narrator's mother's convalescing room (similar to but less insidious than "The Yellow Wall Paper"—here a woman confined by age and circumstance rather than sexism); they are "too close, so knowable." Beckett is an apt interlocutor for thinking with ruination: *Happy Days*, *Endgame*, *Molloy*, and so much else are all pictures of a slow apocalypse and the doubled-back degradation of a failing-but-still-working memory. When a thing disappears entirely, does it cease to be a ruin any longer? We know that a thing is a ruin when it falls into disrepair and disuse, or perhaps simply a different kind of repair and a different kind of use, but the *thing* still lingers in some fashion, even if wrongly. "Toys that belong in memory / but wrongly appear here, vagrant and suffocated." When a person disappears entirely from the physical plain they still do linger after a fashion in soil and heartbreak. But do we call that disappearance a ruin?
 

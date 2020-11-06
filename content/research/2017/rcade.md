@@ -20,7 +20,7 @@ In the days leading up to my first encounter with the machine, before it had arr
 
 Cake! I would love to smell cake and also print out small toys. But when the time came for me to sit with the machine and print out my first object—a *kodama* recognizable to anyone who's seen the movie *Princess Mononoke*—I experienced that aforementioned act of betrayal. I could smell nothing at all. 
 
-<img src="/assets/img/rcade-1.jpg"/>
+<img src="/img/rcade-1.jpg"/>
 <div class="caption">My <em>kodama</em>.</div>
 
 I thank the machine for betraying me, however, because it led me down a rabbit hole of asking *why* I smelled or didn't smell cake, what produced that odor, how odors more generally shape our relations with this small, strange robot, and what affective terrain we might map out a consideration of smells. How is smell part of the technological circuit of these machines? What does smell teach us about material specificities, questions of manufacturing, or even where we constitute our bodies in relationship to these robots?

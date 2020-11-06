@@ -53,7 +53,7 @@ Here's what you need to know about *Destination Wedding*: it's not a good movie,
 
 ### 10. This picture of Agatha
 
-![my cat looking absurd](/assets/img/agatha-silly.jpg)
+![my cat looking absurd](/img/agatha-silly.jpg)
 
 I took this picture of Agatha while rehearsing for my qualifying exams presentation and I immediately made it my phone background. Whenever I get down, I look at it and absorb its powerful energies.
 

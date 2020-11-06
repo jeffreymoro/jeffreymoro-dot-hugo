@@ -14,7 +14,7 @@ tags:
 ## October 21st, 2016
 On Friday, October 21st, 2016, the Internet went down. 
 
-<img src="/assets/img/sigcis-mirai-outage.jpg"/>
+<img src="/img/sigcis-mirai-outage.jpg"/>
 <div class="caption"><a href="http://www.ioti.com/security/play-play-look-mirai-botnets-internet-takedown">A map of the affected areas</a></div>
 
 Not the whole Internet itself, of course, and only for the areas you see on this map, but for those folks many of the major sites that structure our experience of the Internet—Twitter, Github, Netflix—all threw up server errors for much of that day. When the dust cleared on Saturday, security researchers placed the blame on an unprecedentedly large distributed denial of service attack, or DDoS.[^1]
@@ -23,7 +23,7 @@ Not the whole Internet itself, of course, and only for the areas you see on this
 
 The target: Dyn, a New-Hampshire headquartered Domain Name System provider. Dyn’s one of many companies in this space, which provide the tech through which user-legible domain names translate into machine-legible IP addresses. In other words, this attack affected such wide swathes of the Internet because it targeted centralized infrastructure, rather than individual sites. But what makes the Dyn attack central to my talk today is not its record scale, but rather how it achieved such size. It worked by exploiting vulnerabilities in Internet of Things devices: webcams, smarthubs, toasters. These networked objects, while low-powered, have strength in numbers, as the Mirai botnet, which powered the Dyn attack as well as a number of other record-setting attacks last fall, demonstrates. So this is a milestone of sorts: we have officially entered a reality in which the smart lightbulb you backed on Kickstarter or your klutzy Roomba might in face be weaponized against you.
 
-<img src="/assets/img/sigcis-catroomba.jpg"/>
+<img src="/img/sigcis-catroomba.jpg"/>
 
 ## Sociability and Securitization
 I offer this weaponization as a way to understand our emerging relationship with these smart objects, and what we construe as the Internet of Things more generally. The Dyn attack is evocative for me because it stages a conflict across two registers: sociability and securitization. “Sociability,” in that it foregrounds the kinds of entanglements in which we find ourselves with these objects both on the level of social life and communication; “security” in the very real sense that we are made open to attack by and through these objects.[^2] Entanglements are mutual, and I contend today that we humans are as sociable with these objects as they are with us or with each other. Moreover, “sociability,” framed as a messy and intimate exchange of energies across bodies and things, operates across human and nonhuman registers, with the Internet of Things operating as a cross-pollination site. Framing relations like this allows us to consider the Dyn attack less as a mass deviation—an incursion in a clean network—and more as the amplification of capacities always already latent in the bodies and objects that together articulate an Internet of Things. “Securitization” is then an attempt to regulate these energies. But we run up against a technical paradox. As theorist Wendy Chun reminds us, our devices operate by promiscuously leaking information: constantly transmitting and receiving signals.[^3] I want to extend this to us humans as well. It’s then this tension, between the capacity to socialize and leak and how such capacities leave us vulnerable, which is the heart of my paper today. 
@@ -36,7 +36,7 @@ So let’s start with substantiating that first claim: that we are messily entan
 
 In its simplest form, an IoT object grafts together a pre-existing technical object, like a mouse trap or a toy doll, and a computer. These computers, as we know, are usually quite small and low-powered. They’ll often connect to environmental sensors that allow the object to respond dynamically to a variety of factors, like its environment and the operation of other networked devices. These individual nodes are often controlled by smart “hubs,” more sophisticated computers that orchestrate all these data flows. And these smart hubs usually displace their interfaces onto one other familiar hybrid: your phone. 
 
-<img src="/assets/img/sigcis-revolv.jpg"/>
+<img src="/img/sigcis-revolv.jpg"/>
 <div class="caption"><a href="https://www.theverge.com/2016/4/4/11362928/google-nest-revolv-shutdown-smart-home-products">The Revolv Smart Hub</a></div>
 
 So by way of practical example, let me give you one user’s description of IoT in action in his own home. This is Arlo Gilbert, [writing in 2016 about his Revolv smart hub](https://arlogilbert.com/the-time-that-tony-fadell-sold-me-a-container-of-hummus-cb0941c762c1): 
@@ -64,12 +64,12 @@ The computer becomes a tool through which these capacities are intensified and c
 ## Mirai
 I’ve spent this time on sociability so that we articulate how it bears on the specific vulnerabilities that the Mirai botnet exploits. The word “mirai” is, ominously, Japanese for “future.” 
 
-<img src="/assets/img/sigcis-mirai-github.jpg"/>
+<img src="/img/sigcis-mirai-github.jpg"/>
 <div class="caption"><a href="https://github.com/jgamblin/Mirai-Source-Code">The source code for the Mirai botnet</a></div>
 
 After the wave of attacks last fall, its source code was posted GitHub, so we can see that it’s actually pretty crude code in the end. A compromised device operates normally but continuously scans the public Internet for a range of IP addresses corresponding to other IoT devices. Once it finds a target, it uses a dictionary attack of the sixty-two most common default usernames and passwords for IoT devices to break through. 
 
-<img src="/assets/img/sigcis-mirai-passwords.jpg"/>
+<img src="/img/sigcis-mirai-passwords.jpg"/>
 <div class="caption"><a href="http://www.csoonline.com/article/3126924/security/here-are-the-61-passwords-that-powered-the-mirai-iot-botnet.html">The passwords it used to break through security</a></div>
 
 Its operation is basal-level, the purest ideology of the Internet of Things, both on the level of technics—one thing pinging another thing—but also on the level of construction, in that its operation depends on the flawed work of end-users who never change their passwords or manufacturers who never give users that opportunity. We come to see these tactics as not categorically different than normal operations. This is an attack of excess and purity, of unmanaged energy, rather than something qualitatively new and different. 
@@ -86,7 +86,7 @@ It’s all too easy to lay the blame at end-user’s feet here, for “consentin
 
 [^8]: Orcutt.
 
-<img src="/assets/img/sigcis-nytimes.jpg"/>
+<img src="/img/sigcis-nytimes.jpg"/>
 <div class="caption"><a href="https://www.nytimes.com/2017/02/01/technology/personaltech/stop-hijacking-home-devices.html">Security recommendations in <em>The New York Times</em></a></div>
 
 Doing so makes sense in the short term, but misconstrues, I think, what we’re framing as insecure. It’s not the human that’s insecure, but rather, as I’ve tried to argue, vectored sociable energies that can emerge from human and object alike. Without such a framing, we can’t begin to understand or embrace situations in which “openness” or “vulnerability” can be anything other than dangerous. The challenge I take up is to understand sociability and vulnerability in IoT as terrain open for the formation of solidarities, rather than an ever-interior turn towards the “local” as the single body or home. 

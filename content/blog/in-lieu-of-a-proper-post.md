@@ -9,7 +9,7 @@ tags:
 
 One of the more honorable goals I set for myself during the first year of graduate school was that I was going to write here more. I then proceeded, as do most who set such goals, to write here *even less* than I did before grad school. I might point to a confluence of factors: writing on Twitter provides much more immediate satisfaction, though at the cost of one's immortal soul; the nature of grad school is such that one is constantly engaged in all sorts of provisional writing that does not seem particularly suited for public consumption in an unrefined form, and who has time to *refine* things anymore?; also I adopted a cat, and taking care of her is frankly more interesting than most things, including writing, which made finals season *particularly* interesting, let me tell you.
 
-<img src="/assets/img/agatha.jpg"/>
+<img src="/img/agatha.jpg"/>
 <div class="caption">I mean it's not like you weren't going to get a photo.</div>
 
 (There was also the small fact that our nation has descended into even more of a tire fire than usual, which is both demoralizing and distracting, but you can go look at my Twitter feed for *that* agita, none of it here.)

@@ -28,21 +28,21 @@ Here are some of my favorite parts of the Canadian border:
 
 ## 1. Point Roberts, Washington
 
-<img src="/assets/img/borders-1.jpg"/>
+<img src="/img/borders-1.jpg"/>
 <div class="caption"><a href="https://www.google.com/maps/@48.9742619,-123.0557913,11z/data=!3m1!1e3">Point Roberts, Washington</a></div>
 
 The U.S./Canada border follows the 45th parallel above New England (set after the American Revolutionary War by the Treaty of Paris) and the 49th parallel above the Midwest and Western United States (set by the Treaty of Oregon in 1846, during the period of western expansion). Given that these parallels are just latitude lines, they don't correspond to anything geographically "real" or physical. So you end up with places like Point Roberts: tiny spits of land that happen to pass under the 49th parallel and thus belong to the U.S., even though they're only connected (by land at least) to Canada.
 
 ## 2. The Northwest Angle, Minnesota
 
-<img src="/assets/img/borders-2.jpg"/>
+<img src="/img/borders-2.jpg"/>
 <div class="caption"><a href="https://www.google.com/maps/@49.1780168,-95.0571341,10z/data=!3m1!1e3">The Northwest Angle, Minnesota</a></div>
 
 Similarly to Point Roberts, the Northwest Angle is another patch of land that's technically in the United States, but you can only get to it from Canada. (It also takes the record for northern-most point in the contiguous United States.) Why does it exist? Wikipedia claims it's a [map-making error](https://en.wikipedia.org/wiki/Northwest_Angle), formed during the negotiation of the Treaty of Paris because no one expected that the Mississippi River wouldn't run far north enough to constitute a border intersection with the Lake of the Woods. The north-south line they picked, when extended, happens to cut off this small patch of land. It seems like it's mostly moose, which is fitting, I think.
 
 ## 3. Estcourt, Maine / Pohénégamook, Québec
 
-<img src="/assets/img/borders-3.jpg"/>
+<img src="/img/borders-3.jpg"/>
 <div class="caption"><a href="https://www.google.com/maps/@47.4571237,-69.2274827,18z/data=!3m1!1e3">Estcourt, Maine / Pohénégamook, Québec</a></div>
 
 Yes, that's a border line running through peoples' backyards, and no, it's not just a Google Maps error. [Atlas Obscura has a great article](http://www.atlasobscura.com/articles/the-incredible-complications-of-living-atop-the-us-canada-border) on the weirdness that is Estcourt, Maine and its sister town of Pohénégamook, Québec, which more or less form one complete town that straddles the border. One of the more surreal observations from the article is that if your backyard crosses the border from Canada into the U.S., you can still be in it, but if you cross over your own fence—your own border fence, as it were—you're illegally trespassing. Locals say that the border was more or less permeable for a long time, given that it's arbitrary and costly to enforce, but then after September 11th, 2001, security ramped up, making life considerably more difficult for those who accidentally cross it—whether to talk to a neighbor or get a ball thrown over the fence by mistake.

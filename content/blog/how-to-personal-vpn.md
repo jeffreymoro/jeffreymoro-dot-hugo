@@ -60,7 +60,7 @@ Finally: `streisand` is a new program to me too. I've been playing around with i
 
 First things first: you're going to want a server platform. I recommend [DigitalOcean](https://digitalocean.com).
 
-<img src="/assets/img/vpn-1.jpg"/>
+<img src="/img/vpn-1.jpg"/>
 <div class="caption">DigitalOcean</div>
 
 There are lots of different server providers in this grand world of ours and they all do more or less the same thing: give you access to a computer, somewhere in an air-conditioned building in an anonymous suburb of New Jersey, running bare Linux and nothing else. And you can install whatever you want, more or less, on this computer. The whole "being in New Jersey" thing is actually what makes these server platforms valuable for our purposes: it's a location other than your home through which you can route your traffic.
@@ -79,12 +79,12 @@ One of the great things about `streisand` is that it does a lot of the actual se
 
 Go to the API tab at the top of your screen:
 
-<img src="/assets/img/vpn-2.jpg"/>
+<img src="/img/vpn-2.jpg"/>
 <div class="caption">API Tab</div>
 
 and click the "Generate New Token" button:
 
-<img src="/assets/img/vpn-3.jpg"/>
+<img src="/img/vpn-3.jpg"/>
 <div class="caption">Generate New Token</div>
 
 Fill in whatever name you want, check both the "read" and "write" buttons, and then copy that token down. You'll need it when running `streisand`.
@@ -119,7 +119,7 @@ $ cat ~/.ssh/id_rsa.pub
 
 And copy *exactly* what it pops out. (You don't have to copy any trailing spaces at the end.) Now go back over to your browser and go to the settings in your DigitalOcean account:
 
-<img src="/assets/img/vpn-4.jpg"/>
+<img src="/img/vpn-4.jpg"/>
 <div class="caption">Settings</div>
 
 Click "security" in the left-hand bar and scroll down to the "Add SSH Key" button. Paste your public key in there and give it any name you want—just make sure to remember it!
@@ -186,7 +186,7 @@ $ git clone https://github.com/jlund/streisand.git .
 
 If for some reason `git` fails, you can always go to [`streisand`'s GitHub page](https://github.com/jlund/streisand) and click the "download .zip" button, and then unzip the files into the "streisand" folder:
 
-<img src="/assets/img/vpn-6.jpg"/>
+<img src="/img/vpn-6.jpg"/>
 <div class="caption">Download ZIP</div>
 
 Now just type

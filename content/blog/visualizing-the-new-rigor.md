@@ -21,7 +21,7 @@ This is a force-directed graph (named because it simulates physical forces, *e.g
 I made this visualization using [D3.js](http://d3js.org), a Javascript library for making (and I paraphrase from the explanations of D3 littered across the World Wide Web) flexible data-driven documents. Charts, graphs, [pixel toys that reveal koalas](http://koalastothemax.com): if it's made of data and visuals, D3's got your back.
 
 <figure>
-<img src="/assets/img/newrigor-1.jpg"/>
+<img src="/img/newrigor-1.jpg"/>
 <figcaption>To the max!</figcaption>
 </figure>
 

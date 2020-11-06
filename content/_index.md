@@ -10,4 +10,4 @@ My [research](/research) bridges media studies, digital humanities, and the envi
 
 [I teach](/teaching) courses in digital media studies, film studies, and writing composition. I'm also available for consultations on a range of digital humanities projects. Before graduate school, I worked as a post-baccalaureate resident with [Five College Digital Humanities](http://5colldh.org) and received degrees in English and Theater & Dance from [Amherst College](https://www.amherst.edu).
 
-On this corner of the internet, you can [see some of my work](/research), [check out my CV](/cv), take a closer look at the [courses I teach](/teaching), or [read some blog posts](/blog). Though if you'd rather look at a [picture of my cat](/assets/img/agatha-frontpage.jpg), I really couldn't blame you.
+On this corner of the internet, you can [see some of my work](/research), [check out my CV](/cv), take a closer look at the [courses I teach](/teaching), or [read some blog posts](/blog). Though if you'd rather look at a [picture of my cat](/img/agatha-frontpage.jpg), I really couldn't blame you.

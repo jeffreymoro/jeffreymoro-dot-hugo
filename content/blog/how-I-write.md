@@ -14,14 +14,14 @@ My workflow is one that I developed early on in my graduate studies with the int
 
 I do basically all my writing and coding and general living in a text editor. I've cycled through most of the major ones—Notepad, Sublime Text, Atom, and even tried my hand at emacs and vim—and have finally settled, for now on [VS Code](https://code.visualstudio.com/). I have no particular affection or dislike for this text editor; it just seems like the one that's getting the most development attention at this present juncture, and doesn't drain down my laptop's battery. 
 
-![how-i-write-1](/assets/img/how-i-write-1.jpg)
+![how-i-write-1](/img/how-i-write-1.jpg)
 <div class="caption">A dissertation chapter in VS Code.</div>
 
 My writing is in [Markdown](https://www.markdownguide.org/). So's everyone's these days, but it works for me. It provides me just enough markup that I can make my text useful in a variety of settings but doesn't get too bogged down. At this point, using asterisks for \**italics*\* is just second nature. 
 
 I keep projects organized in a directory structure on my computer that I manage myself. I got the idea from using Scrivener for a few years, but I hated how Scrivener locked everything within a single archive file. I wanted to be able to see everything myself—and to keep those files in a [git](https://git-scm.com/) repository, for those looking to take things to the next level of unnecessary complexity. This is what that directory structure looks like: 
 
-![how-i-write-2](/assets/img/how-i-write-2.jpg)
+![how-i-write-2](/img/how-i-write-2.jpg)
 <div class="caption">That same chapter's directory structure.</div>
 
 You can see that it's mirrored in VS Code. I use a [project manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) plugin there to make switching between various projects easier. I also wrote a small script to automate starting new projects with that structure. You can download it [here](/assets/files/new-project-script). 
@@ -30,7 +30,7 @@ The actual writing itself is fairly uninteresting and honestly you've got your o
 
 The real clincher for me is adding in citations. I keep all my citations in [Zotero](https://www.zotero.org/), which I resisted for a long time but then just took a week to make it happen and I can't imagine life without it. In Zotero, I use a plugin called [Better BibTeX](https://retorque.re/zotero-better-bibtex/), which can export my entire library in a database file with the extension .bib. This becomes the key to the enterprise. Using a plugin in VS Code (I told you it was an unnecessary complex system!) called [Pandoc Citer](https://marketplace.visualstudio.com/items?itemName=notZaki.pandocciter), I can direct my text editor to that database file. I can then call up citation shortcodes from within VS Code, as such: 
 
-![how-i-write-3](/assets/img/how-i-write-3.jpg)
+![how-i-write-3](/img/how-i-write-3.jpg)
 <div class="caption">Shortcodes in action.</div>
 
 Now, all this looks human-readable enough, but it's also coder garbage. Here a delightful command line tool called [pandoc](https://pandoc.org/) steps in. pandoc is amazing. I basically think it redeems computers. It can take basically any kind of text and turn it into other kinds of text. In my situation, it turns markdown files into...pretty much anything. Mostly .docx, because let's be real that's where academic work in the humanities always ends up.
