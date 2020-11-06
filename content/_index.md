@@ -1,6 +1,6 @@
 # Hi, I'm Jeffrey Moro.
 
-<img src="/assets/img/selfie-fall.jpg" class="selfie"/>
+<img src="/img/selfie-fall.jpg" class="selfie"/>
 
 I'm a PhD candidate in English with a certificate in Digital Studies at the [University of Maryland](http://english.umd.edu). Right now, I'm also the [Winnemore Digital Humanities Dissertation Fellow](https://mith.umd.edu/introducing-jeffrey-moro-2020-winnemore-fellow/) at the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/). 
 

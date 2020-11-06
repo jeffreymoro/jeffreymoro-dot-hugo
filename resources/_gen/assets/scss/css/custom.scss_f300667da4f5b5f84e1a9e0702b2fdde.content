@@ -67,6 +67,38 @@
 * + * {
   margin-top: 1.5rem; }
 
+img {
+  height: auto;
+  display: block;
+  max-width: 100%;
+  max-height: none; }
+
+.main-and-footer h1, .main-and-footer h2, .main-and-footer h3, .main-and-footer h4, .main-and-footer h5, .main-and-footer h6 {
+  font-family: "Calibre", sans-serif;
+  color: #313131; }
+
+.main-and-footer p {
+  font-family: "Untitled Serif", serif;
+  color: #333333; }
+
+.bigfoot-footnote__content p {
+  -webkit-font-smoothing: antialiased;
+  font-family: "Calibre", sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.2rem; }
+
+.footnotes {
+  font-family: "Calibre", sans-serif;
+  font-size: 0.7rem; }
+
+.selfie {
+  width: 50%;
+  border-radius: 5px;
+  margin-top: 40px;
+  margin-right: 30px;
+  margin-bottom: 10px;
+  float: left; }
+
 .intro-and-nav {
   padding-top: 2rem;
   background-color: #75b5aa;
@@ -407,3 +439,16 @@ a {
 
 .bigfoot-footnote__container {
   margin-top: 0rem !important; }
+
+@media (max-width: 45em) {
+  .one-half,
+  .one-third,
+  .two-thirds,
+  .three-fourths,
+  .one-fourth {
+    display: block;
+    float: none;
+    width: 100%; }
+  .selfie {
+    width: 100%;
+    float: none; } }

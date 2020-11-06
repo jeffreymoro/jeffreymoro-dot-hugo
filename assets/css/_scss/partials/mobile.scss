@@ -1,0 +1,18 @@
+// Media Queries
+
+@media (max-width: 45em) {
+
+	.one-half,
+	.one-third,
+	.two-thirds,
+	.three-fourths,
+	.one-fourth {
+		display: block;
+		float: none;
+		width: 100%;
+	}
+	.selfie {
+		width: 100%;
+		float: none;
+	}
+}
