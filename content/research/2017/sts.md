@@ -2,7 +2,7 @@
 layout: research-post
 title: "Sufaces, Standards, Layers, Stacks: Toward a Platform Textuality"
 date: 2017-06-02
-type: conference paper
+layout: research
 tags: 
 - text
 - internet
@@ -57,7 +57,7 @@ A quick demo: if I click here on the "index.html" file, I see the source HTML fo
 <img src="/img/sts-5.jpg"/>
 <div class="caption">The index.html file.</div>
 
-We can see that GitHub fulfills a certain Borgesian dream of textuality: endlessly addressable, endlessly remembered, easily navigable and infinitely dense.[^2] These promises are what Bratton characterizes as the "added value" of platforms, in that the networking operations of platforms "absorb and train information, making it more visible, more structured, and more extensible for the individual User or in relation to other Users who make further use of it."[^3] This value-added work undergirds what Bratton calls "platform sovereignties," or the ways that we as Users get trapped within these fundamentally *useful* operations such that platforms begin to produce and structure governance. 
+We can see that GitHub fulfills a certain Borgesian dream of textuality: endlessly addressable, endlessly remembered, easily navigable and infinitely dense.[^2] These promises are what Bratton characterizes as the "added value" of platforms, in that the networking operations of platforms "absorb and train information, making it more visible, more structured, and more extensible for the individual User or in relation to other Users who make further use of it." [^3] This value-added work undergirds what Bratton calls "platform sovereignties," or the ways that we as Users get trapped within these fundamentally *useful* operations such that platforms begin to produce and structure governance. 
 
 [^2]: I get the Borges frame from Matthew Kirschenbaum, cite your mentors.
 [^3]: Bratton, 48.
@@ -78,5 +78,3 @@ So in highlighting these threads, I'm not trying to poke fun at these users or m
 <div class="caption">Briefly visualizing the work on the "What is Code?" repo with <a href="http://gource.io/">gource</a>.</div>
 
 I want to close briefly by returning back to Bratton and the more heady geopolitics that opened this talk. I'm not going to stick this landing, and indeed I'm less interested in doing so and more in opening up space in which we can speculate collectively on these textualities and the work of platforms in guiding and training how we produce and respond to texts. I've actually been trying to do all of my formal writing this semester *in* GitHub, as a kind of practical training for this talk. It's a hard practice. It takes a lot of effort to remember the contours of "plain text" markup and to stay in the rhythm of commits. I have become very aware of how the platform incorporates me and my practices into and as technical objects: I am a User, me, my body, my fingers and a User-function, a collection of traces in a system indexed to but not precisely bound to my body. Given that this talk is at the very end of the conference I want to try a grand circle of sorts, and also return the citation karma: I'm struck for how the social aspects of GitHub as a platform infect and reverberate into the version control in ways similar to how Marisa Parham limned for us in her opening keynote. GitHub becomes, like any online platform, a negotiation between the thing I am and the thing I imagine myself to be, even as that imagination is the sub- or unconscious aggregation of thousands of tiny, self-imposed, self-trained, self-made-useful-to-myself *textual* actions. In this sense, perhaps Bratton's theory is most useful in characterizing particular techniques through which systems incorporate selves into them: ideology for the machine age. 
-
----

@@ -111,7 +111,7 @@ conferenceTalks:
 
 conferenceOther:
   - title: "Environmental Justice and the Digital Humanities"
-    snippet: 'A roundtable I chaired with Purdom Lindblad, Gabriela Baeza Ventura, and Kim Bain on strategies for centering environmental justice and decolonial thinking in digital humanities work. Open notes and ongoing collaborations are accessible in the link here:'
+    snippet: 'A roundtable I chaired with Purdom Lindblad, Gabriela Baeza Ventura, and Kim Bain on strategies for centering environmental justice and decolonial thinking in digital humanities work.'
     conference: ACH 2019
     institution: Association for Computers and the Humanities
     location: Pittsburgh, PA
@@ -120,14 +120,14 @@ conferenceOther:
     event: "ACH 2019"
     url: "https://environmental-dh.github.io/"  
   - title: "Breath Control: 3D Printing and Environmental Media"
-    snippet: 'A poster version of an alternate universe version of my first dissertation chapter, developing environmental approaches to maker culture and media toxicity. I tweeted the poster here:'
+    snippet: 'A poster version of an alternate universe version of my first dissertation chapter, developing environmental approaches to maker culture and media toxicity.'
     conference: ACH 2019
     institution: Association for Computers and the Humanities
     location: Pittsburgh, PA
     date: July 2019
     panel: ""
     event: "ACH 2019"
-    url: "https://twitter.com/jeffreymoro/status/1154449314648772610?s=20"  
+    url: ""  
   - title: "Surfaces, Standards, Layers, Stacks: Toward a Platform Textuality"
     snippet: 'A roundtable with Kyle Bickoff and Setsuko Yokoyama on the textuality of platforms. My paper close reads the GitHub repository of Paul Ford’s “What is Code?” to think through the version control site’s pervasive logics of hypervisibility and auto-surveillance.'
     conference: Textual Embodiments
@@ -145,7 +145,7 @@ conferenceOther:
     date: May 2015
     panel: ""
     event: "HASTAC 2015: The Art and Science of Digital Humanities"
-    url: "http://codex.thecritical.is"
+    url: ""
 
 ########### Projects ###########
 projects:
@@ -154,11 +154,6 @@ projects:
     role: Designer
     url: "https://ourbelovedkin.com"
     date: "2016 – 2019"
-  - title: The Recirculator
-    snippet: "A web app that lets you randomly check out books that have never before circulated within the Five College library system."
-    role: PI
-    url: "https://github.com/jeffreymoro/recirculator/"
-    date: "2015 – 2016"
   - title: "E.LIT / NET.ART"
     snippet: 'An introduction to and exploration of electronic literature and Internet art, comprising pop-up IRL and URL galleries, workshops, and a screening program.'
     role: Curator & Organizer

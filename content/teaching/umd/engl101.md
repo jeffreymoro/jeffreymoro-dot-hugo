@@ -7,27 +7,6 @@ institution: University of Maryland, College Park
 number: ENGL101
 ---
 
-<div class="tabsWrapper clear" id="t0">
-<ul class="tabs">
-    <li>
-        <a href="#description">DESCRIPTION</a></li>
-    <li>
-        <a href="#aims">AIMS</a></li>
-    <li>
-        <a href="#materials">MATERIALS</a></li>
-    <li>
-        <a href="#assignments">ASSIGNMENTS</a></li>
-    <li>
-        <a href="#schedule">SCHEDULE</a></li>
-    <li>
-        <a href="#acknowledgements">ACKNOWLEDGEMENTS</a></li>
-    <!--<li>
-        <a href="#acknowledgements">PAST ITERATIONS</a></li>-->
-    <li id="pdftab">
-        <a href="/assets/files/ENGL101-syllabus.pdf">PDF [WITH POLICIES]</a></li>
-</ul>
-</div>
-
 *Last updated 1 November 2019. This page is always the most up-to-date version of the syllabus. For course policies specific to UMD, please refer to the .pdf version hosted on ELMS.*
 
 ## Description

@@ -7,30 +7,7 @@ institution: University of Maryland, College Park
 number: ENGL245
 ---
 
-<div class="tabsWrapper clear" id="t0">
-<ul class="tabs">
-    <li>
-        <a href="#pandemic">PANDEMIC CONTINGENCY MODE</a></li>
-    <li>
-        <a href="#description">DESCRIPTION</a></li>
-    <li>
-        <a href="#aims">AIMS</a></li>
-    <li>
-        <a href="#materials">MATERIALS</a></li>
-    <li>
-        <a href="#assignments">ASSIGNMENTS</a></li>
-    <li>
-        <a href="#schedule">SCHEDULE</a></li>
-    <li>
-        <a href="#acknowledgements">ACKNOWLEDGEMENTS</a></li>
-    <!--<li>
-        <a href="#acknowledgements">PAST ITERATIONS</a></li>-->
-    <li id="pdftab">
-        <a href="/assets/files/ENGL245-syllabus-revised.pdf">PDF [WITH POLICIES]</a></li>
-</ul>
-</div>
-
-*Updated 30 March 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
+*Updated 30 March 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the [.pdf version](/files/ENGL245-syllabus-revised.pdf).*
 
 ## (Revised) Pandemic Contingency Mode
 
@@ -82,7 +59,7 @@ Extended Spring Break. No class meetings.
 
 - *Daughters of the Dust* (Julie Dash, 1991)
 - *Read*:
-  - Marisa Parham, [".break .dance"](http://smallaxe.net/sxarchipelagos/issue03/parham/parham.html)
+  - Marisa Parham, [“.break .dance”](http://smallaxe.net/sxarchipelagos/issue03/parham/parham.html)
 
 #### Week 12, April 14/16: Animation
 
@@ -116,7 +93,7 @@ Extended Spring Break. No class meetings.
   - S02E22, "Beyond Life and Death" (optional, but I recommend watching the last ten minutes to help contextualize season 3.)
   - S03E01, "Part 1" & S03E02, "Part 2" (aired as one continuous episode)
 - *Read*:
-  - Kirsty Fairclough, Michael N. Goddard, and Anthony N. Smith, ["'I’ll See You in 25 Years': The Return of Twin Peaks and Television Aesthetics"](http://sensesofcinema.com/2016/twin-peaks/return-of-twin-peaks/). (I recommend skimming the essays in this *Sense of Cinema* [special feature](http://sensesofcinema.com/category/twin-peaks/).)
+  - Kirsty Fairclough, Michael N. Goddard, and Anthony N. Smith, [“'I’ll See You in 25 Years': The Return of Twin Peaks and Television Aesthetics”](http://sensesofcinema.com/2016/twin-peaks/return-of-twin-peaks/). (I recommend skimming the essays in this *Sense of Cinema* [special feature](http://sensesofcinema.com/category/twin-peaks/).)
 
 <small>*NB*: I recommend viewing *Twin Peaks* throughout the semester, since it's a substantial undertaking even in this highly abbreviated version. I'll distribute recommendations for timing screenings in the first few weeks of class.</small>
 

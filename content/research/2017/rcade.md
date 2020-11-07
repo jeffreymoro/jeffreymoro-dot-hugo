@@ -2,7 +2,7 @@
 layout: research-post
 title: "Vapor Ware, or the Odors of 3D Printing"
 date: 2017-04-21
-type: conference paper
+layout: research
 tags: 
 - anthropocene
 - media archaeology
@@ -40,7 +40,7 @@ There are a dizzying array of plastics available for commericial use with these 
 
 [^1]: It's gauche to link to it, I know, but Wikipedia has some well-researched pages about both [ABS](https://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene) and [PLA](https://en.wikipedia.org/wiki/Polylactic_acid).
 
-Of course, there were other factors as well, mostly having to do with ease of use in a low-end printer like ours. But our purchasing decisions were in no small part shaped by questions of sensation as well as pragmatics. Smell, as we know from biology class, is a chemical act. All our senses are fundamentally physical, not virtual operations, although they do go through a fair amount of post-processing. Light strikes a photoreceptor in on your retina. Expanding and contracting distances between air particles vibrate the tympanum in your ear. Smell and taste are no different: actual particles of material have to enter your body, transgress a boundary as queer theorists like Mel Chen and Alexis Shotwell observe, and latch onto receptors—bind with them, materially *changing* them—which in turn stimulate nerves in such a fashion as to create sensations we call "absolutely wretched" or "cake."[^2]
+Of course, there were other factors as well, mostly having to do with ease of use in a low-end printer like ours. But our purchasing decisions were in no small part shaped by questions of sensation as well as pragmatics. Smell, as we know from biology class, is a chemical act. All our senses are fundamentally physical, not virtual operations, although they do go through a fair amount of post-processing. Light strikes a photoreceptor in on your retina. Expanding and contracting distances between air particles vibrate the tympanum in your ear. Smell and taste are no different: actual particles of material have to enter your body, transgress a boundary as queer theorists like Mel Chen and Alexis Shotwell observe, and latch onto receptors—bind with them, materially *changing* them—which in turn stimulate nerves in such a fashion as to create sensations we call "absolutely wretched" or "cake." [^2]
 
 [^2]: Here I am indebted to Chen, Mel Y. “Following Mercurial Affect.” *Animacies: Biopolitics, Racial Mattering, and Queer Affect*, Duke UP, 2012, pp. 189–221 and Shotwell, Alexis. *Against Purity: Living Ethically in Compromised Times*, U of Minnesota P, 2016. For more on the science behind this claim, see Gaillard, I., et al. “Olfactory Receptors.” *Cellular and Molecular Life Sciences CMLS*, vol. 61, no. 4, Feb. 2004, pp. 456–69, doi:10.1007/s00018-003-3273-7. 
 
@@ -73,5 +73,3 @@ Such an argument, taken alongside the thoughts I've sketched for you today, migh
 [^6]: This is a paraphrase line from Kirschenbaum, Matthew. *Mechanisms: New Media and the Forensic Imagination*. MIT P, 2008, pp. 30.
 
 I still haven't gotten my baking cake smell. I browsed the Internet to see if anyone else has run into this weird "problem," and I think the answer might be relatively intuitive. I just need to turn up the heat.
-
----

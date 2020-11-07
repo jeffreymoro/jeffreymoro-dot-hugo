@@ -1,13 +1,37 @@
-<h3>Conference Talks</h3>
+<div>
+	<h3>Conference Talks</h3>
+	{{ range .Site.Data.research.conferenceTalks }}
+	<div class="research-title">
+		{{ if ne .url "" }}
+		<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+		{{ else }}
+		&ldquo;{{ .title }}.&rdquo;
+		{{ end }}
+	</div>
+	<div class="research-meta">
+		{{ .date }}, <em>{{ .conference }}</em>, {{ .institution }}, {{ .location }}.
+	</div>
+	<div class="research-descriptor">
+		{{ .snippet | markdownify }}
+	</div>
+	{{ end }}
+</div>
 
-{{ range .Site.Data.research.conferenceTalks }}
-	<p>{{ .title }}. {{ .conference }}. {{ .institution }}. {{ .location }}. {{ .date }}. {{ .event }}</p>
-	<p>{{ .snippet }}</p>
-{{ end }}
-
-<h3>Roundtables & Panels</h3>
-
-{{ range .Site.Data.research.conferenceOther }}
-	<p>{{ .title }}. {{ .conference }}. {{ .institution }}. {{ .location }}. {{ .date }}. {{ .event }}</p>
-	<p>{{ .snippet }}</p>
-{{ end }}
+<div>
+	<h3>Roundtables & Panels</h3>
+	{{ range .Site.Data.research.conferenceOther }}
+	<div class="research-title">
+		{{ if ne .url "" }}
+		<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+		{{ else }}
+		&ldquo;{{ .title }}.&rdquo;
+		{{ end }}
+	</div>
+	<div class="research-meta">
+		{{ .date }}, <em>{{ .conference }}</em>, {{ .institution }}, {{ .location }}.
+	</div>
+	<div class="research-descriptor">
+		{{ .snippet | markdownify }}
+	</div>
+	{{ end }}
+</div>

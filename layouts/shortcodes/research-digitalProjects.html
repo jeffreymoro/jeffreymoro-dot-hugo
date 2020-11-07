@@ -1,4 +1,17 @@
-{{ range .Site.Data.research.projects }}
-	<p>{{ .title }}. {{ .role }}. {{ .date }}</p>
-	<p>{{ .snippet }}</p>
-{{ end }}
+<div>
+	{{ range .Site.Data.research.projects }}
+	<div class="research-title">
+		{{ if ne .url "" }}
+		<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+		{{ else }}
+		&ldquo;{{ .title }}.&rdquo;
+		{{ end }}
+	</div>
+	<div class="research-meta">
+		{{ .date }}, {{ .role | markdownify }}.
+	</div>
+	<div class="research-descriptor">
+		{{ .snippet | markdownify }}
+	</div>
+	{{ end }}
+</div>

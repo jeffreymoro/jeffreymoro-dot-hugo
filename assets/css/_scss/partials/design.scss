@@ -20,6 +20,11 @@ hr {
 p + p {
 	margin-top: 1rem;
 }
+ul, ol {
+	margin-top: 1rem;
+}
+
+
 // Fonts
 
 .main-and-footer {
@@ -194,7 +199,8 @@ p img {
 .research-title {
 	font-family: $sans;
 	font-weight: 700;
-	margin-top: 1.25em;
+	margin-top: 1em !important;
+	line-height: 1.25;
 }
 .research-meta {
 	font-family: $sans;
@@ -206,4 +212,10 @@ p img {
 	margin-top: 0.5em;
 	font-size: 0.9em;
 	margin-left: 1em;
+}
+
+// Various Stylings
+
+blockquote {
+	border-left: 0.5rem solid $accent-color;
 }

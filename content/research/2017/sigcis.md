@@ -2,7 +2,7 @@
 layout: research-post
 title: "Roomba in Revolt: Sociability and Securitization in the Internet of Things"
 date: 2017-03-18
-type: conference paper
+layout: research
 tags: 
 - internet of things
 - security
@@ -95,5 +95,3 @@ Doing so makes sense in the short term, but misconstrues, I think, what we’re 
 I would reconfigure the Internet of Things as an Assemblage of Sociable Energies (it’s not as catchy, I know), one in which we are mutually interdependent with objects that indeed can make our lives more interesting, joyous, practical or impractical. In such a frame, security, framed as the useful managing of tactical vulnerability rather than the delimitation of energetic possibility, must arise from both human and nonhuman agents. If our devices operate through insecurity, then they must be open to vectors through which attacks can occur. As I’ve argued, that Mirai targets insecure usernames and passwords reveals the human agent itself as a part of the security apparatus. Insecurity then moves both ways, as devices leave humans open to attack while humans leave devices open to attack. I think the chill in that sentence emerges more from our prevailing cultures of securitization, which outwardly demonize the sociable even as they demand it for operation. Of course, control can’t help but enter the frame: if we had platform cooperatives rather than centralized megacorps, this would probably be a very different talk. 
 
 But for now, we are caught between the rock and hard place of sociability and securitization. I’m not going to stick the dialectical landing here, but in such moments I want to turn back to Donna Haraway’s relentlessly call for a material and political embrace of our “joint kinship” with technology, our partiality and hybridity, our mutual introjection and prosthesis. Our devices operate by leaking and so do we: not only tracing out smells, secretions, rhythms, habits, and movements, but also by recognizing and responding to the traces of others. In this Assemblage of Sociable Energies, the human is a useful but not a special category; and “security” is the practice of kinship rather than isolation. This is an optimistic image, I know. It has no immediate answers for malicious actors, although I think that we have much to learn from those activists, including those in the prison abolition movement, who offer models for community policing and care. But I hope it begins to map territory for imagining a more capacious “we,” along lines of technology and humanity alike. 
-
----

@@ -2,7 +2,7 @@
 layout: research-post
 title: "Want of Water, Want of Data: The Trans-Atlantic Slave Trade Database and Oceanic Computing"
 date: 2018-10-12
-type: conference paper
+layout: research
 tags:
 - environmental media studies
 - aesthetics
@@ -14,7 +14,7 @@ tags:
 ![turner-slave-ship](/img/sigcis-2018-1-turner.jpg)
 <div class="caption">J.M.W. Turner's <em>The Slave Ship</em>, 1840. Turner painted this after reading Thomas Clarkson's 1840 <em>The History and Abolition of the Slave Trade</em>, which recounted the story of the Zong.</div>
 
-> "Our entrance to the past is through memory—either oral or written. And water. In this case salt water. Sea water."[^0] 
+> "Our entrance to the past is through memory—either oral or written. And water. In this case salt water. Sea water." [^0] 
 
 [^0]: Philip, N. NourbeSe. *Zong!*, Wesleyan UP, 2008, pp. 201.
 
@@ -35,7 +35,7 @@ In particular, I offer the ocean as a fruitful counter-model for how digital arc
 
 ## For Want of Data
 
-In 2006, Emory received an NEH grant to construct the open-access website that eventually became <slavevoyages.org>, the TASTD's current home. The data themselves date back to work begun in the 1960's by historian Herbert S. Klein. The data were originally available as a series of published volumes and on CD-ROM, but now, under Emory's auspices, the 30.6 megabyte database is a free resource for scholars and the public alike.
+In 2006, Emory received an NEH grant to construct the open-access website that eventually became [slavevoyages.org](https://slavevoyages.org), the TASTD's current home. The data themselves date back to work begun in the 1960's by historian Herbert S. Klein. The data were originally available as a series of published volumes and on CD-ROM, but now, under Emory's auspices, the 30.6 megabyte database is a free resource for scholars and the public alike.
 
 ![TASTD-interface](/img/sigcis-2018-3-TASTD-interface.jpg)
 <div class="caption">The TASTD's web interface</div>
@@ -49,7 +49,7 @@ The site's interface takes the form of a left column of variables that one can s
 
 It's worth pausing to distinguish between two types of variables that exist in the TASTD. On the one hand, there are "direct" variables, those drawn directly from archival sources—log-books, newspaper reports, court cases. And on the other, there are "imputed" variables, those inferred and calculated by the scholars assembling these data. These two variable types mix together, though imputed variables are tagged with asterisks. This marking is far from transparent. One would have to read fairly far into its documentation to learn which variables are which and what the graphical system entailed. Moreover, there are some variables, such as "flag," that have both archival and imputed iterations. I don't intend this as a slight against the site's design. Indeed, I commend its authors in foregrounding more than most of the labor and decisions that went into shaping this resource. Rather, I intend to gesture to the tricky tensions of assembling such a resource: many of the data that one would ostensibly most want to know about these voyages, such as mortality rates or specific ports of departure, are by their nature not formally recorded in ledgers and logs. They are gaps and silences in our archive. The TASTD then makes the choice, as we all must make for ourselves, whether to derive these data through interpretive acts. 
 
-Here we might recall Lisa Gitelman's and Virginia's Jackson's argument that "data need to be imagined *as data* to exist and function as such."[^3] Without first imagining that these voyages might be shaped to fit the database form, without that first want for data, the database itself could not exist. And as Ian Baucom observes, that the Zong case is one of insurance, rather than a murder trial, bespeaks how foundational chattel slavery is to the logics of counting and accounting that undergird contemporary finance capitalism.[^4] By imagining the Middle Passage as data, as fungible, manipulable, discrete, countable—we are not necessarily doing something new to it. We are participating in a deep time of datafication. 
+Here we might recall Lisa Gitelman's and Virginia's Jackson's argument that "data need to be imagined *as data* to exist and function as such." [^3] Without first imagining that these voyages might be shaped to fit the database form, without that first want for data, the database itself could not exist. And as Ian Baucom observes, that the Zong case is one of insurance, rather than a murder trial, bespeaks how foundational chattel slavery is to the logics of counting and accounting that undergird contemporary finance capitalism.[^4] By imagining the Middle Passage as data, as fungible, manipulable, discrete, countable—we are not necessarily doing something new to it. We are participating in a deep time of datafication. 
 
 [^2]: Eltis, David. "Introduction." *The Trans-Atlantic Slave Trade Database*, Emory University, 2010. <http://slavevoyages.org/voyage/understanding-db/methodology-1>. 
 [^3]: Gitelman, Lisa, and Virginia Jackson. “Introduction.” *“Raw Data” Is an Oxymoron*, edited by Lisa Gitelman, MIT P, 2014, pp. 1–14, pp. 3. 
@@ -79,7 +79,7 @@ These tensions get laid bare most often when data as asked to speak in visual fo
 ![TASTD-map](/img/sigcis-2018-6a-TASTD-aggregate-map.jpg)
 <div class="caption">An aggregate map for all vessels flying the British flag in 1781.</div>
 
-Indeed, we can see the Zong's deviation from the norm when sorting for all vessels flying the British flag in 1781. But the precise contours of this deviation are still conjecture, and when inscribed on a map begin to signify with an unreckoned weight. Marisa Parham, writing about a different map that [historian Ben Schmidt produced](http://benschmidt.org/maps-visualizations-gallery/) of eighteenth- and nineteenth-century shipping paths from the US Maury collection, notes that these kinds of speculative cartographic projects occupy a liminal space between meaning and non-meaning. They are "compelling," she argues, "because [they] elicit a sense of truth an evidence while simultaneously demonstrating nothing. [They are suggestive] because we are left to imagine the histories fanned by those dark wisps."[^8]
+Indeed, we can see the Zong's deviation from the norm when sorting for all vessels flying the British flag in 1781. But the precise contours of this deviation are still conjecture, and when inscribed on a map begin to signify with an unreckoned weight. Marisa Parham, writing about a different map that [historian Ben Schmidt produced](http://benschmidt.org/maps-visualizations-gallery/) of eighteenth- and nineteenth-century shipping paths from the US Maury collection, notes that these kinds of speculative cartographic projects occupy a liminal space between meaning and non-meaning. They are "compelling," she argues, "because [they] elicit a sense of truth an evidence while simultaneously demonstrating nothing. [They are suggestive] because we are left to imagine the histories fanned by those dark wisps." [^8]
 
 ![Maury](/img/sigcis-2018-7-Maury.jpg)
 <div class="caption">Ben Schmidt's map of the trading routes in the US Maury collection.</div>
@@ -92,7 +92,7 @@ And, like Philip, whose work has haunted this talk, I find much to recommend in 
 
 ## Oceanic Computing
 
-The turn to elementality is a growing presence in contemporary digital media studies. Scholars such as Jussi Parikka, Nicole Starosielski, and John Durham Peters, among others, have begun to put media studies and ecological critique in conversation, asking how we understand the planet and its materiality as the grounds for digital media production and transmission. Peters in particular has been foundational to this turn. He argues that elements both classical and chemical provide a hermeneutic through which theorists can connect technicity to ecology. Rather than thinking media as environments, he asks us to think "environments [as] also media."[^9] It is in this spirit that I now turn to the fundamental substrate of the Zong's voyage: the ocean. 
+The turn to elementality is a growing presence in contemporary digital media studies. Scholars such as Jussi Parikka, Nicole Starosielski, and John Durham Peters, among others, have begun to put media studies and ecological critique in conversation, asking how we understand the planet and its materiality as the grounds for digital media production and transmission. Peters in particular has been foundational to this turn. He argues that elements both classical and chemical provide a hermeneutic through which theorists can connect technicity to ecology. Rather than thinking media as environments, he asks us to think "environments [as] also media." [^9] It is in this spirit that I now turn to the fundamental substrate of the Zong's voyage: the ocean. 
 
 [^9]: Peters, John Durham. *The Marvelous Clouds: Toward a Philosophy of Elemental Media*. U of Chicago P, 2015, pp. 7. 
 
@@ -101,7 +101,7 @@ Digital media have long taken up oceanic and navigational metaphors. We *surf* t
 ![Telegeography](/img/sigcis-2018-8-telegeography.jpg)
 <div class="caption">TeleGeography's map of undersea cables. Current as of 11 Oct. 2018.</div>
 
-Nicole Starosielski's *The Undersea Network* reminds us of the historical inertia of communications technologies. The undersea internet cables of her study "follow the contours of earlier networks, layered on top of earlier telegraph and telephone cables, power systems, lines of cultural migration, and trade routes."[^10] We could continue this archaeology to think of the ocean currents and prevailing winds that enable such routes. Here is a map of the current configuration of undersea cables, drawn from the website TeleGeography, a resource on which Starosielski relies as well. In the Atlantic Ocean, the networks between the United States and United Kingdom stand out the most, as do the densely knit interconnections of the Caribbean and the cables running the length of the South American coast. One cable links West Africa to the New World, from Cameroon to Brazil. Compare this map again to Schmidt's. While the undersea cable networks have preserved certain colonial relations, others, including the Middle Passage, seem to have attenuated over the years. Once again, I think of Parham's critique: is this point anything more than paratactic coincidence? Am I once again confronted with a profusion of data points telling me everything and yet demonstrating nothing? 
+Nicole Starosielski's *The Undersea Network* reminds us of the historical inertia of communications technologies. The undersea internet cables of her study "follow the contours of earlier networks, layered on top of earlier telegraph and telephone cables, power systems, lines of cultural migration, and trade routes." [^10] We could continue this archaeology to think of the ocean currents and prevailing winds that enable such routes. Here is a map of the current configuration of undersea cables, drawn from the website TeleGeography, a resource on which Starosielski relies as well. In the Atlantic Ocean, the networks between the United States and United Kingdom stand out the most, as do the densely knit interconnections of the Caribbean and the cables running the length of the South American coast. One cable links West Africa to the New World, from Cameroon to Brazil. Compare this map again to Schmidt's. While the undersea cable networks have preserved certain colonial relations, others, including the Middle Passage, seem to have attenuated over the years. Once again, I think of Parham's critique: is this point anything more than paratactic coincidence? Am I once again confronted with a profusion of data points telling me everything and yet demonstrating nothing? 
 
 [^10]: Starosielski, Nicole. *The Undersea Network*. Duke UP, 2015, pp. 2
 
@@ -109,6 +109,6 @@ What I propose here at the end that turning to the ocean in this moment teaches 
 
 To complete Philip's quote that served as my epigraph: 
 
-> "Our entrance to the past is through memory—either oral or written. And water. In this case salt water. Sea water. And, as the ocean appears to be the same yet is constantly in motion, affected by tidal movements, so too this memory appears stationary yet is shifting always. Repetition drives the event and the memory simultaneously, becoming a haunting, becoming spectral in nature."[^11]
+> "Our entrance to the past is through memory—either oral or written. And water. In this case salt water. Sea water. And, as the ocean appears to be the same yet is constantly in motion, affected by tidal movements, so too this memory appears stationary yet is shifting always. Repetition drives the event and the memory simultaneously, becoming a haunting, becoming spectral in nature." [^11]
 
 [^11]: Philip, 201. 
