@@ -1,11 +1,35 @@
-<h3>Conference Talks</h3>
+<div>
+	<h3>Conference Talks</h3>
+	<div class="cv-pub-list">
+	<ul>
+		{{ range .Site.Data.cv.conferenceTalks }}
+		<li>
+			{{ if ne .url "" }}
+			<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+			{{ else }}
+			&ldquo;{{ .title }}.&rdquo;
+			{{ end }}
+			{{ .institution }}. {{ .location }}. <i>{{ .event }}</i>, {{ .date }}.
+		</li>
+		{{ end }}
+	</ul>
+	</div>
+</div>
 
-{{ range .Site.Data.cv.conferenceTalks }}
-	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}. {{ .institution }}. {{ .location }}, {{ .event }}.</p>
-{{ end }}
-
-<h3>Roundtables & Panels</h3>
-
-{{ range .Site.Data.cv.conferenceOther }}
-	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}. {{ .institution }}. {{ .location }}, {{ .event }}.</p>
-{{ end }}
+<div>
+	<h3>Roundtables & Panels</h3>
+	<div class="cv-pub-list">
+	<ul>
+		{{ range .Site.Data.cv.conferenceOther }}
+		<li>
+			{{ if ne .url "" }}
+			<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+			{{ else }}
+			&ldquo;{{ .title }}.&rdquo;
+			{{ end }}
+			{{ .institution }}. {{ .location }}. <i>{{ .event }}</i>, {{ .date }}.
+		</li>
+		{{ end }}
+	</ul>
+	</div>
+</div>

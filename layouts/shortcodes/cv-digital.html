@@ -1,11 +1,35 @@
-<h3>Major Projects</h3>
+<div>
+	<h3>Major Projects</h3>
+	<div class="cv-pub-list">
+	<ul>
+		{{ range .Site.Data.cv.projects }}
+		<li>
+			{{ if ne .url "" }}
+			<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+			{{ else }}
+			&ldquo;{{ .title }}.&rdquo;
+			{{ end }}
+			{{ .role }}. {{ .date }}.
+		</li>
+		{{ end }}
+	</ul>
+	</div>
+</div>
 
-{{ range .Site.Data.cv.projects }}
-	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .role }}. {{ .date }}.</p>
-{{ end }}
-
-<h3>Minor Projects</h3>
-
-{{ range .Site.Data.cv.minorProjects }}
-	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .role }}. {{ .date }}.</p>
-{{ end }}
+<div>
+	<h3>Minor Projects</h3>
+	<div class="cv-pub-list">
+	<ul>
+		{{ range .Site.Data.cv.minorProjects }}
+		<li>
+			{{ if ne .url "" }}
+			<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+			{{ else }}
+			&ldquo;{{ .title }}.&rdquo;
+			{{ end }}
+			{{ .role }}. {{ .date }}.
+		</li>
+		{{ end }}
+	</ul>
+	</div>
+</div>

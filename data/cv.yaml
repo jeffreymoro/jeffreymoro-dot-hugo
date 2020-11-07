@@ -220,7 +220,7 @@ awards:
 ########### Courses and Workshops ###########
 coursesUMD:
   - title: "Film Form and Culture"
-    date: 2020
+    date: 2020, 2021
     url: "/teaching/umd/engl245/"
   - title: "Introduction to Digital Studies"
     date: 2019
@@ -231,7 +231,7 @@ coursesUMD:
 
 coursesSmith:
   - title: "Media Archaeology, Climate Change, and the Digital (Non)humanities"
-    date: "2016. (January-term course)"
+    date: "2016 (January-term course)"
     url: "https://ecomedia.jeffreymoro.com"
   - title: "E.LIT / NET.ART"
     date: "2015 (January-term course)"
@@ -249,7 +249,7 @@ workshop:
     date: "2015"
     url: "http://thenewrigor.5colldh.org"
   - title: "Five College Digital Humanities Speaker Series and Student Symposia"
-    organizer: Organized by Five College Digital Humanities
+    organizer: Five College Digital Humanities
     location: Amherst College
     date: 2014–16
     url: ""
@@ -314,6 +314,6 @@ skills:
   - title: "Human-Adjacent Languages"
     things: "French (reading), Spanish (reading)"
   - title: "Computer-Adjacent Languages"
-    things: "HTML, CSS/SASS, Jekyll + Liquid templating, Javascript, TEI, LaTeX, Python (reading), Perl (reading)"
+    things: "HTML, CSS/SASS, Jekyll + Liquid templating, Hugo + Go Templating, Javascript, TEI, LaTeX, Python"
 
 ---

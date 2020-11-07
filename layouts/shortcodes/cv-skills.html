@@ -1,3 +1,11 @@
-{{ range .Site.Data.cv.skills }}
-	<p>{{ .title }}. {{ .things }}.</p>
-{{ end }}
+<div>
+	<div class="cv-pub-list">
+		<ul>
+			{{ range .Site.Data.cv.skills }}
+			<li>
+				<b>{{ .title }}</b>: {{ .things }}.
+			</li>
+			{{ end }}
+		</ul>
+	</div>
+</div>

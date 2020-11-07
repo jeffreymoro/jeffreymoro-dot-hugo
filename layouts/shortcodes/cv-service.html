@@ -1,17 +1,37 @@
-<h3>Membership</h3>
+<div>
+	<h3>Memberships</h3>
+	<div class="cv-pub-list">
+		<ul>
+			{{ range .Site.Data.cv.membership }}
+			<li>
+				{{ .title }}, {{ .institution }}.
+			</li>
+			{{ end }}
+		</ul>
+	</div>
+</div>
 
-{{ range .Site.Data.cv.membership }}
-	<p>{{ .title }}. {{ .institution }}.</p>
-{{ end }}
+<div>
+	<h3>Service</h3>
+	<div class="cv-pub-list">
+		<ul>
+			{{ range .Site.Data.cv.service }}
+			<li>
+				{{ .title }}, {{ .institution }}. {{ .year }}.
+			</li>
+			{{ end }}
+		</ul>
+	</div>
+</div>
 
-<h3>Service</h3>
-
-{{ range .Site.Data.cv.service }}
-	<p>{{ .title }}. {{ .institution }}. {{ .year }}</p>
-{{ end }}
-
-<h3>Scholarly Organizations</h3>
-
-{{ range .Site.Data.cv.orgs }}
-	<p>{{ .title }}.</p>
-{{ end }}
+<div>
+	<h3>Scholarly Organizations</h3>
+	<div class="cv-pub-list">
+		<ul>
+			{{ range .Site.Data.cv.orgs }}
+			<li>
+				{{ .title }}
+			</li>
+			{{ end }}
+		</ul>
+	</div>

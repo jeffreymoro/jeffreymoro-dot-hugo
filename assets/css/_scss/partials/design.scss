@@ -182,5 +182,28 @@ p img {
 		list-style: none;
 		margin-left: 3.5rem;
 		text-indent: -2.25rem;
+		font-size: calc(0.8em + 0.33vw);
 	}
+}
+.cv-sub {
+	font-size: 85%;
+}
+
+// Research
+
+.research-title {
+	font-family: $sans;
+	font-weight: 700;
+	margin-top: 1.25em;
+}
+.research-meta {
+	font-family: $sans;
+	font-size: 90%;
+	margin-top: 0;
+}
+.research-descriptor {
+	font-family: $serif;
+	margin-top: 0.5em;
+	font-size: 0.9em;
+	margin-left: 1em;
 }

@@ -1,20 +1,53 @@
-<h3>Courses of Record</h3>
+<div>
+	<h3>Courses of Record</h3>
 
-<h4>UMD</h4>
+	<h4>UMD</h4>
+	<div class="cv-pub-list">
+	<ul>
+		{{ range .Site.Data.cv.coursesUMD }}
+		<li>
+			{{ if ne .url "" }}
+			<a href="{{ .url }}" target="_blank">{{ .title }}.</a>
+			{{ else }}
+			&ldquo;{{ .title }}.&rdquo;
+			{{ end }}
+			{{ .date }}.
+		</li>
+		{{ end }}
+	</ul>
+	</div>
+	
+	<h4>Smith College</h4>
+	<div class="cv-pub-list">
+		<ul>
+			{{ range .Site.Data.cv.coursesSmith }}
+			<li>
+				{{ if ne .url "" }}
+				<a href="{{ .url }}" target="_blank">{{ .title }}.</a>
+				{{ else }}
+				&ldquo;{{ .title }}.&rdquo;
+				{{ end }}
+				{{ .date }}.
+			</li>
+			{{ end }}
+		</ul>
+	</div>
+</div>
 
-{{ range .Site.Data.cv.coursesUMD }}
-	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}.</p>
-{{ end }}
-
-<h4>Smith College</h4>
-
-{{ range .Site.Data.cv.coursesSmith }}
-	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .date }}.</p>
-{{ end }}
-
-<h3>Workshops Led</h3>
-
-{{ range .Site.Data.cv.workshop }}
-	<p><a href="{{ .url }}">{{ .title }}</a>. {{ .organizer }}, {{ .location }}. {{ .date }}.</p>
-{{ end }}
-
+<div>
+	<h3>Workshops Led</h3>
+	<div class="cv-pub-list">
+	<ul>
+		{{ range .Site.Data.cv.workshop }}
+		<li>
+			{{ if ne .url "" }}
+			<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+			{{ else }}
+			&ldquo;{{ .title }}.&rdquo;
+			{{ end }}
+			{{ .organizer }}, {{ .location }}. {{ .date }}.
+		</li>
+		{{ end }}
+	</ul>
+	</div>
+</div>

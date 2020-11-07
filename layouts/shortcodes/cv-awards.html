@@ -1,11 +1,27 @@
-<h3>Fellowships</h3>
+<div>
+	<h3>Fellowships</h3>
+	<div class="cv-pub-list">
+	<ul>
+		{{ range .Site.Data.cv.fellowships }}
+		<li>
+			{{ .title }}. {{ .date }}. <br/>
+			<span class="cv-sub">{{ .secondary | markdownify }}</span>
+		</li>
+		{{ end }}
+	</ul>
+	</div>
+</div>
 
-{{ range .Site.Data.cv.fellowships }}
-	<p>{{ .title }}. {{ .secondary }}. {{ .date }}.</p>
-{{ end }}
-
-<h3>Awards</h3>
-
-{{ range .Site.Data.cv.awards }}
-	<p>{{ .title }}. {{ .secondary }}. {{ .date }}.</p>
-{{ end }}
+<div>
+	<h3>Awards</h3>
+	<div class="cv-pub-list">
+	<ul>
+		{{ range .Site.Data.cv.awards }}
+		<li>
+			{{ .title }}. {{ .date }}.<br/>
+			<span class="cv-sub">{{ .secondary | markdownify }}</span>
+		</li>
+		{{ end }}
+	</ul>
+	</div>
+</div>
