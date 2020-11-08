@@ -21,6 +21,4 @@ So while I would never want to praise Google for doing anything, let's pour one 
 
 Anyway if you need me I'll be on Mastodon.[^1]
 
----
-
 [^1]: Okay but The Dream Of The Nineties Is Alive On Mastodon, even if I don't post there anymore and neither does anyone I know, and honestly I think it's fine to leave it to the benign communist furries for whom it was the original refuge: why should we take over something that's so clearly someone else's?

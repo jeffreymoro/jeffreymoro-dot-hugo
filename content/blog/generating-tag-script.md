@@ -26,11 +26,9 @@ tags:
 
 and loop in some Liquid templating code to my post layout:
 
-{% raw %}
 ``` html
 tagged in {% for tag in page.tags %}<a href="/tags/{{ tag | downcase | replace: ' ', '_' }}/">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
 ```
-{% endraw %}
 
 (which I stole from [Matthew Lincoln](https://github.com/mdlincoln/mdlincoln.github.io)'s site)
 
@@ -74,7 +72,7 @@ Poof! As long as you remember to write your goofy tags into your `tags.yaml` fil
 
 Here's a walkthrough of what this does, for Learning Purposes:
 
-## 1.
+### 1.
 
 ``` bash
 #!/bin/bash
@@ -82,7 +80,7 @@ Here's a walkthrough of what this does, for Learning Purposes:
 
 tells the script which command shell program it's going to use for all of what comes next. It's basically metadata.
 
-## 2.
+### 2.
 
 ``` bash
 rm -rf tags/*.md
@@ -90,7 +88,7 @@ rm -rf tags/*.md
 
 removes any tag pages from your `tags/` directory. This makes sure that what comes next doesn't just write extra text into those files.
 
-## 3.
+### 3.
 
 ``` bash
 while read -r line || [[ -n "$line" ]]; do
@@ -98,7 +96,7 @@ while read -r line || [[ -n "$line" ]]; do
 
 starts a `while` loop that iterates over the `tags.yaml` file, picking out each line and writing it into the `$line` variable.
 
-## 4.
+### 4.
 
 ``` bash
 site=$(pwd)
@@ -112,7 +110,7 @@ This sets up three variables that we'll use in the rest of the script. The first
 
 And `$fileName` takes the `$tag` variable and replaces all whitespace with underscores. This makes it easier to encode URLs down the road.
 
-## 5.
+### 5.
 
 ``` bash
 touch $site/tags/$fileName.md
@@ -120,7 +118,7 @@ touch $site/tags/$fileName.md
 
 This creates the `.md` file for each tag.
 
-## 6.
+### 6.
 
 ``` bash
 echo '---
@@ -132,7 +130,7 @@ title: "'$tag'"
 
 And this is the meat of the script: the part that writes the necessary metadata to each tag `.md` file.
 
-## 7.
+### 7.
 
 ``` bash
 done < "$1"
@@ -143,5 +141,3 @@ Finally, this closes out the `while` loop after it's done with the whole `tags.y
 ---
 
 Phew! That's a lot more than I thought I'd write. But now you know, as do I, the Secret Of Goofy Jekyll Tags. I guess if I start to *actually* write silly tags I should move them to the bottom of my post template so that they don't totally overwhelm the title, but that's a project for another day.
-
----

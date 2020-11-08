@@ -3,8 +3,8 @@ layout: post
 title: Visualizing the New Rigor
 customjs:
 - https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js
-- /assets/js/d3sproing.js
-- /assets/js/newrigortimeline.js
+- /js/d3sproing.js
+- /js/newrigortimeline.js
 redirect_from: "/2015/08/26/visualizing-the-new-rigor/"
 date: 2015-08-26
 tags:

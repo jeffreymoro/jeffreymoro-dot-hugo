@@ -3,7 +3,7 @@
 	{{ range .Site.Data.research.journals }}
 	<div class="research-title">
 		{{ if ne .url "" }}
-		<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+		<a href="{{ .url }}">&ldquo;{{ .title }}.&rdquo;</a>
 		{{ else }}
 		&ldquo;{{ .title }}.&rdquo;
 		{{ end }}
@@ -22,7 +22,7 @@
 	{{ range .Site.Data.research.reviews }}
 	<div class="research-title">
 		{{ if ne .url "" }}
-		<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+		<a href="{{ .url }}">&ldquo;{{ .title }}.&rdquo;</a>
 		{{ else }}
 		&ldquo;{{ .title }}.&rdquo;
 		{{ end }}
@@ -41,7 +41,7 @@
 	{{ range .Site.Data.research.web }}
 	<div class="research-title">
 		{{ if ne .url "" }}
-		<a href="{{ .url }}" target="_blank">&ldquo;{{ .title | markdownify }}.&rdquo;</a>
+		<a href="{{ .url }}">&ldquo;{{ .title | markdownify }}.&rdquo;</a>
 		{{ else }}
 		&ldquo;{{ .title | markdownify }}.&rdquo;
 		{{ end }}

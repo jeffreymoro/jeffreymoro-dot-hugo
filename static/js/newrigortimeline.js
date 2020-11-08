@@ -2,7 +2,7 @@
 var dataset = [];
 
 // Import JSON
-d3.json("data/newrigortimeline_data.json", function(data) {
+d3.json("/data/newrigortimeline_data.json", function(data) {
 
 // Width and height
 var margin = {top: 20, right: 20, bottom: 30, left: 20};

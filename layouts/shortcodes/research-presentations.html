@@ -3,7 +3,7 @@
 	{{ range .Site.Data.research.conferenceTalks }}
 	<div class="research-title">
 		{{ if ne .url "" }}
-		<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+		<a href="{{ .url }}">&ldquo;{{ .title }}.&rdquo;</a>
 		{{ else }}
 		&ldquo;{{ .title }}.&rdquo;
 		{{ end }}
@@ -22,7 +22,7 @@
 	{{ range .Site.Data.research.conferenceOther }}
 	<div class="research-title">
 		{{ if ne .url "" }}
-		<a href="{{ .url }}" target="_blank">&ldquo;{{ .title }}.&rdquo;</a>
+		<a href="{{ .url }}">&ldquo;{{ .title }}.&rdquo;</a>
 		{{ else }}
 		&ldquo;{{ .title }}.&rdquo;
 		{{ end }}

@@ -22,5 +22,3 @@ Over the past few months, I've been working on and off on [elit.jeffreymoro.com]
 <img border="1px" src="/img/elit-site-2.jpg"/>
 
 The site is (like all sites these days) a continual work-in-progress: rather than continue to host IRL galleries, I'm shifting much of my curatorial energies to this online version of the installation, although it's certainly not outside the realm of possibility that I put up *E.LIT / NET.ART 2.0* in the coming months. In particular, I'm still working on putting together captions for the pieces in the [screening](http://elit.jeffreymoro.com/screening) section of the site, and fleshing out the captions for all pieces now that I'm not constrained by a four-by-six inch card. And—I've hidden away a couple of easter eggs throughout the site, particularly in the faux-command-line that I'm alternately proud of and exasperated with. Let me know what you find!
-
----------
