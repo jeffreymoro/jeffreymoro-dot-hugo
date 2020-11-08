@@ -8,6 +8,8 @@ tags:
 
 It's been a while since I wrote a blog post that had nothing to do with how sad I am during a world-historical pandemic, and since I can't stop singing "Losing My Mind" in the shower these days, here you go: 
 
+<!--more-->
+
 ### 1. Sunday in the Park with George
 
 Look, even with that absolute mess of a second act, there's no way *Sunday* couldn't top the list. It's Sondheim at the peak of his songwriting ability, capable of achingly beautiful melody ("Sunday") and bulletproof wordplay ("Putting It Together"). The pointillist score is perfection, and even with the lopsided acts, it remains one of the theater's definitive statements on the tragedy that is attempting to create ("Finishing the Hat"). Plus any show with Bernadette Peters has to make the top five; the woman put out an album called *Sondheim, Etc.* and then had the brilliance to title the b-sides *Sondheim, Etc., Etc.*. 

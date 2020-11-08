@@ -1,13 +1,16 @@
 ---
 layout: post
 title: On Post-Baccalaureate Residencies
-redirect_from: "/2016/06/30/on-postbaccalaureate-residencies/"
+aliases: 
+- "/2016/06/30/on-postbaccalaureate-residencies/"
 date: 2016-06-30
 tags:
 - 5colldh
 ---
 
 Today is my last day as Five College Post-Baccalaureate Resident in Digital Humanities.
+
+<!--more-->
 
 Let's do the numbers: I've worked for Five College Digital Humanities for three years, over which I've assisted around fifteen faculty and staff projects, supervised sixteen student fellows, taught three January-term classes, submitted around a hundred check requests, sat in a dozen or so Steering Committee Meetings, been on three or four hiring committees, ran a floating gallery, improved my tech skills by several orders of magnitude, given five talks, administered an unspeakable number of Slack rooms, and overseen the production of around thirty gigabytes of video, audio, and other media.
 

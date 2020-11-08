@@ -9,6 +9,8 @@ tags:
 
 Every conference has been canceled, but that doesn't mean that we can't appreciate even the proleptic work-that-might-have-been-done-but-no-longer-will-be-at-least-not-in-that-form. I don't know if I'm going to write the paper that I was supposed to give at the 2020 meeting of the Society for Cinema and Media Studies in Denver (would have been my first time at the conference!), but I wrote an abstract, and that's something at least. Here it is.
 
+<!--more-->
+
 ### “Felling the .amazon: The Colonial Geographies of Top-Level Domains”
 
 Who should control the top-level domain (TLD) “.amazon”—one of the world’s largest tech companies, or the South American nations of the Amazonian basin? And by what technologies and techniques is that control exerted? In the spring of 2019, the Internet Corporation for Assigned Names and Numbers (ICANN), a nonprofit organization that oversees the internet’s domain names and nameserver databases, ended a seven-year-long dispute between Amazon and eight South American governments over the .amazon TLD, ruling in favor of the company. At stake were not only issues of website branding, but also the logics of how names emerge and circulate on the internet, and how the internet’s infrastructure facilitates the transformation of names into commodities. 

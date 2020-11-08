@@ -2,7 +2,8 @@
 layout: post
 title: Corrupting Books’ Flesh and Blood
 topic: 'de Bury, Richard. <i>The Love of Books: Philobiblon of Richard de Bury.</i> <i>Project Gutenberg</i>. <a href="http://www.gutenberg.org/ebooks/626">www.gutenberg.org/ebooks/626</a>.'
-redirect_from: "/2016/09/11/corrupting-books-flesh-blood/"
+aliases: 
+- "/2016/09/11/corrupting-books-flesh-blood/"
 date: 2016-09-11
 tags:
 - text
@@ -10,6 +11,8 @@ tags:
 ---
 
 *I have a lot of writing to do in grad school, and I want to get better about making more of it public. So for regular blog post and short essay assignments, I’m going to syndicate some of them across to my personal blog. Here’s one from* ENGL718C: From Manuscript to Print: Medieval and Early Modern Histories of the Book.
+
+<!--more-->
 
 It’s hard to be a book in 1344. If you’re lucky, you have an aristocratic patron like Richard de Bury, who venerates you above all other riches in the world and ensures your physical safety for as long as he (and I’m going to assume here that your reader or owner—Thomas here encouraging us to note the distinction, particularly given aftermarkets of sale and resale emerging in the 13th and 14th centuries (150)—was invariably a “he”) lives. Then again, you might not be so lucky. You might “suffer from various diseases, endur[e] pains in [your] backs and sides...[and] lie with [your] limbs unstrung by palsy.” “Smoke and dust” may “dul[l] the keenness of your visual rays [and] infec[t your] bleared eyes with ophthalmia.” Worms may “devour” your organs. In neglect, you may be sold off and “lie as hostages in taverns,” or worse, in the hands of “Jews, Saracens, heretics, and infidels.” Even if you manage to stay put in a monastery, the “purity of [your] race” may “diminish every day” by successive “compilers, translators, and transformers,” reducing you to a “degenerate” (de Bury 19-20 [chpt 4]).
 

@@ -1,13 +1,16 @@
 ---
 layout: post
 title: A Post About Wolves
-redirect_from: "/2017/01/09/on-the-desire-to-surround-oneself-with-wolves/"
+aliases: 
+- "/2017/01/09/on-the-desire-to-surround-oneself-with-wolves/"
 date: 2017-01-09
 tags:
 - politics
 ---
 
-Threaded tweets are bad now I guess, and the prevailing wisdom on Twitter seems to be "why are people tweeting when they could be writing blog posts?," which I take as yet another riff on ["you're doing it wrong."](https://theawl.com/youre-doing-it-wrong-b3363f192982#.qfsuifs7v) Particularly with reports of Medium's demise [not really exaggerated at all](https://blog.medium.com/renewing-mediums-focus-98f374a960be#.tkj9k8329) making the space for such thoughts increasingly scarce. That being said, *I do have a blog* so I guess I will kowtow to the times and put these thoughts here rather than as a tweetstorm. With any luck, Twitter won't be around by the time that you read this and then I will come across as prescient rather than contrarian.
+Threaded tweets are bad now I guess, and the prevailing wisdom on Twitter seems to be "why are people tweeting when they could be writing blog posts?," which I take as yet another riff on ["you're doing it wrong.”](https://theawl.com/youre-doing-it-wrong-b3363f192982#.qfsuifs7v) Particularly with reports of Medium's demise [not really exaggerated at all](https://blog.medium.com/renewing-mediums-focus-98f374a960be#.tkj9k8329) making the space for such thoughts increasingly scarce. That being said, *I do have a blog* so I guess I will kowtow to the times and put these thoughts here rather than as a tweetstorm. With any luck, Twitter won't be around by the time that you read this and then I will come across as prescient rather than contrarian.
+
+<!--more-->
 
 Last night, famous and influential (we can unpack these words later on) actor Meryl Streep gave an [impassioned speech at the Golden Globes](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2017/01/08/meryl-streep-called-out-donald-trump-at-the-golden-globes-read-her-speech-here/) against Trump, for the rights of the oppressed, and the value of the free press. These are all excellent virtues and she is being rightfully applauded for voicing them. (Although we should be careful not to map any praise for Streep onto the Golden Globes as an awards ceremony itself, the Golden Globes being chiefly an opportunity for a variety of celebrities to crowd into a room, get drunk, and receive awards from [around ninety random white men](http://www.vox.com/2016/1/10/10741076/golden-globes-2016-hfpa-explained).) We will undoubtedly hear more speeches like hers as the celebrity-industrial complex mobilizes, although the extent to which the celebrity-industrial complex failed to influence the election itself does make me pause as to whether or not we're being more than a little self-congratulatory here.
 

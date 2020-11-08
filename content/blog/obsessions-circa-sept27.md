@@ -1,13 +1,16 @@
 ---
 layout: post
 title: A semi-comprehensive list of my obsessions circa September 27th, 2015
-redirect_from: "/2015/09/27/obsessions-circa-sept27/"
+aliases: 
+- "/2015/09/27/obsessions-circa-sept27/"
 date: 2015-09-27
 tags:
 - obsessions
 ---
 
 Welcome to a semi-regular feature in which I list the things that are sticking in my head, that I can't seem to shake, and that I'm not even trying to shake because I love them so much. (Why yes, this *is* a post that's at least glancingly about *Hamilton*.) To wit:
+
+<!--more-->
 
 ## Elena Ferrante’s *Neapolitan Novels*
 

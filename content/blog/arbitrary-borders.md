@@ -1,7 +1,8 @@
 ---
 layout: post
 title: On Staying Up Late to Look at Arbitrary Borders
-redirect_from: "/2017/01/24/arbitrary-borders/"
+aliases: 
+- "/2017/01/24/arbitrary-borders/"
 date: 2017-01-24
 tags:
 - politics
@@ -11,6 +12,8 @@ tags:
 When I can't sleep (which is most nights these days) I tend to do a few things:[^1]
 
 [^1]: There once was a time where this list was just "read and drink herbal tea" but I am like all of us imperfect.
+
+<!--more-->
 
 - Put on David Attenborough nature documentaries, Norwegian slow TV, or Max Richter's *SLEEP* album, sometimes all at once
 - Play *Dragon Quest*

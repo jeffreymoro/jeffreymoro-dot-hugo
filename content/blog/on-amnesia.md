@@ -1,13 +1,17 @@
 ---
 layout: post
 title: Technological Amnesia and Digital Ghosts
-redirect_from: "/2015/08/20/on-amnesia/"
+aliases: 
+- "/2015/08/20/on-amnesia/"
 date: 2015-08-20
 tags:
 - media archaeology
 - videogames
 ---
+
 > This is a post that I wrote back in the fall of 2014 for [*The Critical Is*](http://gaming.thecritical.is). When setting up this blog, this felt like as good a post as any to port over, given that 1) I'm proud of it and 2) the issues it raises have not gotten any better in the intervening year.
+
+<!--more-->
 
 <div id="amnesiaborder0" class="bleed"></div>
 

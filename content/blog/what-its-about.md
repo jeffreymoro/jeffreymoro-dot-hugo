@@ -8,6 +8,8 @@ tags:
 
 *NB: I revised this abstract in July 2020 as I developed on my job materials. I think I'll keep updating it accordingly as things progress. Check the revision history for this page (linked at the bottom) if you're interested in past iterations.*
 
+<!--more-->
+
 Over the past few weeks I've been applying for a flurry of dissertation completion fellowships. One of the great tragedies of the contemporary academy is that so much of our intellectual energy and labor goes not to the actual work of doing our research, but rather composing and recomposing meta-texts that describe our research such that we might secure funding or gainful employment through which to actually do the work itself. This is, of course, tiresome. And I can only imagine for those slogging away at the job market and/or well into their careers in various fashions the whole thing rapidly becomes an exercise in tedium. In this way, I'm lucky that I'm early enough in my career that this exercise still retains some usefulness viz. clarifying my thinking, communicating my research to a broad audience, etc. so on and so forth. 
 
 And so in the spirit of "well, I wrote it, and I might as well use it for something rather than filing all that labor away in the pit of my laptop forever," I thought I'd share a recent abstract that I prepared that describes, in exactly five hundred words, what I think my dissertation is about as of c. mid-February 2020. 

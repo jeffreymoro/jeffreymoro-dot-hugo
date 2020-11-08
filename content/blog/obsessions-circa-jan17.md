@@ -1,13 +1,16 @@
 ---
 layout: post
 title: A semi-comprehensive list of my obsessions circa January 17th, 2016
-redirect_from: "/2016/01/17/obsessions-circa-jan17/"
+aliases: 
+- "/2016/01/17/obsessions-circa-jan17/"
 date: 2016-01-17
 tags:
 - obsessions
 ---
 
 In the lacuna between the Smith and Amherst iterations of [my Interterm course on media archaeology and climate change](http://ecomedia.jeffreymoro.com), a few things that have lodged themselves in my brainspace:
+
+<!--more-->
 
 ## David Bowie's *Blackstar*
 

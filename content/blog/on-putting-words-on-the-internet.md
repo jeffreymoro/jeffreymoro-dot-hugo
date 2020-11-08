@@ -1,14 +1,17 @@
 ---
 layout: post
 title: On Putting Words on the Internet
-redirect_from: "/2016/08/23/on-putting-words-on-the-internet/"
+aliases: 
+- "/2016/08/23/on-putting-words-on-the-internet/"
 date: 2016-08-23
 tags:
 - memory
 - internet
 ---
 
-Enough pixels have already been spilled on 2016, The Worst Year Ever. These pixels have also been thoroughly rejoined by an ostensibly different but ontologically similar set of pixels declaring that [“no, the Black Death was *so* much worse, y’all”](http://www.slate.com/articles/news_and_politics/history/2016/07/is_2016_the_worst_year_in_history.html), which is *a* point but perhaps not *the* point.
+Enough pixels have already been spilled on 2016, The Worst Year Ever. These pixels have also been thoroughly rejoined by an ostensibly different but ontologically similar set of pixels declaring that [“no, the Black Death was *so* much worse, y’all,”](http://www.slate.com/articles/news_and_politics/history/2016/07/is_2016_the_worst_year_in_history.html) which is *a* point but perhaps not *the* point.
+
+<!--more-->
 
 Here at the end of August in a year in which we’ve lost a number of key inspirational artists, another dozen(s) of Black lives to police killings, slogged on (here in the United States at least) with a presidential race that has brought out the worst (or at least the most callous and bitchiest) of most of us, about the only thing that we can truly say for certain is that it’s [getting hotter, fast](http://www.nytimes.com/interactive/2016/08/20/sunday-review/climate-change-hot-future.html?_r=2).
 

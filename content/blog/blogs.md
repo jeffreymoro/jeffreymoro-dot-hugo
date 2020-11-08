@@ -10,6 +10,8 @@ tags:
 
 The problem with bringing back blogs is that Twitter is still the distribution platform. I never bothered to put analytics on this website, because to do so would be to give Google the ability to further spy on my readers and that kind of defeats the purpose of blogging in 2k20? It's sort of like becoming a vegan and then exclusively eating vegetables from mega-corporate farms, or getting really into quinoa without attending to how you're destabilizing Peruvian foodways or something. 
 
+<!--more-->
+
 ### 2.
 
 The problem with bringing back blogs is everyone wants to read longform writing but no one has the time to produce longform writing without receiving a paycheck for it anymore, which dovetails with the larger issue that no one has time to do anything anymore without receiving a paycheck for it because all of our paychecks are too small. So instead of bringing back blogs maybe we should focus first on bringing back livable paychecks. 

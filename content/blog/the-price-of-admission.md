@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Price of Admission"
-redirect_from: "/2017/11/14/the-price-of-admission/"
+aliases: 
+- "/2017/11/14/the-price-of-admission/"
 date: 2017-11-14
 tags:
 - academia
@@ -9,6 +10,8 @@ tags:
 ---
 
 I want to try to knit together two things that are discouraging me about the way we talk about the relationship between academia and the world at large, in particular, between academics whose work levies critique against technologized systems and the industries that architect those systems in the first place.
+
+<!--more-->
 
 First, a lengthy passage from N. Katherine Hayles’ recent book *Unthought: The Power of the Cognitive Nonconscious*, specifically from a chapter about high-frequency trading, which ends:
 

@@ -11,6 +11,8 @@ tags:
 
 When I started my first dissertation chapter, I thought it was going to be about smell and digital media. Over the past few months, smell has dropped out entirely and I doubt it's going to come back in the way I first imagined. I haven't posted on here in a good while, so I figured why not drop this probably ill-advised fragment on misguided smell technologies and gimmicks on the blog? Better here than filed away, I suppose. 
 
+<!--more-->
+
 ***
 
 In 2007, a software company going by the name of "ScenTeck Technologies" issued a press release extolling the virtues of their new downloadable program "Scratch-n-Sniff Pro." The program, so the press release claims, works with a proprietary computer chip to translate auditory waves into a "unique vibrating tone" that the brain would recognize "not as a sound, but a scent." [^^1] Scratch-n-Sniff Pro users would then be able to *smell* their websites, which ScenTeck's press released promises would revolutionize web browsing. If these claims aren't already fantastic enough to raise readers’ eyebrows, the press release's publication date is a dead giveaway: 1 April. For extra measure, the text liberally quotes ScenTeck's "chief scientist," "Dr. Aarp Hriful."

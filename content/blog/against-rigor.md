@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Against Rigor"
-redirect_from: "/blog/2020-04-30-cop-shit-pandemic/"
+aliases: 
+- "/blog/2020-04-30-cop-shit-pandemic/"
 date: 2020-04-30
 tags:
 - higher ed
@@ -9,6 +10,8 @@ tags:
 ---
 
 When I wrote ["Against Cop Shit"](/blog/2020-02-13-against-cop-shit/) back in February, I did so because I was angry about how many educators prefer to assume adversarial relationships to their students rather than to treat them as equal participants in the project of classroom education. Little did I know that the occasion of a global pandemic would give cover to whole new genera of cop shit, and today I saw a post on Twitter that sufficiently broke me such that I felt compelled to Blog Through It:
+
+<!--more-->
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/UofMaryland?ref_src=twsrc%5Etfw">@UofMaryland</a> I simply asked my prof for a few days extension on a project because MY DAD died as a result of covid19 and THIS is the response I get. DO. BETTER. 👏🏼👏🏼👏🏼 <a href="https://t.co/OTDKY9mepj">pic.twitter.com/OTDKY9mepj</a></p>&mdash; Saige (@saigedara) <a href="https://twitter.com/saigedara/status/1255475854530011138?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 

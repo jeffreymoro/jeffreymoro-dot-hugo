@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "On Having Been Qualified"
-redirect_from: "/2018/09/13/on-having-been-qualified/"
+aliases: 
+- "/2018/09/13/on-having-been-qualified/"
 date: 2018-09-13
 tags:
 - academia
@@ -10,6 +11,8 @@ tags:
 ---
 
 *Setusko Yokoyama, Purdom Lindblad, and I started up a digital studies / digital humanities writing group this semester through the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/), where Purdom works (and where I frequently haunt, playing* Seadragon *on my advisor's old Apple II). The purpose of this writing group is essentially peer pressure: to guilt all of us into putting our butts in seats and getting along with the damn work of putting words on a screen. My task for myself during our first session today was to get back in the swing of blogging and put up this post reflecting on having gotten through my qualifying exam process.*
+
+<!--more-->
 
 ## Reading and Writing
 

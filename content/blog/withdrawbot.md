@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "@withdrawbot: An Exercise in Peripheries"
-redirect_from: "/2017/09/29/withdrawbot/"
+aliases: 
+- "/2017/09/29/withdrawbot/"
 date: 2017-09-29
 tags:
 - computing
@@ -10,6 +11,8 @@ tags:
 ---
 
 A star-gazing technique: we know that the darkness is full of light too faint to see and too far away. To see fainter stars and galaxies, which brighter stars tend to occlude, avoid looking at a spot in the sky head-on. Rather, gaze just off-center from where you want to see, and relax your peripheral vision. Then fainter stars will begin to appear.
+
+<!--more-->
 
 *This is a post I wrote for a graduate seminar on speculation.*
 

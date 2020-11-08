@@ -6,7 +6,9 @@ tags:
 - higher ed
 ---
 
-My wife and I often joke that a sign of our ultimate compatibility is that our longest, most protracted, knock-down-drag-out fights have always been about copyright. Nothing specific about the topic lends us to feel this way, but rather that out of all the things to get in a tiff with one's spouse about (neither of us are lawyers), *that's* the one? I usually occupied the anti- side and she the pro-, although over time we've more or less dropped the argument because it stopped being all that interesting to fight over after a certain point. 
+My wife and I often joke that a sign of our ultimate compatibility is that our longest, most protracted, knock-down-drag-out fights have always been about copyright. Nothing specific about the topic lends us to feel this way, but rather that out of all the things to get in a tiff with one's spouse about (neither of us are lawyers), *that's* the one? I usually occupied the anti- side and she the pro-, although over time we've more or less dropped the argument because it stopped being all that interesting to fight over after a certain point.
+
+<!--more-->
 
 This is a preamble to say: over the past few days, my [cop shit](/blog/2020-02-13-against-cop-shit/) post has made the rounds again on Twitter and a few other venues as well. Reception's mostly positive, which is nice to see, although of course you can't please everyone. One part in particular seems to have been a sticking point for some folks, and I wanted to elaborate on it a bit in turn here on the blog. The part in question: why is plagiarism detection software cop shit?
 

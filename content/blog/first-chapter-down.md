@@ -8,6 +8,8 @@ tags:
 
 I haven't written much on here the past year or so because I've been directing all my writing energies toward the dissertation and other platforms (yes, some real publications, but also—mostly Twitter). I don't really expect that to change much in the foreseeable future, but as I did just get to a pause point on my first chapter, and as I'm still in the research phase of my second, I have some time in November to push out a few blog posts. Since I've tried to make an effort to document my dissertation process on here, I thought I'd walk back through the c. first year or so of writing. 
 
+<!--more-->
+
 (Caveat: the chapter's not, like, *done*, because I've come to realize that it's never really *done*, just at a point where you and your advisor look at each other say "well that seems like a fine place to leave it for now, come back in six months and see what happens then." But also: you're not coming to a grad student for real advice, are you? Because if you are, might I suggest: literally anyone else?)
 
 In my department, after you pass your [qualifying exams](/blog/2018-09-13-on-having-been-qualified/), you have four months to file [a prospectus](/blog/2018-11-29-prospectus/). I submitted mine last December. I took January to write an article (forthcoming in *Amodern* early next year!) so started really writing my first chapter in earnest in February. I decided to start with chapter two, as it was marked out in my prospectus, on smell and 3D printing. 

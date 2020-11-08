@@ -12,6 +12,8 @@ tags:
 
 It is long past time to abolish time. I have felt this strongly for a few years now and the pandemic's askew, endless, perilous temporality has only convinced me further of this. And so, on a Sunday evening, a time once characterized by a far better writer than I as ["the long dark tea-time of the soul"](https://en.wikipedia.org/wiki/The_Long_Dark_Tea-Time_of_the_Soul), I have decided finally to make good on my repeated threats to write preliminary notes for a  manifesto for the abolition of time. 
 
+<!--more-->
+
 ## time is pure commodity
 
 Time is no longer on our side, if it ever was. By "our" I mean those committed to the overthrow of capitalism and creation of a just world. Time is thoroughly commodified, with no shortage of opportunities to buy and sell it. But of course Marx knew this, inscribing temporality at the heart of his critique of capitalism with such concepts as [necessary and surplus labor time](https://www.marxists.org/glossary/terms/n/e.htm). And as Marx notes, we are not all called upon to buy and sell our time equally. Who can afford next week's shiny new labor-saving device? Who is pressed into the service of others? Eight hours for work, eight hours for sleep, eight hours to do what we will began as a revolutionary slogan but has if anything become a straightjacket—a rule that, transmuted into the forty-hour work week, we seem unable to imagine past. Whether through explicit "extra" work, the thousand daily cuts of commuting hours or buzzing emails, or even the torrent of inescapable anxiety through which work extends into every waking hour, even into our dreams: the fact is that capitalism has learned thoroughly how to turn time against us. 

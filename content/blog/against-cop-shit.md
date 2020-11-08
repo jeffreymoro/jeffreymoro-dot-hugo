@@ -8,6 +8,8 @@ tags:
 
 Thesis: abolish cop shit in the classroom. 
 
+<!--more-->
+
 For the purposes of this post, I define "cop shit" as "any pedagogical technique or technology that presumes an adversarial relationship between students and teachers." Here are some examples: 
 
 - ed-tech that tracks our students’ every move

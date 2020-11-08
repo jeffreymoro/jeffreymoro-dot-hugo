@@ -1,7 +1,8 @@
 ---
 layout: post
 title: On electronic literature, Internet art, and digital galleries
-redirect_from: "/2015/10/23/announcing-elit-netart/"
+aliases: 
+- "/2015/10/23/announcing-elit-netart/"
 date: 2015-10-23
 tags:
 - blatant self-promotion
@@ -9,6 +10,8 @@ tags:
 ---
 
 Over the past few months, I've been working on and off on [elit.jeffreymoro.com](http://elit.jeffreymoro.com), the digital home and instantiation of my *E.LIT / NET.ART* project. And now, after doubling down on the work over the past month, I'm excited to launch it as a useable resource.
+
+<!--more-->
 
 <img border="1px" src="/img/elit-site-1.jpg"/>
 <div class="caption">Look, ma, I made a website!</div>

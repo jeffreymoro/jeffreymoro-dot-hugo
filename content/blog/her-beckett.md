@@ -1,13 +1,16 @@
 ---
 layout: post
 title: "“Her Beckett”"
-redirect_from: "/2018/03/04/her-beckett/"
+aliases: 
+- "/2018/03/04/her-beckett/"
 date: 2018-03-04
 tags:
 - decay
 ---
 
 *I'm taking a seminar with Kari Kraus right now on ruins, and we do some regular writing for that class. I liked this blog post I wrote on Anne Carson's poem "Her Beckett" and decided to cross-post it over here.*
+
+<!--more-->
 
 Last class, a fellow student mentioned the Canadian poet Anne Carson's collection *Decreation* (2005) in the context of thinking about walls, houses, and homes. Carson is a longtime love of mine, and their comment made me want to go back to *Decreation* in search of walls, to see what I could find and read by chance.
 

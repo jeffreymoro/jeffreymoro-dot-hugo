@@ -2,13 +2,16 @@
 layout: post
 title: <i>Galatea</i> and the Play of Self-Disclosure
 topic: 'Short, Emily. <i>Galatea.</i> 2000. <a href="http://pr-if.org/play/galatea/">pr-if.org/play/galatea/</a>.'
-redirect_from: "/2016/11/01/galatea-and-play/"
+aliases: 
+- "/2016/11/01/galatea-and-play/"
 date: 2016-11-01
 tags:
 - elit
 ---
 
 *Another syndicated piece of writing, this time from Matthew Kirschenbaum and Neil Fraistat's seminar on the nonhuman.*
+
+<!--more-->
 
 Start with the original “Galatea” myth, codified in Ovid: Pygmalion of Cyprus sculpts a beautiful white statue with which he falls in love.[^1] (The whiteness is important here: both in the name “Galatea,” glossed both as “goddess of calm seas” or “goddess of milk-white,” *galaktos* the root of our word *galaxy*, the Milky Way, and a play on mother’s milk;[^2] and in the blankness of white, soon to be literally interpellated, called-into-being.) He begs Aphrodite to bring the statue to life; she does so, and then weds them. This origin story, like *Frankenstein*, has proved remarkably durable and malleable, rich in allusive potential and psychosexual suggestion. It has echoed down through Western culture in different forms and names, perhaps most famously in George Bernard Shaw’s 1913 play *Pygmalion* and its 1956 stage musical adaptation *My Fair Lady* (note the possessive in the title). The allusive web grows more tangled when in 1964 computer scientist Joseph Weizenbaum names his early chatter bot program ELIZA after Shaw’s protagonist. ELIZA uses natural language processing to simulate a Rogerian therapist, feigning “intelligence” by turning user input back into questions, drawing a “conversation” along. Weizenbaum would approve of my scare quotes: he built the program in part to demonstrate the futility of human-computer conversation. He was shocked, however, to find that many people (including, famously, his secretary, who asked him to leave the program and her alone for a private conversation) found the illusion quite persuasive.[^3]
 

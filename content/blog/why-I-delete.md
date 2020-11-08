@@ -9,6 +9,8 @@ tags:
 
 A few weeks ago, I indulged in one of my favorite past-times: pouring a glass of chilled rosé, putting on Van Morrison's *Astral Weeks*, and setting up a command-line program to delete all of my tweets.
 
+<!--more-->
+
 I love deleting tweets. Every six months, I wipe (almost) all of mine.[^2] I also regularly scroll through my personal feed and prune out tweets that simply no longer bring me joy. I'll tweet something and immediately delete it with abandon. And I want to share this practice with you, such that you too may come to know the pleasures of deleting. 
 
 [^2]: The first time I wiped my tweets, I experimented with keeping tweets that met a certain threshold of likes/RTs. But I found that keeping my most viral tweets only gave me a false sense of accomplishment about tweeting—something none of us should have! Now I just keep whatever my pinned tweet is, which is usually promotional for whatever I [most recently published](https://amodern.net/article/grid-techniques/).

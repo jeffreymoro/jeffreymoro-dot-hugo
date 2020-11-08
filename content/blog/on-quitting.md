@@ -1,13 +1,16 @@
 ---
 layout: post
 title: We Should Probably Leave Social Media?
-redirect_from: "/2018/03/22/on-quitting/"
+aliases: 
+- "/2018/03/22/on-quitting/"
 date: 2018-03-22
 tags:
 - internet
 ---
 
 Facebook fucked up again, everyone. Or rather, the [Cambridge Analytica fiasco](https://www.theguardian.com/commentisfree/2018/mar/21/cambridge-analytica-facebook-data-users-profit) has put the spotlight once again on Facebook's data harvesting and profit practices, its exploitative business model, and its overall net-negative effect on human social relations—and maybe this time some of the criticism will stick? I don't know. Facebook has weathered similar storms in the past and came out just as strong in the end because at the end of the day we really *don't* have that much of a choice for social media platforms anymore? What Benjamin Bratton and others have called the "added value" of platforms has borne out: the more we give Facebook, the more "useful" it becomes to us, and the more useful we become to it.[^1]
+
+<!--more-->
 
 [^1]: Bratton, Benjamin. *The Stack: On Software and Sovereignty*. MIT P, 2015, pp. 41
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Generating Jekyll Tags with a Shell Script
-redirect_from: "/2017/08/18/generating-tag-script/"
+aliases: 
+- "/2017/08/18/generating-tag-script/"
 date: 2017-08-18
 tags:
 - how to
@@ -9,6 +10,8 @@ tags:
 ---
 
 I think blog tags are art.
+
+<!--more-->
 
 I'm entirely uninterested in them as navigational aids or contextual information, though that's how I use them on this site right now. Rather, I love tags as nonsensical spiralings-off. Long lists of alphabetized junk that, at their best, spill out a story in and of themselves, totally unrelated to or at least refractory of the article itself. I was raised on the wild tag piles of [*The Awl*](https://theawl.com) and [*The Hairpin*](https://thehairpin.com), although both of those sites lost their tags in the Great Medium CMS Transition Of 2015. *The Awl* recently switched back to its old CMS, and with it [got its tagging capacity back](https://www.theawl.com/tag/tags-are-back-and-good/), but on the way lost most of its old tag content to Medium's three-tags-only restriction. So now some of the great Tag Masterpieces of Blogging Past are now neutered. I hope they saved them and can put them back in.
 

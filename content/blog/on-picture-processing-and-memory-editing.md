@@ -1,16 +1,18 @@
 ---
 layout: post
 title: On Memory Editing, Glitches, and Play
-redirect_from: "/2015/09/16/on-picture-processing-and-memory-editing/"
+aliases: 
+- "/2015/09/16/on-picture-processing-and-memory-editing/"
 date: 2015-09-16
 tags:
 - videogames
 - decay
 ---
 
-
 <img src="/img/ppu-1.jpg"/>
 <div class="caption">Stills from <a href="http://ohsqueezy.itch.io/ppu" target="_blank"><em>Picture Processing</em></a></div>
+
+<!--more-->
 
 A couple of weeks ago, an [independent game maker](http://ohsqueezy.itch.io) put out a game called [*Picture Processing*](http://ohsqueezy.itch.io/ppu), in which you, the player, telepathically commune with a broken NES console and manipulate the system’s memory values to repair error-ridden, glitched-out game screens. (It’s going to get weirder from here on out, y’all, trust me.) Given that this is *highly relevant* to a number of my interests, I wanted to put a few words down here about the experience of playing this game and the role of memory editing in video games and digital media as related to play. As I wrote [in a short meditation](http://codex.thecritical.is/strange-creatures/) for [2015's HASTAC conference](http://www.hastac2015.org/schedule/), I’m interested in excavating moments in which the technical apparatus and mathematical underpinning of video games become sites of play beyond the terrain envisioned by the game’s designers. That digital technologies are themselves sites of potential play is uncontroversial: ask any artist, or mathematician, or tinkerer. *Picture Processing* gives us something different, a glimpse at a kind of unsanctioned play that takes as its subject the apparatus itself. It's the exploration of the apparatus that interests me, and the ways in which play becomes a tool for re-envisioning our relationships (should they ever be bifurcated?) to software and hardware.
 

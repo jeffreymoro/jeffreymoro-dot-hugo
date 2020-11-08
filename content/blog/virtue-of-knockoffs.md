@@ -1,13 +1,16 @@
 ---
 layout: post
 title: On the Virtues of Knockoffs, or, How to Make an Encrypted Journal on Your Computer
-redirect_from: "/2016/02/09/virtue-of-knockoffs/"
+aliases: 
+- "/2016/02/09/virtue-of-knockoffs/"
 date: 2016-02-09
 tags:
 - how to
 ---
 
 I used to use a journal app called [Day One](http://dayoneapp.com). It was a good enough app, given how infrequently I used it. It synced across my devices, it was a pleasing shade of start-up blue, and it was featured often enough in the App Store that I felt reasonably confident that it wasn't going anywhere anytime soon. I put around four hundred entries in it over the course of three or so years.
+
+<!--more-->
 
 Last week, Bloom Built, LLC, the company behind Day One, did a wholly sensible thing given the minimal margins and intense competition Selling Apps entails these days: they released a 2.0 update that was a separate app from the 1.0, with lavishly appointed new features and a substantially increased price. I purchased the original Day One app for $15 across OS X and iOS; 2.0 (setting aside an immediate 50% off sale to entice upgraders like myself) would set me back $50.
 

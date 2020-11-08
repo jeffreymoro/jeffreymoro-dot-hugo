@@ -2,13 +2,16 @@
 layout: post
 title: Some Quibbles I Have with the Rhetorical Formation “the Real World”
 topic: <a href="http://www.chronicle.com/article/Missouri-Lawmaker-Who-Wants-to/238886/">“Missouri Lawmaker Who Wants to Eliminate Tenure Says It’s ‘Un-American’”</a>
-redirect_from: "/2017/01/12/on-the-fake-real-world/"
+aliases: 
+- "/2017/01/12/on-the-fake-real-world/"
 date: 2017-01-12
 tags:
 - academia
 ---
 
 The news is a Category 5 shitstorm these days and it's difficult to surface any rage-inducing story for any more than a few moments at a time. One in particular that's driving pins into the back of my eyes is a pair of moves from Missouri and [Iowa to eliminate the concept of tenure in their state university systems](http://www.desmoinesregister.com/story/news/education/2017/01/12/iowa-lawmaker-looking-end-tenure-public-univerisities/96460626/). These moves come on the heels of [Wisconsin's relatively succesful attempts](http://www.npr.org/sections/itsallpolitics/2015/06/12/413995691/wisconsin-gov-walkers-next-battle-tenure) to neuter the concept of "tenure" beyond any utility. These attacks are only going to become more and more common as increasingly Republican-led state legislatures defenstrate the American education system.
+
+<!--more-->
 
 I am not a scholar of higher education or of education more generally.[^1] Nor am I a professor, on the tenure track or otherwise. I am a graduate student seeking a Ph.D. in English at a land-grant public university: a generally unenviable place to be in the general hierarchy of Life, I would suppose, but I enjoy it and I do pay all of my bills on time. I don't want to talk right now about the role of tenure in higher education, because I have not experienced enough or thought on it long enough to have a considered opinion beyond "tenure is a good thing that protects vital academic discourse even as it's a decidedly imperfect system that adversely structures the industry of academia with negative impacts on both research and the mental health of those both on and off the tenure track but that doesn't mean we should through the baby out with the bathwater per se." Rather I want to talk about an idea repeatedly raised in the above-linked interview with the dunderheaded Missouri congressman filing the bill to elimate tenure in that state.
 

@@ -8,6 +8,8 @@ tags:
 
 I'm supposed to be writing an essay this week, but I'm bone tired and so have spent most of it pointedly not. Now I am far from the first person to suggest that 2018 has been an exhausting year. I am so exhausted by it that I will not bother to go back through my Twitter feed and find the people who said that. You're going to have to take it as an article of faith, or just reach inside yourself and experience your own tiredness, which if you don't have after this year, please give me your exercise or medication regimen. But since, as Umberto Eco said, "we like lists because we do not want to die" (which I read in Liam Cole Young's excellent [*List Cultures*](https://www.aup.nl/en/book/9789462981102/list-cultures)), instead of writing that essay I will instead write this list of what got me through this hellscape year.
 
+<!--more-->
+
 ### 1. Waxahatchee's *Great Thunder EP*
 
 It turns out that once you start listening to the [*Great Thunder EP*](https://www.mergerecords.com/great-thunder) you can never stop. Katie Crutchfield's lyrics rank with Joanna Newsom's and her melodies are pure beauty. This is an EP of re-recordings from some of her earliest songs, and they have the wistful urgency of flipping back through the dedications in a high school yearbook.

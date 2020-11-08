@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Minimalism and Computing
-redirect_from: "/2016/08/25/minimalism-computing/"
+aliases: 
+- "/2016/08/25/minimalism-computing/"
 date: 2016-08-25
 tags:
 - minimalism
@@ -9,6 +10,8 @@ tags:
 ---
 
 A few weeks late on the hot take treadmill to this piece, although I was on writing hiatus so I get temporary immunity. From Kyle Chayka’s “The Oppressive Gospel of Minimalism,” back in the *New York Times Magazine* at the end of July:
+
+<!--more-->
 
 > Despite its connotations of absence, “minimalism” has been popping up everywhere lately, like a bright algae bloom in the murk of postrecession America. From tiny houses to microapartments to monochromatic clothing to interior-decorating trends — picture white walls interrupted only by succulents — less now goes further than ever. It’s easy to feel overwhelmed by the minimalism glut, as the word can be applied to just about anything. The nearly four million images tagged #minimalism on Instagram include white sneakers, clouds, the works of Mondrian, neon signs, crumbling brick walls and grassy fields. So long as it’s stylishly austere, it seems, it’s minimalist.
 

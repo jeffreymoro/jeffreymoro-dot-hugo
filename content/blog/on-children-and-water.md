@@ -2,13 +2,16 @@
 layout: post
 title: On Children and Water
 comments: false
-redirect_from: "/2017/02/17/on-children-and-water/"
+aliases: 
+- "/2017/02/17/on-children-and-water/"
 date: 2017-02-17
 tags:
 - anthropocene
 ---
 
 A few interconnected thoughts.
+
+<!--more-->
 
 ### 1.
 

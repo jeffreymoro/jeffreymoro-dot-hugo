@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Plastic, Logic, and Time — A Lightning Talk
-redirect_from: "/2016/05/03/showcase-plastic-logic-time/"
+aliases: 
+- "/2016/05/03/showcase-plastic-logic-time/"
 date: 2016-05-03
 tags:
 - videogames
@@ -9,6 +10,8 @@ tags:
 ---
 
 *This is the blog version of a lightning talk that I've given a few times at Five College Digital Humanities and the Maryland Institute for Technology in the Humanities.*
+
+<!--more-->
 
 This is a talk about three hundred and thirty one bytes.
 

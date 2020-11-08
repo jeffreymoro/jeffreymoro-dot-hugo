@@ -1,7 +1,8 @@
 ---
 layout: post
 title: This is a blog post
-redirect_from: "/2015/08/18/this-is-a-blog-post/"
+aliases: 
+- "/2015/08/18/this-is-a-blog-post/"
 date: 2015-08-18
 tags:
 - meta

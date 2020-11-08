@@ -1,13 +1,16 @@
 ---
 layout: post
 title: I Miss Google Reader
-redirect_from: "/2017/08/17/i-miss-google-reader/"
+aliases: 
+- "/2017/08/17/i-miss-google-reader/"
 date: 2017-08-17
 tags:
 - internet
 ---
 
 I know I am not alone in this. There are too many "I Miss Google Reader" posts across the internet and this one comes years too late. But I still do miss it, not just for its functionality but also for how the idea of RSS feeds more generally occassioned a different rhythm to the consumption of online information. It felt just a little bit less like "consumption" back then, even though it was, feed after feed scanned and slurped down only for more to pile up. Heaven forfend you ever went on vacation: you'd just have to hit "mark all as read" and move on with your life. Undoubtedly it had its downsides. But I embarked on (yet another) Twitter hiatus this week, and so found myself once again with occasion to miss Google Reader.
+
+<!--more-->
 
 (The reasons for why I'm taking time off Twitter are prosaic and commonplace and thus best reserved for below-the-fold. I am particularly struck by the irony that I am pretty sure that the vast majority of my meager readership comes from Twitter and so without Twitter to alert to this post's presence no one will actually have the chance to know *why* I am not on Twitter, but: suffice it to say that fascists and white supremacists marching on Charlottesville made me impossibly sad and I found myself unable [unwilling?] to cope with the particular affective avalanche that the site has become since, well, you know when.)
 
