@@ -35,6 +35,10 @@
         </ul>
       </div>
     {{ end }}
+
+    <div class="date">
+      <strong>Last taught</strong>: {{ with .Params.institution }}{{ . }}{{ end }} • {{ with .Params.number }}{{ . }}{{ end }} • {{ with .Params.semester }}{{ . }}{{ end }}
+    </div>
     
     {{ if ne .Params.toc false }}
       {{ partial "toc" . }}
