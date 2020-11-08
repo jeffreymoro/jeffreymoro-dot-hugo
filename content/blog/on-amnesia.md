@@ -13,6 +13,8 @@ tags:
 
 <!--more-->
 
+<br/>
+
 <div id="amnesiaborder0" class="bleed"></div>
 
 ### When old technology all but disappears in the face of the new, how do we value remembering?
