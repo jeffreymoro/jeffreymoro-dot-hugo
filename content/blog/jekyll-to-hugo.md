@@ -7,7 +7,7 @@ tags:
 - meta
 ---
 
-I don't know why I picked election week to finally bite the bullet and redesign my site in [Hugo](gohugo.io/) after using [Jekyll](https://jekyllrb.com/) for over four years, but I did. Do things look different around here? Maybe a little snappier? That's the power of New and Fresh Code™. 
+I don't know why I picked election week to finally bite the bullet and redesign my site in [Hugo](https://gohugo.io/) after using [Jekyll](https://jekyllrb.com/) for over four years, but I did. Do things look different around here? Maybe a little snappier? That's the power of New and Fresh Code™. 
 
 <!--more-->
 
