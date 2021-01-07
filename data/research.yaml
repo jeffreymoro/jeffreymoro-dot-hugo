@@ -47,6 +47,14 @@ other:
 ########### Talks ###########
 
 conferenceTalks:
+  - title: 'Time is a Difference of Pressure: Breath as Environmental Media in Ted Chiang’s ‘Exhalation’'
+    snippet: "A talk about breath, media, and temporality, as part of a panel on environmental media."
+    conference: "MLA 2021"
+    institution: MLA
+    location: Virtual
+    date: January 2021
+    panel: "Environmental Media"
+    url: "/research/2021/mla2021"
   - title: "Air-conditioning the Internet"
     snippet: "A talk about two technologies that control the planet: air conditioning and the internet."
     conference: "ASAP/11: Ecologies of the Present"
