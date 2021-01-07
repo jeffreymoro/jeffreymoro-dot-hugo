@@ -43,4 +43,6 @@ If your cat develops a spat of diarrhea out of nowhere, probiotics really help. 
 
 ### 9. 
 
-If you begin *The Lord of the Rings: The Return of the King* at 8:25:24 PM on New Year's Eve, the ring of power will melt into the fires of Mount Doom at precisely midnight. It's a fun party trick for when we get to have parties again. 
+If you begin *The Lord of the Rings: The Return of the King*[^1] at 8:25:24 PM on New Year's Eve, the ring of power will melt into the fires of Mount Doom at precisely midnight. It's a fun party trick for when we get to have parties again. 
+
+[^1]: A friend noted after I published this blog post that I should specify the *extended* edition (the only valid edition tbh).
