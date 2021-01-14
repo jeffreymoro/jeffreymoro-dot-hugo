@@ -7,7 +7,7 @@ institution: University of Maryland, College Park
 number: ENGL245
 ---
 
-*Revised 2 Jan 2021 for the spring 2021 semester. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the [.pdf version](/files/ENGL245-syllabus-revised.pdf).*
+*Revised 14 Jan 2021. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the [.pdf version](/files/ENGL245-syllabus-revised.pdf).*
 
 ## Description
 
@@ -74,10 +74,9 @@ Here's the breakdown for the class:
 - Participation (10%)
 - Miniature frame analysis (5%) [due Thu 11 Feb]
 - Shot chart essay (15%) [due Thu 25 Feb]
-- Comparative essay (20%) [due Thu 11 Mar]
-- Editing project (15%) [due Thu 15 Apr]
-- Movie review essay (15%) [due Thu 29 Apr]
-- Final essays (20%) [due Mon 17 May]
+- Comparative essay (25%) [due Thu 25 Mar]
+- Editing project OR Movie review essay (20%) [due Thu 22 Apr]
+- "Final" essays (25%) [due Tue 11 May]
 
 ### On Deadlines
 
@@ -101,7 +100,7 @@ The first three assignments are part of a cycle designed to help you build your 
 
 ### Shot chart essay
 
-For this assignment, I'll ask you to complete a *shot chart*: a table that works moment by moment through a scene and characterizes each individual shot. You'll choose from a bank of scenes that I provide on ELMS. You'll then use this shot chart to write a short essay (c. 900 words) about the scene in which you'll connect questions of editing and cinematographic technique to the production of effect and meaning.
+For this assignment, I'll ask you to complete a *shot chart*: a table that works moment by moment through a scene and characterizes each individual shot. You'll choose from a bank of scenes that I provide on ELMS. You'll then use this shot chart to write a short essay (c. 1000 words) about the scene in which you'll connect questions of editing and cinematographic technique to the production of effect and meaning.
 
 ### Comparative essay
 
@@ -111,13 +110,17 @@ For our midterm, I'll ask you to write a longer essay (c. 1500 words) in which y
 
 For this assignment, you'll experiment with techniques of film editing in order to learn more about how a scene operates. An apocryphal quote, often attributed to director Jean-Luc Godard, states that the best way to critique a film is to make another one. In this spirit, I'll ask you to re-edit a short scene (again, from a provided bank) in order to make an argument about the scene. You'll pair the scene with a short (c. 500 words) artist's statement. 
 
+You can choose either to do the editing project *or* the movie review essay. You don't have to do both! 
+
 ### Movie review essay
 
-Cinema is a popular art form whose academic study emerged only after decades of its broader development. Much of our contemporary interaction with film criticism comes not from academia, but from popular reviews, whether traditional written reviews in newspapers and magazines or multimedia engagements on the internet. For this assignment, you'll review a film in a short (c. 500 words) essay. You should select a film that's new to you (in an ideal world, one that comes out during the semester, although the pandemic has made such a requirement difficult, if not impossible!) and not one that we discuss in class. You are welcome, however, to write about one of the four extra films that we screen outside of class. 
+Cinema is a popular art form whose academic study emerged only after decades of its broader development. Much of our contemporary interaction with film criticism comes not from academia, but from popular reviews, whether traditional written reviews in newspapers and magazines or multimedia engagements on the internet. For this assignment, you'll review a film in a short (c. 1000 words) essay. You should select a film that's new to you (in an ideal world, one that comes out during the semester, although the pandemic has made such a requirement difficult, if not impossible!) and not one that we discuss in class. You are welcome, however, to write about one of the four extra films that we screen outside of class. 
+
+You can choose either to do the movie review essay *or* the editing project. You don't have to do both!
 
 ### Final essays
 
-Our "final exam," such as it is, takes the form of three short essays of c. 500 words apiece. I'll release a bank of questions a week or two before the end of the term. You'll then select three and respond to them. 
+Our "final exam," such as it is, takes the form of three short essays of c. 500 words apiece. I'll release a bank of five or six questions a week or two before the end of the term. You'll then select three and respond to them. 
 
 ## Schedule
 
@@ -173,7 +176,6 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
 - *Blue Velvet* (David Lynch, 1986)
 - *Read*:
   - Bordwell/Thompson, chapter 8, "Style and Film Form"
-- *Due*: Comparative essay due Thu 11 Mar.
 
 ### Week 8: SPRING BREAK
 
@@ -182,6 +184,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
 - *Tokyo Story* (Ozu Yasujirō, 1953)
 - *Read*:
   - TBD
+- *Due*: Comparative essay due Thu 25 March. 
 
 ### Week 10, March 30th / April 1st: Sound
 
@@ -203,7 +206,6 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
 - *Black Panthers* (Agnès Varda, 1968)
 - *Read*:
   - Bordwell/Thompson, chapter 10, first twenty pages on documentary
-- *Due*: Editing assignment due Thu 15 Apr.
 
 ### Week 13, April 20/22nd: Digital
 
@@ -214,6 +216,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
 - "Super Mario Movie" (Cory Arcangel, 2005)
 - *Read*:
   - selections from Andrew Johnston, *Pulses of Absraction*
+- *Due*: Editing assignment *or* movie review essay due Thu Apr 22. 
 
 ### Week 14, April 27/29th: Action
 
@@ -232,7 +235,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
 ### Week 16, May 11th: Final Class
 
 - No assigned readings or viewings. We'll decide later in the semester how we want to use this final class. I will also hold it on the off chance that we need to cancel a class (snow day, pandemic, revolt against the government, etc.).
-- *Due*: Final essays due Monday 17 May. 
+- *Due*: Final essays due Tue 11 May. 
 
 ## Acknowledgements
 
