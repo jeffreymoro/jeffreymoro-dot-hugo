@@ -7,7 +7,7 @@ institution: University of Maryland, College Park
 number: ENGL245
 ---
 
-*Revised 14 Jan 2021. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the [.pdf version](/files/ENGL245-syllabus-revised.pdf).*
+*Revised 14 Jan 2021. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the [.pdf version](/files/engl245_s21_2021-01-14.pdf).*
 
 ## Description
 
