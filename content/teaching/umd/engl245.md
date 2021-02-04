@@ -7,7 +7,7 @@ institution: University of Maryland, College Park
 number: ENGL245
 ---
 
-*Revised 14 Jan 2021. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the [.pdf version](/files/engl245_s21_2021-01-14.pdf).*
+*Revised 4 Feb 2021. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the [.pdf version](/files/engl245_s21_2021-01-14.pdf).*
 
 ## Description
 
@@ -73,7 +73,7 @@ Here's the breakdown for the class:
 
 - Participation (10%)
 - Miniature frame analysis (5%) [due Thu 11 Feb]
-- Shot chart essay (15%) [due Thu 25 Feb]
+- Shot chart essay (15%) [due Thu 4 Mar]
 - Comparative essay (25%) [due Thu 25 Mar]
 - Editing project OR Movie review essay (20%) [due Thu 22 Apr]
 - "Final" essays (25%) [due Tue 11 May]
@@ -162,7 +162,6 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
 - *Read*:
   - Maya Deren, "Cinematography: The Creative Use of Reality"
   - Bordwell/Thompson, chapter 5, "Cinematography"
-- *Due*: Shot chart assignment due on Thu 25 Feb.
 
 ### Week 6, March 2/4th: Mise-en-scene
 
@@ -170,6 +169,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
 - *Read*:
   - Laura Mulvey, "Visual Pleasure and Narrative Cinema"
   - Bordwell/Thompson, chapter 4, "The Shot: Mise-en-Scene"
+- *Due*: Shot chart assignment due on Thu 4 Mar.
 
 ### Week 7, March 9/11th: Composition
 
