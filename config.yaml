@@ -9,8 +9,8 @@ params:
   blogPaginate: 10
   description: "vapor / wear"
   twitter:
-    site: jeffreymoro
-    creator: jeffreymoro
+    site: "jeffreymoro"
+    creator: "jeffreymoro"
 
 paginate: 10
 
