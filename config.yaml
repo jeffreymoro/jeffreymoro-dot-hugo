@@ -8,6 +8,9 @@ pluralizelisttitles: "false"
 params:
   blogPaginate: 10
   description: "vapor / wear"
+  twitter:
+    site: jeffreymoro
+    creator: jeffreymoro
 
 paginate: 10
 
@@ -64,7 +67,3 @@ markup:
   tableOfContents:
     endLevel: 6
     startLevel: 2
-
-params.twitter:
-  creator: "jeffreymoro"
-  site: "jeffreymoro"
