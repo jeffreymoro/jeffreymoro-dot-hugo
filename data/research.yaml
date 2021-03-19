@@ -47,6 +47,14 @@ other:
 ########### Talks ###########
 
 conferenceTalks:
+  - title: 'Air Under Lockdown: Temperature and Security in the Global Data Center'
+    snippet: "Continuing my ongoing research into HVAC in data centers, this talk explores the technology's relationship to the maintenance of the security state."
+    conference: "SCMS 2021"
+    institution: SCMS
+    location: Virtual
+    date: March 2021
+    panel: "Data, Extraction, and Global Infrastructures"
+    url: "/research/2021/scms2021"
   - title: 'Time is a Difference of Pressure: Breath as Environmental Media in Ted Chiang’s ‘Exhalation’'
     snippet: "A talk about breath, media, and temporality, as part of a panel on environmental media."
     conference: "MLA 2021"

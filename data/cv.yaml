@@ -82,12 +82,18 @@ other:
 ########### Talks ###########
 
 conferenceTalks:
+  - title: 'Air Under Lockdown: Temperature and Security in the Global Data Center'
+    institution: Society for Cinema and Media Studies
+    location: Virtual
+    date: March 2021
+    event: "SCMS 2021"
+    url: "/research/2021/scms2021/"
   - title: 'Time is a Difference of Pressure: Breath as Environmental Media in Ted Chiang’s ‘Exhalation’'
     institution: Modern Language Association
-    location: Toronto
-    date: January 2021 (forthcoming)
+    location: Virtual
+    date: January 2021
     event: "MLA 2021"
-    url: ""
+    url: "/research/2021/mla2021/"
   - title: "Felling the .amazon: The Colonial Geographies of Top-Level Domains"
     institution: Society for Cinema and Media Studies
     location: Denver

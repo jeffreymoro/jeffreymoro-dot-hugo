@@ -1,6 +1,6 @@
 # Hi, I'm Jeffrey Moro.
 
-<img src="/img/selfie-fall.jpg" class="selfie"/>
+<img src="/img/selfie-spring.jpg" class="selfie"/>
 
 I'm a researcher, writer, and erstwhile computer programmer interested in how media technologies facilitate our cultural understanding of the natural world. I'm working on a PhD in English with a certificate in Digital Studies at the [University of Maryland](http://english.umd.edu). I'm also the [Winnemore Digital Humanities Dissertation Fellow](https://mith.umd.edu/introducing-jeffrey-moro-2020-winnemore-fellow/) at the [Maryland Institute for Technology in the Humanities](https://mith.umd.edu/). 
 
