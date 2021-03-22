@@ -7,7 +7,7 @@ institution: University of Maryland, College Park
 number: ENGL245
 ---
 
-*Revised 4 Feb 2021. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the [.pdf version](/files/engl245_s21_2021-01-14.pdf).*
+*Revised 22 March 2021. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the [.pdf version](/files/engl245_s21_2021-01-14.pdf).*
 
 ## Description
 
@@ -42,19 +42,12 @@ The films we will watch this semester are:
 - *Daisies* (Věra Chytilová, 1966)
 - *Blue Velvet* (David Lynch, 1986)
 - *Tokyo Story* (Ozu Yasujirō, 1953)
-- *The Conversation* (Francis Ford Coppola, 1974) + *Hacked Circuit* (Deborah Stratman, 2014)
+- *The Conversation* (Francis Ford Coppola, 1974)
 - *Nausicaa of the Valley of the Wind* (Miyazaki Hayao, 1984)
 - *Paris is Burning* (Jennie Livingston, 1990) + *Black Panthers* (Agnès Varda, 1968)
 - Selected short films by John Whitney, Lillian Schwartz, Dara Birnbaum, Takeshi Murata, and Cory Arcangel
 - *Mad Max: Fury Road* (George Miller, 2015)
 - *Russian Doll* (Natasha Lyonne, Leslye Headland, and Amy Poehler, 2019)
-
-In addition, I will be screening four other films throughout the semester as part of one of your assignments. I will probably vary these as the semester goes on and I get to know you and your tastes better, but for now I anticipate I will screen:
-
-- *Branded to Kill* (Suzuki Seijun, 1967)
-- *Female Trouble* (John Waters, 1974)
-- *Killer of Sheep* (Charles Burnett, 1978)
-- *Night Moves* (Kelly Reichardt, 2013)
 
 You are welcome to watch these films in any manner you can. I will upload all of them to ELMS for streaming; you can also find many through a variety of streaming services, particularly the [Criterion Channel](https://criterionchannel.com/). We will also screen a variety of short films and excerpts in class. 
 
@@ -114,7 +107,7 @@ You can choose either to do the editing project *or* the movie review essay. You
 
 ### Movie review essay
 
-Cinema is a popular art form whose academic study emerged only after decades of its broader development. Much of our contemporary interaction with film criticism comes not from academia, but from popular reviews, whether traditional written reviews in newspapers and magazines or multimedia engagements on the internet. For this assignment, you'll review a film in a short (c. 1000 words) essay. You should select a film that's new to you (in an ideal world, one that comes out during the semester, although the pandemic has made such a requirement difficult, if not impossible!) and not one that we discuss in class. You are welcome, however, to write about one of the four extra films that we screen outside of class. 
+Cinema is a popular art form whose academic study emerged only after decades of its broader development. Much of our contemporary interaction with film criticism comes not from academia, but from popular reviews, whether traditional written reviews in newspapers and magazines or multimedia engagements on the internet. For this assignment, you'll review a film in a short (c. 1000 words) essay. You should select a film that's new to you (in an ideal world, one that comes out during the semester, although the pandemic has made such a requirement difficult, if not impossible!) and not one that we discuss in class.
 
 You can choose either to do the movie review essay *or* the editing project. You don't have to do both!
 
@@ -183,7 +176,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
 
 - *Tokyo Story* (Ozu Yasujirō, 1953)
 - *Read*:
-  - TBD
+  - no readings
 - *Due*: Comparative essay due Thu 25 March. 
 
 ### Week 10, March 30th / April 1st: Sound
@@ -191,7 +184,6 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
 - *The Conversation* (Francis Ford Coppola, 1974)
 - *Hacked Circuit* (Deborah Stratman, 2014)  
 - *Read*:
-  - excerpts from Michel Chion, *Audio-Vision*
   - Bordwell/Thompson, chapter 7, "Sound in the Cinema"
 
 ### Week 11, April 6/8th: Animation
@@ -230,7 +222,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
 
 - *Russian Doll* (Natasha Lyonne, Leslye Headland, and Amy Poehler, 2019)
 - *Read*:
-  - TBD
+  - no readings
 
 ### Week 16, May 11th: Final Class
 
