@@ -182,7 +182,6 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
 ### Week 10, March 30th / April 1st: Sound
 
 - *The Conversation* (Francis Ford Coppola, 1974)
-- *Hacked Circuit* (Deborah Stratman, 2014)  
 - *Read*:
   - Bordwell/Thompson, chapter 7, "Sound in the Cinema"
 
