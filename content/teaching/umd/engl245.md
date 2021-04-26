@@ -7,7 +7,7 @@ institution: University of Maryland, College Park
 number: ENGL245
 ---
 
-*Revised 22 March 2021. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the [.pdf version](/files/engl245_s21_2021-01-14.pdf).*
+*Revised 26 April 2021. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the [.pdf version](/files/engl245_s21_2021-01-14.pdf).*
 
 ## Description
 
@@ -209,7 +209,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
   - selections from Andrew Johnston, *Pulses of Absraction*
 - *Due*: Editing assignment *or* movie review essay due Thu Apr 22. 
 
-### Week 14, April 27/29th: Action
+### Week 14, April 27th: Action
 
 - *Mad Max: Fury Road* (George Miller, 2015)
 - *Read*:
@@ -217,16 +217,15 @@ Our "final exam," such as it is, takes the form of three short essays of c. 500 
   - Matt Zoller Seitz, ["Disney Is Quietly Placing Classic Fox Movies Into Its Vault, and That’s Worrying"](https://www.vulture.com/2019/10/disney-is-quietly-placing-classic-fox-movies-into-its-vault.html)
 - *Due*: Review essay due Thu 29 Apr.
 
-### Week 15, May 4/6th: Streaming
+NB: Class is cancelled on Thursday. 
+
+### Week 15, May 4/11th: Streaming
 
 - *Russian Doll* (Natasha Lyonne, Leslye Headland, and Amy Poehler, 2019)
 - *Read*:
   - no readings
 
-### Week 16, May 11th: Final Class
-
-- No assigned readings or viewings. We'll decide later in the semester how we want to use this final class. I will also hold it on the off chance that we need to cancel a class (snow day, pandemic, revolt against the government, etc.).
-- *Due*: Final essays due Tue 11 May. 
+NB: Class is cancelled on Thursday. We will extend our conversation about *Mad Max*, *Russian Doll*, and the futures of cinema to Tuesday May 11th. The final "exam" for this class is due by 12:30 PM on Monday May 17th, in accordance with UMD regulations about timing exams. Please note that I cannot grant extensions on the final exam. 
 
 ## Acknowledgements
 
