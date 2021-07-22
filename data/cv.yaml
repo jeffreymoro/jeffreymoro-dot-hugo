@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2020-11-09.pdf"
+  link: "cv-2021-07-22.pdf"
 
 ########### Contact ###########
 contact:
@@ -29,9 +29,13 @@ education:
 
 ########### Employment ###########
 employment:
+  - title: Research Assistant
+    company: Maryland Institute for Technology in the Humanities
+    date: "2021–Present"
+    context: ""
   - title: Graduate Instructor
-    company: University of Maryland
-    date: "2018–Present"
+    company: University of Maryland Dept. of English
+    date: "2018–2021"
     context: "As a graduate instructor, I teach a mixture of courses in digital media studies, film studies, and composition."
   - title: Site Manager
     company: "*Romantic Circles*"
@@ -49,11 +53,16 @@ monographs:
 edited:
 
 journals:
+  - title: "Counting Feeling: Affect Theory and Sentiment Analysis in TextBlob"
+    journal: DHQ
+    number: "Special Issue on Critical Code Studies"
+    date: "(under review)"
+    url: ""
   - title: "Air-conditioning the Internet: Data Center Securitization as Atmospheric Media"
     journal: Media Fields
     number: "no. 16: Life Cycles"
-    date: "2020 (in press)"
-    url: ""
+    date: "2021"
+    url: "http://mediafieldsjournal.org/air-conditioning-the-internet/"
   - title: "Grid Techniques for a Planet in Crisis: The Infrastructures of Weather Prediction"
     journal: Amodern
     number: "vol. 9: Techniques and Technologies"
@@ -64,8 +73,8 @@ reviews:
   - title: "Collective Tissue"
     journal: Qui Parle
     number: "Special Forum: Breath / Inhale : Exhale"
-    date: "2021 (forthcoming)"
-    url: ""
+    date: "2021"
+    url: "https://muse.jhu.edu/article/797223"
 
 web:
   - title: "Dance Apocalyptic: Tim Maughan's *Infinite Detail* and Media after the Internet"
@@ -82,6 +91,12 @@ other:
 ########### Talks ###########
 
 conferenceTalks:
+  - title: 'Cutting the Feeling: Affect and Digital Memory in ‘Storm Data and Unusual Weather Phenomena’'
+    institution: Society for the Social Studies of Science
+    location: Toronto/Virtual
+    date: October 2021
+    event: "4S 2021"
+    url: ""
   - title: 'Air Under Lockdown: Temperature and Security in the Global Data Center'
     institution: Society for Cinema and Media Studies
     location: Virtual
@@ -183,13 +198,13 @@ conferenceOther:
 
 ########### Awards ###########
 fellowships:
+  - title: Departmental Summer Fellowship
+    date: 2020, 2021
+    secondary: From the UMD English Department
+    latex: ""
   - title: Winnemore Digital Humanities Dissertation Fellowship
     date: 2020
     secondary: From the Maryland Institute for Technology in the Humanities
-    latex: ""
-  - title: Departmental Summer Fellowship
-    date: 2020
-    secondary: From the UMD English Department
     latex: ""
   - title: Flagship Fellowship
     date: "2016–Present"
