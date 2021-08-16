@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2021-07-22.pdf"
+  link: "cv-2021-08-16.pdf"
 
 ########### Contact ###########
 contact:
@@ -20,7 +20,7 @@ profile: "I&rsquo;m a doctoral candidate in English at the University of Marylan
 education:
   - institution: University of Maryland
     degree: Ph.D, English
-    date: "2021 (Expected)"
+    date: "2022 (Expected)"
     awards: certificate in Digital Studies
   - institution: Amherst College
     degree: BA, English; BA, Theater & Dance
@@ -29,11 +29,11 @@ education:
 
 ########### Employment ###########
 employment:
-  - title: Research Assistant
+  - title: Research and Grants Assistant
     company: Maryland Institute for Technology in the Humanities
     date: "2021–Present"
     context: ""
-  - title: Graduate Instructor
+  - title: Instructor
     company: University of Maryland Dept. of English
     date: "2018–2021"
     context: "As a graduate instructor, I teach a mixture of courses in digital media studies, film studies, and composition."
@@ -66,10 +66,15 @@ journals:
   - title: "Grid Techniques for a Planet in Crisis: The Infrastructures of Weather Prediction"
     journal: Amodern
     number: "vol. 9: Techniques and Technologies"
-    date: "April 2020"
+    date: "2020"
     url: "https://amodern.net/article/grid-techniques/"
 
 reviews:
+  - title: "Review of *Lightning Birds: An Aeroecology of the Airwaves* by Jacob Smith"
+    journal: ISLE
+    number: "In press"
+    date: "2021"
+    url: ""
   - title: "Collective Tissue"
     journal: Qui Parle
     number: "Special Forum: Breath / Inhale : Exhale"
@@ -276,7 +281,7 @@ workshop:
 
 ########### Digital ###########
 projects:
-  - title: "Our Beloved Kin: Remapping a New History of King Philip's War"
+  - title: "Our Beloved Kin: Remapping a New History of King Philip’s War"
     role: Designer
     url: "https://ourbelovedkin.com"
     date: "2016–19"
