@@ -6,7 +6,7 @@ tags:
 - dissertation
 ---
 
-*On April 1st, 2022, I defended my dissertation, "Atmospheric Media: Computation and the Environmental Imagination," and became a doctor. Below is the text of the talk I gave at the top of my defense, which explores the project's argument, context, and possible future.*
+*On April 1st, 2022, I defended my dissertation, "Atmospheric Media: Computation and the Environmental Imagination," and became a doctor. Below is the text of the talk I gave at the top of my defense, which explores the project's argument, context, and next steps.*
 
 <!--more-->
 
