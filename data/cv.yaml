@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2021-08-16.pdf"
+  link: "cv-2022-04-03.pdf"
 
 ########### Contact ###########
 contact:
@@ -13,14 +13,11 @@ contact:
   twitter: \@jeffreymoro
   github: github.com/jeffreymoro
 
-########### Profile ###########
-profile: "I&rsquo;m a doctoral candidate in English at the University of Maryland, College Park, where I work at the crossroads of digital media studies and the environmental humanities. I&rsquo;m writing a dissertation titled “Atmospheric Media: Computation and the Environmental Imagination,” which explores how we use computers to imagine the air as a computer. Some of my other research interests include: weather forecasting, speculative fiction, nuclear cultures, digital humanities, cybersecurity, media archaeology, biopolitics, and software emulation."
-
 ########### Education ###########
 education:
   - institution: University of Maryland
     degree: Ph.D, English
-    date: "2022 (Expected)"
+    date: "2022"
     awards: certificate in Digital Studies
   - institution: Amherst College
     degree: BA, English; BA, Theater & Dance
@@ -29,8 +26,8 @@ education:
 
 ########### Employment ###########
 employment:
-  - title: Research and Grants Assistant
-    company: Maryland Institute for Technology in the Humanities
+  - title: Research Assistant
+    company: African American Digital and Experimental Humanities (AADHum) Initiative
     date: "2021–Present"
     context: ""
   - title: Instructor
@@ -72,8 +69,8 @@ journals:
 reviews:
   - title: "Review of *Lightning Birds: An Aeroecology of the Airwaves* by Jacob Smith"
     journal: ISLE
-    number: "Forthcoming"
-    date: "2021"
+    number: "Vol. 28, Issue 4"
+    date: "Winter 2021"
     url: "https://academic.oup.com/isle/advance-article/doi/10.1093/isle/isab080/6372410?guestAccessKey=51555f8e-bc6a-4bf0-8682-40092c37d7f1"
   - title: "Collective Tissue"
     journal: Qui Parle
