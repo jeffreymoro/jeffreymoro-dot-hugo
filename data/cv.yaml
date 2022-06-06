@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2022-04-03.pdf"
+  link: "cv-2022-06-06.pdf"
 
 ########### Contact ###########
 contact:
@@ -26,9 +26,13 @@ education:
 
 ########### Employment ###########
 employment:
-  - title: Research Assistant
+  - title: Clinical Assistant Professor
     company: African American Digital and Experimental Humanities (AADHum) Initiative
-    date: "2021–Present"
+    date: "2022–Present"
+    context: ""
+  - title: Research Fellow
+    company: African American Digital and Experimental Humanities (AADHum) Initiative
+    date: "2021–2022"
     context: ""
   - title: Instructor
     company: University of Maryland Dept. of English
