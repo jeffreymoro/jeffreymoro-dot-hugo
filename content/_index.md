@@ -2,7 +2,7 @@
 
 <img src="/img/selfie-website.jpg" class="selfie"/>
 
-I'm a researcher, writer, and occasional computer programmer interested in how media technologies facilitate our cultural understanding of the natural world. I work as a Clinical Assistant Professor with the [African American Digital and Experimental Humanities (AADHum) Initiative](https://aadhum.umd.edu) at the University of Maryland, where I also received a PhD in English with a certificate in Digital Studies. 
+I'm a researcher, writer, and occasional computer programmer interested in how media technologies facilitate our cultural understanding of the natural world. I hold the position of Assistant Clinical Professor of Digital Humanities and Digital Studies with the [African American Digital and Experimental Humanities (AADHum) Initiative](https://aadhum.umd.edu) at the University of Maryland, where I also received a PhD in English. 
 
 [My recently completed doctoral dissertation](https://jeffreymoro.com/blog/2022-04-01-defense-talk/) is a book project titled "Atmospheric Media: Computation and the Environmental Imagination." It's a cultural study of how we mediate the air as data, touching a variety of registers from HVAC systems in data centers to Twitter bots about space probes to the toxic fumes of 3D printing. My writing has appeared in [*Amodern*](https://amodern.net/author/jmoro/), [*Media Fields*](http://mediafieldsjournal.org/air-conditioning-the-internet/), [*Qui Parle*](https://muse.jhu.edu/article/797223), and the [*Los Angeles Review of Books*](https://lareviewofbooks.org/contributor/jeffrey-moro). 
 
