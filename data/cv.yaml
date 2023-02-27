@@ -57,7 +57,7 @@ journals:
   - title: "Counting Feeling: Affect Theory and Sentiment Analysis in TextBlob"
     journal: DHQ
     number: "Special Issue on Critical Code Studies"
-    date: "(under review)"
+    date: "Forthcoming"
     url: ""
   - title: "Air-conditioning the Internet: Data Center Securitization as Atmospheric Media"
     journal: Media Fields
@@ -71,6 +71,11 @@ journals:
     url: "https://amodern.net/article/grid-techniques/"
 
 reviews:
+  - title: "Review of *Climatic Media: Transpacific Experiments in Atmospheric Control* by Yuriko Furuhata"
+    journal: Journal of Environmental Media
+    number: 4.1
+    date: Forthcoming
+    url: ""
   - title: "Review of *Lightning Birds: An Aeroecology of the Airwaves* by Jacob Smith"
     journal: ISLE
     number: "Vol. 28, Issue 4"
@@ -247,13 +252,13 @@ awards:
 coursesUMD:
   - title: "Film Form and Culture"
     date: 2020, 2021
-    url: "/teaching/umd/engl245/"
+    url: ""
   - title: "Introduction to Digital Studies"
     date: 2019
-    url: "/teaching/umd/engl290/"
+    url: ""
   - title: "Academic Writing"
     date: 2018, 2019
-    url: "/teaching/umd/engl101/"
+    url: ""
 
 coursesSmith:
   - title: "Media Archaeology, Climate Change, and the Digital (Non)humanities"
@@ -340,6 +345,6 @@ skills:
   - title: "Human-Adjacent Languages"
     things: "French (reading), Spanish (reading)"
   - title: "Computer-Adjacent Languages"
-    things: "HTML, CSS/SASS, Jekyll + Liquid templating, Hugo + Go Templating, Javascript, TEI, LaTeX, Python"
+    things: "HTML, CSS/SASS, Jekyll + Liquid templating, Hugo + Go Templating, Javascript, TEI, LaTeX, Python, Natural Language Processing with NLTK"
 
 ---

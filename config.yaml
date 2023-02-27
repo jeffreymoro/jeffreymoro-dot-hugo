@@ -27,12 +27,12 @@ menu:
     - name: CV
       url: /cv/
       weight: 2
-    - name: Research
-      url: /research/
-      weight: 3
-    - name: Teaching
-      url: /teaching/
-      weight: 4
+    # - name: Research
+    #  url: /research/
+    #  weight: 3
+    # - name: Teaching
+    #  url: /teaching/
+    #  weight: 4
     - name: Blog
       url: /blog/
       weight: 5
