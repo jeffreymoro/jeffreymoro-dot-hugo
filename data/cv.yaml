@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2022-06-06.pdf"
+  link: "cv-2023-03-01.pdf"
 
 ########### Contact ###########
 contact:
@@ -9,7 +9,7 @@ contact:
     first: Jeffrey
     last: Moro
   url: jeffreymoro.com
-  mail: jm@jeffreymoro.com
+  mail: jmoro@umd.edu
   twitter: \@jeffreymoro
   github: github.com/jeffreymoro
 
@@ -27,15 +27,15 @@ education:
 ########### Employment ###########
 employment:
   - title: Assistant Clinical Professor of Digital Humanities and Digital Studies
-    company: African American Digital and Experimental Humanities (AADHum) Initiative
+    company: African American Digital and Experimental Humanities (AADHum) Initiative, University of Maryland (UMD)
     date: "2022–Present"
     context: ""
   - title: Research Fellow
-    company: African American Digital and Experimental Humanities (AADHum) Initiative
+    company: AADHum Initiative, UMD
     date: "2021–2022"
     context: ""
   - title: Instructor
-    company: University of Maryland Dept. of English
+    company: UMD Dept. of English
     date: "2018–2021"
     context: "As a graduate instructor, I teach a mixture of courses in digital media studies, film studies, and composition."
   - title: Site Manager
