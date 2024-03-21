@@ -1,9 +1,0 @@
-<div class="cv-pub-list">
-    <ul>
-        {{ range .Site.Data.cv.employment }}
-        <li>
-            {{ .title }}. {{ .date }}. {{ .company | markdownify }}.
-        </li>
-        {{ end }}
-    </ul>
-</div>

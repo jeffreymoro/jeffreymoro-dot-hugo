@@ -1,11 +1,11 @@
 <div>
-	<h3>Peer-Reviewed Articles</h3>
-	{{ range .Site.Data.research.journals }}
+	<h3>Articles & Chapters</h3>
+	{{ range .Site.Data.research.articles }}
 	<div class="research-title">
 		{{ if ne .url "" }}
-		<a href="{{ .url }}">&ldquo;{{ .title }}.&rdquo;</a>
+		<a href="{{ .url }}">&ldquo;{{ .title | markdownify }}.&rdquo;</a>
 		{{ else }}
-		&ldquo;{{ .title }}.&rdquo;
+		&ldquo;{{ .title | markdownify }}.&rdquo;
 		{{ end }}
 	</div>
 	<div class="research-meta">
@@ -18,13 +18,13 @@
 </div>
 
 <div>
-	<h3>Short Articles & Reviews</h3>
+	<h3>Reviews & Short Pieces</h3>
 	{{ range .Site.Data.research.reviews }}
 	<div class="research-title">
 		{{ if ne .url "" }}
-		<a href="{{ .url }}">&ldquo;{{ .title }}.&rdquo;</a>
+		<a href="{{ .url }}">&ldquo;{{ .title | markdownify }}.&rdquo;</a>
 		{{ else }}
-		&ldquo;{{ .title }}.&rdquo;
+		&ldquo;{{ .title | markdownify }}.&rdquo;
 		{{ end }}
 	</div>
 	<div class="research-meta">

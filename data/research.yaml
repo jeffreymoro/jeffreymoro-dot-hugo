@@ -1,14 +1,30 @@
+########### Meta ###########
+meta:
+  link: "moro_cv-2024-03-21.pdf"
+
 ########### Publications ###########
 monographs:
 
-edited:
-
-journals:
+articles:
+  - title: "Measuring the Sky from the Curve of the Earth"
+    venue: "Media Matters in Landscape Architecture"
+    number: "eds. Karen M'Closkey and Keith VanDerSys. ORO Editions"
+    date: "In Press"
+    url: ""
+    permalink: ""
+    snippet: ""
+  - title: "Counting Feeling: Affect Theory and Sentiment Analysis in TextBlob"
+    venue: "Digital Humanities Quarterly (DHQ)"
+    number: "Special Issue on Critical Code Studies II"
+    date: "Forthcoming"
+    url: ""
+    permalink: ""
+    snippet: ""
   - title: "Air-conditioning the Internet: Data Center Securitization as Atmospheric Media"
     venue: Media Fields
     number: "no. 16: Life Cycles"
-    date: "2020 (in press)"
-    url: ""
+    date: "2021"
+    url: "http://mediafieldsjournal.org/air-conditioning-the-internet/"
     permalink: ""
     snippet: "An article about the total heat death that awaits all data and the infrastructural technologies data centers employ to delay it, although they can never eliminate it entirely."
   - title: "Grid Techniques for a Planet in Crisis: The Infrastructures of Weather Prediction"
@@ -20,13 +36,27 @@ journals:
     snippet: "An article about computational weather prediction and cultural techniques, featuring extreme weather, cartographic aesthetics, and more calculus than you might expect."
 
 reviews:
+  - title: "Review of <em>Climatic Media: Transpacific Experiments in Atmospheric Control</em>, by Yuriko Furuhata"
+    venue: Journal of Environmental Media
+    number: "vol. 4, no. 1"
+    date: "2023"
+    url: "https://doi.org/10.1386/jem_00102_5"
+    permalink: ""
+    snippet: ""
   - title: "Collective Tissue"
     venue: Qui Parle
-    number: "Special Forum: Breath / Inhale : Exhale"
-    date: "2021 (forthcoming)"
-    url: ""
+    number: "vol. 30, no. 1. Special Forum: Breath / Inhale : Exhale"
+    date: "2021"
+    url: "https://doi.org/10.1215/10418385-8955857"
     permalink: ""
     snippet: "A brief reflection on the human breath and the mediation of geologic time."
+  - title: "Review of <em>Lightning Birds: An Aeroecology of the Airwaves</em>, by Jacob Smith"
+    venue: ISLE
+    number: "vol. 28, no. 4"
+    date: "2021"
+    url: "https://doi.org/10.3998/mpub.11714652"
+    permalink: ""
+    snippet: ""
 
 web:
   - title: "Dance Apocalyptic: Tim Maughan’s <em>Infinite Detail</em> and Media After the Internet"
@@ -46,7 +76,31 @@ other:
 
 ########### Talks ###########
 
-conferenceTalks:
+conferences:
+  - title: 'The Dawn Chorus'
+    snippet: ""
+    conference: "MSA 2023"
+    institution: Modernist Studies Association
+    location: Brooklyn, NY
+    date: Oct 2023
+    panel: "Modernism and the Poetics of Noise"
+    url: ""
+  - title: 'Music of the Sferics'
+    snippet: ""
+    conference: "Sensing + Elementality"
+    institution: Canadian Centre for Architecture
+    location: Montréal, QC
+    date: Aug 2023
+    panel: ""
+    url: ""
+  - title: "Cutting the Feeling: Affect and Digital Memory in 'Storm Data and Unusual Weather Phenomena'"
+    snippet: ""
+    conference: "Society for the Social Study of Science"
+    institution: 4S
+    location: Virtual
+    date: Sept 2021
+    panel: ""
+    url: ""
   - title: 'Air Under Lockdown: Temperature and Security in the Global Data Center'
     snippet: "Continuing my ongoing research into HVAC in data centers, this talk explores the technology's relationship to the maintenance of the security state."
     conference: "SCMS 2021"
@@ -71,6 +125,24 @@ conferenceTalks:
     date: October 2019
     panel: "Managing Media’s Environments"
     url: "/research/2019/asap2019"
+  - title: "Environmental Justice and the Digital Humanities"
+    snippet: 'A roundtable I chaired with Purdom Lindblad, Gabriela Baeza Ventura, and Kim Bain on strategies for centering environmental justice and decolonial thinking in digital humanities work.'
+    conference: ACH 2019
+    institution: Association for Computers and the Humanities
+    location: Pittsburgh, PA
+    date: July 2019
+    panel: ""
+    event: "ACH 2019"
+    url: "https://environmental-dh.github.io/"  
+  - title: "Breath Control: 3D Printing and Environmental Media"
+    snippet: 'A poster version of an alternate universe version of my first dissertation chapter, developing environmental approaches to maker culture and media toxicity.'
+    conference: ACH 2019
+    institution: Association for Computers and the Humanities
+    location: Pittsburgh, PA
+    date: July 2019
+    panel: ""
+    event: "ACH 2019"
+    url: ""  
   - title: "Want of Water, Want of Data: The Trans-Atlantic Slave Trade Database and Oceanic Computing"
     snippet: "How might digital humanities projects negotiate the ethical challenges of the Middle Passage? And what can environmental and oceanic critique teach us about how to value indeterminacy in data-driven work?"
     conference: Stored in Memory
@@ -97,6 +169,15 @@ conferenceTalks:
     panel: The Environmental and Human Costs of DH
     event: "Digital Humanities 2017"
     url: "/research/2017/dh2017"
+  - title: "Surfaces, Standards, Layers, Stacks: Toward a Platform Textuality"
+    snippet: 'A roundtable with Kyle Bickoff and Setsuko Yokoyama on the textuality of platforms. My paper close reads the GitHub repository of Paul Ford’s “What is Code?” to think through the version control site’s pervasive logics of hypervisibility and auto-surveillance.'
+    conference: Textual Embodiments
+    institution: Society for Textual Scholarship and MITH
+    location: College Park, MD
+    date: May 2017
+    panel: ""
+    event: "Textual Embodiments"
+    url: "/research/2017/sts"
   - title: "Vapor Ware, or the Odors of 3D Printing"
     snippet: "Part of a deformance/panel with Kyle Bickoff, Setsuko Yokoyama, and Andy Yeh engaging 3D printing technologies across media archaeological and archival registers. My contribution uses smell as an entrypoint to explore movements of manufacturing and affect in plastics production."
     conference: R-CADE 2017 Symposium
@@ -115,44 +196,6 @@ conferenceTalks:
     panel: "The Fiction of Neutral Tools"
     event: "Command Lines: Software, Power, Performance"
     url: "/research/2017/sigcis"
-  - title: "Undergraduate Digital Humanities, Three Ways"
-    snippet: "I was invited to speak at a NERCOMP (Northeast Regional Computing Program) conference called “Emerging Digital Scholars: Undergraduates and Digital Humanities” on strategies Five College Digital Humanities uses to encourage student research and engagement with the digital humanities."
-    conference: "Emerging Digital Scholars: Undergraduates and DH"
-    institution: NERCOMP
-    location: Norwood, MA
-    date: April 2014
-    panel: ""
-    event: "Emerging Digital Scholars: Undergraduates and Digital Humanities"
-    url: ""
-
-conferenceOther:
-  - title: "Environmental Justice and the Digital Humanities"
-    snippet: 'A roundtable I chaired with Purdom Lindblad, Gabriela Baeza Ventura, and Kim Bain on strategies for centering environmental justice and decolonial thinking in digital humanities work.'
-    conference: ACH 2019
-    institution: Association for Computers and the Humanities
-    location: Pittsburgh, PA
-    date: July 2019
-    panel: ""
-    event: "ACH 2019"
-    url: "https://environmental-dh.github.io/"  
-  - title: "Breath Control: 3D Printing and Environmental Media"
-    snippet: 'A poster version of an alternate universe version of my first dissertation chapter, developing environmental approaches to maker culture and media toxicity.'
-    conference: ACH 2019
-    institution: Association for Computers and the Humanities
-    location: Pittsburgh, PA
-    date: July 2019
-    panel: ""
-    event: "ACH 2019"
-    url: ""  
-  - title: "Surfaces, Standards, Layers, Stacks: Toward a Platform Textuality"
-    snippet: 'A roundtable with Kyle Bickoff and Setsuko Yokoyama on the textuality of platforms. My paper close reads the GitHub repository of Paul Ford’s “What is Code?” to think through the version control site’s pervasive logics of hypervisibility and auto-surveillance.'
-    conference: Textual Embodiments
-    institution: Society for Textual Scholarship and MITH
-    location: College Park, MD
-    date: May 2017
-    panel: ""
-    event: "Textual Embodiments"
-    url: "/research/2017/sts"
   - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
     snippet: 'A poster emerging from <a href="http://gaming.thecritical.is">The_Critical_Is</a>, engaging new approaches to critical video game pedagogy.'
     conference: "HASTAC 2015"
@@ -161,6 +204,15 @@ conferenceOther:
     date: May 2015
     panel: ""
     event: "HASTAC 2015: The Art and Science of Digital Humanities"
+    url: ""
+  - title: "Undergraduate Digital Humanities, Three Ways"
+    snippet: "I was invited to speak at a NERCOMP (Northeast Regional Computing Program) conference called “Emerging Digital Scholars: Undergraduates and Digital Humanities” on strategies Five College Digital Humanities uses to encourage student research and engagement with the digital humanities."
+    conference: "Emerging Digital Scholars: Undergraduates and DH"
+    institution: NERCOMP
+    location: Norwood, MA
+    date: April 2014
+    panel: ""
+    event: "Emerging Digital Scholars: Undergraduates and Digital Humanities"
     url: ""
 
 ########### Projects ###########
