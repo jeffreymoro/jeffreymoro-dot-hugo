@@ -1,11 +1,18 @@
 ########### Meta ###########
 meta:
-  link: "moro_cv-2024-03-21.pdf"
+  link: "moro_cv-2024-03-25.pdf"
 
 ########### Publications ###########
 monographs:
 
 articles:
+  - title: "Sensing Sferics: Electromagnetic Noise and Environmental Signal"
+    venue: "Journal of Environmental Media"
+    number: "Special Issue on Sensing + Elementality"
+    date: "Accepted"
+    url: ""
+    permalink: ""
+    snippet: ""
   - title: "Measuring the Sky from the Curve of the Earth"
     venue: "Media Matters in Landscape Architecture"
     number: "eds. Karen M'Closkey and Keith VanDerSys. ORO Editions"
