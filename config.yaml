@@ -25,7 +25,7 @@ menu:
       url: /
       weight: 1
     - name: CV
-      url: /files/moro_cv-2024-03-21.pdf
+      url: /files/moro_cv-2024-03-25.pdf
       weight: 2
     - name: Research
       url: /research/
