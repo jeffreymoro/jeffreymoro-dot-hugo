@@ -7,7 +7,7 @@ pluralizelisttitles: "false"
 
 params:
   blogPaginate: 10
-  description: "vapor / wear"
+  description: "media / nature"
   twitter:
     site: "jeffreymoro"
     creator: "jeffreymoro"
